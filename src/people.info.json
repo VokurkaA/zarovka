@@ -1,0 +1,100 @@
+[
+    {
+        "full_name": "ing. arch. maxmilian vlček",
+        "position": "autorizovaný architekt",
+        "mobile": "+420 777 246 488",
+        "email": "vlcek@zarovkaarchitekti.cz",
+        "ics": "1356 4706"
+    },
+    {
+        "full_name": "mga. šárka dlouhá",
+        "position": "autorizovaný architekt",
+        "mobile": "+420 605 132 461",
+        "email": "dlouha@zarovkaarchitekti.cz",
+        "ics": "6836 9531"
+    },
+    {
+        "full_name": "ing. arch. kateřina karešová",
+        "position": "architekt",
+        "mobile": "+420 605 744 198",
+        "email": "karesova@zarovkaarchitekti.cz",
+        "ics": "0615 9991"
+    },
+    {
+        "full_name": "ing. arch. marek vlček",
+        "position": "architekt",
+        "mobile": "+420 775 099 124",
+        "email": "marekvlcek@zarovkaarchitekti.cz",
+        "ics": "0763 2207"
+    },
+    {
+        "full_name": "ing. martina hepnerová",
+        "position": "autorizovaný stavební inženýr",
+        "mobile": "+420 775 666 292",
+        "email": "hepnerova@zarovkaarchitekti.cz",
+        "ics": "7473 4393"
+    },
+    {
+        "full_name": "ing. arch. vladimír šolc",
+        "position": "autorizovaný architekt",
+        "mobile": "+420 777 820 787",
+        "email": "solc@zarovkaarchitekti.cz",
+        "ics": "6743 6927"
+    },
+    {
+        "full_name": "ing. arch. jana rejsková",
+        "position": "architekt",
+        "mobile": "+420 605 214 244",
+        "email": "rejskova@zarovkaarchitekti.cz",
+        "ics": "7557 9561"
+    },
+    {
+        "full_name": "ing. arch. kateřina novotná",
+        "position": "autorizovaný architekt",
+        "mobile": "+420 724 123 637",
+        "email": "novotna@zarovkaarchitekti.cz",
+        "ics": "7384 2419"
+    },
+    {
+        "full_name": "ing. tomáš jochec",
+        "position": "autorizovaný stavební inženýr",
+        "mobile": "+420 774 866 271",
+        "email": "jochec@zarovkaarchitekti.cz",
+        "ics": "1012662616"
+    },
+    {
+        "full_name": "ing. jan heger",
+        "position": "autorizovaný stavební inženýr",
+        "mobile": "+420 775 148 537",
+        "email": "heger@zarovkaarchitekti.cz",
+        "ics": null
+    },
+    {
+        "full_name": "ing. arch. pavel zadrobílek",
+        "position": "autorizovaný architekt",
+        "mobile": "+420 776 736 160",
+        "email": "zadrobilek@zarovkaarchitekti.cz",
+        "ics": "4441 4471"
+    },
+    {
+        "full_name": "ing. arch. jan ondrák",
+        "position": "architekt",
+        "mobile": "+420 774 246 924",
+        "email": "ondrak@zarovkaarchitekti.cz",
+        "ics": "0207 5717"
+    },
+    {
+        "full_name": "ing. arch. lucia vlčková",
+        "position": "architekt",
+        "mobile": "+420 721 014 624",
+        "email": "vlckova@zarovkaarchitekti.cz",
+        "ics": "0822 2738"
+    },
+    {
+        "full_name": "ing. josef matoušek",
+        "position": "autorizovaný stavební inženýr",
+        "mobile": "+420 775 704 605",
+        "email": "matousek@zarovkaarchitekti.cz",
+        "ics": "6681 4464"
+    }
+]
