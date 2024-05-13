@@ -2,7 +2,7 @@ import { useTranslation } from 'react-i18next'
 
 import house1 from './img/house_1.webp';
 
-function About_us() {
+function AboutUs() {
     const { t } = useTranslation();
 
     return (
@@ -11,8 +11,8 @@ function About_us() {
                 <h2>{t("About_us")}</h2>
                 <p>{t("About_text")}</p>
             </article>
-            <img className='w-full h-80 md:h-96 object-cover my-auto' src={house1} alt='Picture of a house'></img>
+            <img className='w-full h-80 md:h-96 object-cover my-auto' src={house1} alt='A house'></img>
         </div>
     )
 }
-export default About_us;
+export default AboutUs;

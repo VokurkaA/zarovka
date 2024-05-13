@@ -35,7 +35,8 @@
     "rekonstrukce": "Rekonstrukce", 
     "urbanismus" : "Urbanismus",
     "showing" : "Zobrazeno",
-    "results" : "výslednů mezi lety",
-    "and" : "a",
+    "resultsM" : " výslednů mezi lety ",
+    "resultsS" : " výsledků v roce ",
+    "and" : " a ",
     "category" : "v kategorii"
 }

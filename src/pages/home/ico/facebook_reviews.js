@@ -10,7 +10,7 @@ function Reviews() {
         <a className='flex flex-col bg-accent items-center shadow-md w-56 justify-center p-6 rounded-xl hover:scale-[1.01]'
             href='https://www.facebook.com/zarovka/reviews'
             target='_blank'
-            rel="noopener">
+            rel="noopener noreferrer">
             <Facebook />
             <div className='flex flex-row'>
                 <p className='font-bold mr-2 text-xl'>5.0</p>

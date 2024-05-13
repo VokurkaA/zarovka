@@ -1,6 +1,6 @@
 import { useTranslation } from 'react-i18next'
 
-function Why_us() {
+function WhyUs() {
     const { t } = useTranslation();
 
     return (
@@ -23,4 +23,4 @@ function Why_us() {
         </article>
     )
 }
-export default Why_us;
+export default WhyUs;

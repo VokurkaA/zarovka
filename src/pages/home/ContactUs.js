@@ -2,12 +2,12 @@ import { useTranslation } from 'react-i18next'
 
 import house2 from './img/house_2.webp'
 
-function Contact_us() {
+function ContactUs() {
     const { t } = useTranslation();
 
     return (
         <div className='grid md:grid-cols-2 gap-4'>
-            <img className='w-full h-80 md:h-full object-cover my-auto' src={house2} alt='Picture of a house'></img>
+            <img className='w-full h-80 md:h-full object-cover my-auto' src={house2} alt='House'></img>
             <form id='contact' className='space-y-6 h-min my-auto'>
                 <h2 className='text-2xl'>{t('CCUs')}</h2>
                 <label className='block'>
@@ -43,4 +43,4 @@ function Contact_us() {
         </div>
     )
 }
-export default Contact_us;
+export default ContactUs;

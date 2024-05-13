@@ -35,7 +35,8 @@
     "rekonstrukce": "Reconstructions", 
     "urbanismus" : "Urbanism",
     "showing" : "Showing",
-    "results" : "results between",
-    "and" : "and",
+    "resultsM" : " results between ",
+    "resultsS" : " results from ",
+    "and" : " and ",
     "category" : "in category"
 }

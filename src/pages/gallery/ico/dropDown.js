@@ -1,6 +1,7 @@
 function DropDown({isRotated}) {
     return (
         <svg
+        id="container"
         className={`h-6 w-6 ${isRotated && 'rotate-180'}`}
             viewBox="0 -960 960 960" >
             <path
