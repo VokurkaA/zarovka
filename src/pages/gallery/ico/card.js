@@ -16,9 +16,8 @@ function Card({ project }) {
     }, [project.cover.src]);
     return (
         <Link to={`/project/${project.link}`}
-            className="flex flex-col flex-1 h-[22rem] min-w-80 rounded-xl shadow-md grayscale 
-            focus:animate-fadeIn hover:animate-fadeIn hover:grayscale-0 hover:scale-[1.005]"
-            >
+            className="flex flex-col flex-1 h-[22rem] rounded-xl shadow-md grayscale 
+            focus:animate-fadeIn hover:animate-fadeIn hover:grayscale-0 hover:scale-[1.005]">
             {image && <img className="h-64 w-full object-cover rounded-xl" loading='lazy' src={image} alt="missing"></img>}
             <div className='px-4 py-5  text-nowrap overflow-hidden'>
                 {name && <h2 className='pb-1 text-xl uppercase'>{name}</h2>}
