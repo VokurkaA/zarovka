@@ -46,8 +46,11 @@ function Gallery() {
             <div className="select-none p-4 px-8 md:px-12 lg:px-24">
                 {filterChips}
                 <h2 className="mb-4">
-                    {t('showing')} {projects.length +1} 
-                    {filterYear.max === filterYear.min ? (t('resultsS') + filterYear.max) : (t('resultsM') + filterYear.max + t('and') + t(filterYear.min))}
+                    {((projects.length === 0 || projects.length > 4) && t('showing0')) || (projects.length === 1 && t('showing1')) || t('showing2')}
+                    {projects.length}
+                    {((projects.length === 0 || projects.length > 4) && t('result0')) || (projects.length === 1 && t('result1')) || t('result2')}
+                    {filterYear.max === filterYear.min ? t('from') + ' ' + filterYear.max : t('between') + filterYear.min + t('and') + filterYear.max}
+                    {/* {filterYear.max === filterYear.min ? (t('resultsS') + filterYear.max) : (t('resultsM') + filterYear.max + t('and') + t(filterYear.min))} */}
                 </h2>
                 <div className="flex flex-row flex-wrap gap-4 font-thin">
                     {projects.map((project, index) => (

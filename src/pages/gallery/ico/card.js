@@ -6,7 +6,7 @@ function Card({ project }) {
     const { t } = useTranslation();
     let name = (project.name.length > 25) ? project.name.substr(0, 23) + '...' : project.name;
     const [image, setImage] = useState(null);
-    
+
     useEffect(() => {
         const loadImage = async () => {
             const imageModule = await import(`../${project.cover.src}`);
@@ -15,7 +15,10 @@ function Card({ project }) {
         loadImage();
     }, [project.cover.src]);
     return (
-        <Link to={`/project/${project.link}`} className="flex flex-col flex-1 h-[22rem] min-w-80 rounded-xl shadow-md grayscale focus:grayscale-0 focus:outline-0 hover:animate-fadeIn hover:grayscale-0 hover:scale-[1.005]">
+        <Link to={`/project/${project.link}`}
+            className="flex flex-col flex-1 h-[22rem] min-w-80 rounded-xl shadow-md grayscale 
+            focus:animate-fadeIn hover:animate-fadeIn hover:grayscale-0 hover:scale-[1.005]"
+            >
             {image && <img className="h-64 w-full object-cover rounded-xl" loading='lazy' src={image} alt="missing"></img>}
             <div className='px-4 py-5  text-nowrap overflow-hidden'>
                 {name && <h2 className='pb-1 text-xl uppercase'>{name}</h2>}
