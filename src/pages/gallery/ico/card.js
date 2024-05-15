@@ -43,7 +43,12 @@ function Card({ project }) {
             ref={projectRef}
             className="flex flex-col flex-1 h-[22rem] rounded-xl shadow-md grayscale 
             focus:animate-fadeIn hover:animate-fadeIn hover:grayscale-0 hover:scale-[1.005]">
-            {image && <img className="h-64 w-full object-cover rounded-xl" loading='lazy' src={image} alt="missing"></img>}
+            <img
+                className='h-64 w-full object-cover rounded-xl'
+                style={{ backgroundColor: `${project.cover.background}` }}
+                src={image}
+                alt='loading...'
+            />
             <div className='px-4 py-5  text-nowrap overflow-hidden'>
                 {name && <h2 className='pb-1 text-xl uppercase'>{name}</h2>}
                 <div className='flex items-center justify-between'>

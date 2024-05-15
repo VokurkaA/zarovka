@@ -1,4 +1,4 @@
-function LgGallery({ image, imageIndex, maxImageIndex, handleNextClick, setIsGalleryVisible, progressBar, setTouchStart, handleTouch }) {
+function LgGallery({ image, background, imageIndex, maxImageIndex, handleNextClick, setIsGalleryVisible, progressBar, setTouchStart, handleTouch }) {
     return (
         <div id='gallery' className={`fixed z-50 h-svh w-svw bg-background/90`}>
             <div className='absolute p-4'>
@@ -22,6 +22,7 @@ function LgGallery({ image, imageIndex, maxImageIndex, handleNextClick, setIsGal
                 {progressBar}
             </div>
             <img className="absolute max-h-[95%] max-w-[95%] object-scale-down right-1/2 translate-x-1/2 -translate-y-1/2 top-1/2"
+                style={{ backgroundColor: `${background}` }}
                 alt="missing"
                 src={image && image.src}
                 onTouchStart={(event) => setTouchStart(event.touches[0].clientX)}

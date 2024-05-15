@@ -110,6 +110,7 @@ function Project() {
         return isGalleryVisible && (
             <LgGallery
                 image={image}
+                background={project.images[imageIndex].background}
                 imageIndex={imageIndex}
                 maxImageIndex={images.length - 1}
                 handleNextClick={handleNextClick}
@@ -119,7 +120,7 @@ function Project() {
                 handleTouch={handleTouch}
             />
         );
-    }, [handleNextClick, image, imageIndex, images.length, isGalleryVisible, progressBar, handleTouch]);
+    }, [handleNextClick, image, imageIndex, images.length, isGalleryVisible, progressBar, handleTouch, project.images]);
 
     return (
         <main>
@@ -127,7 +128,7 @@ function Project() {
                 <title>{name || 'Projekt'}</title>
             </Helmet>
             {isGalleryVisible && gallery}
-            <img className={`w-full min-h-56 max-h-96 object-cover bg-[${project.images[0].background}]`} src={coverImage && coverImage.src} alt='cover' />
+            <img className='w-full min-h-56 max-h-96 object-cover' style={{ backgroundColor: `${project.images[0].background}` }} src={coverImage && coverImage.src} alt='cover' />
             <div className='select-none p-4 px-8 md:px-12 lg:px-24 space-y-12 md:space-y-16'>
 
                 <article className='prose-sm mx-auto lg:prose lg:max-w-5xl prose-a:no-underline prose-a:font-light'>
@@ -152,7 +153,7 @@ function Project() {
                         <button onMouseDown={() => handleNextClick(-1)} className='scale-x-[-1] absolute left-0 top-1/2 h-1/2 min-h-44 -translate-x-1/2 -translate-y-1/2 aspect-square rounded-full active:bg-gradient-to-r from-transparent to-accent/40'>
                             <svg className='h-1/5 min-h-14 aspect-square m-auto -translate-x-2/3 p-4 bg-accent/75 rounded-full' viewBox="0 0 320 512"> <path d="M310.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-192 192c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L242.7 256 73.4 86.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l192 192z" /></svg>
                         </button>
-                        <button onClick={() => setIsGalleryVisible(true)} className='cursor-default h-full w-full'><img className={`h-full w-full object-cover bg-[${project.images[imageIndex].background}]`} src={image && image.src} alt='loading...' /></button>
+                        <button onClick={() => setIsGalleryVisible(true)} className='cursor-default h-full w-full'><img className='h-full w-full object-cover' style={{ backgroundColor: `${project.images[imageIndex].background}` }} src={image && image.src} alt='loading...' /></button>
                     </div>                    <div className='font-light my-4'>
                         {project.authors.length > 0 &&
                             (project.authors.map((author, index) =>
