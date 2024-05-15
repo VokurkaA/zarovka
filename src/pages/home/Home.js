@@ -1,5 +1,7 @@
 import {Helmet} from "react-helmet";
 
+import { Analytics } from '@vercel/analytics/react';
+
 import AboveFold from './AboveFold';
 import AboutUs from './AboutUs';
 import WhyUs from './WhyUs';
@@ -20,6 +22,7 @@ function MainPage() {
                 <WhyUs/>
                 <ContactUs/>
             </div>
+            <Analytics />
         </main>
     )
 }
