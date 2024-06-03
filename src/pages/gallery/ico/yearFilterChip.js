@@ -18,7 +18,7 @@ function YearFilterChip({ setFilterYear, yearSpan }) {
                         setNum2(num);
                     } else {
                         setNum2(num);
-                        setFilterYear(Math.max(num1, num), Math.min(num1, num));
+                        setFilterYear({ max: Math.max(num1, num), min: Math.min(num1, num) });
                     }
                     setClickAmount(clickAmount + 1);
                 } else {
