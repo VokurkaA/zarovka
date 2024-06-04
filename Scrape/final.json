@@ -1,0 +1,4893 @@
+[
+  {
+    "link": "rodinny-dum-u-hracde-kralove",
+    "name": "rodinný dům",
+    "location": "běleč",
+    "year": {
+      "text": "realizace",
+      "year": "2022"
+    },
+    "authors": [
+      {
+        "position": "foto",
+        "people": [
+          "Lucia Livovská, Marek Vlček"
+        ]
+      },
+      {
+        "position": "autor",
+        "people": [
+          "Maxmilián Vlček"
+        ]
+      }
+    ],
+    "text": [
+      "Rodinný dům u Hradce Králové, dům s výhledem na srnky.",
+      "\"S Žárovkou byla od začátku výborná spolupráce. S Katkou Novotnou a Maxem Vlčkem jsme byli celou dobu na stejné vlně - od architektonické studie až po návrhy interiéru. Oceňuji i zprostředkování kvalitních dodavatelů, kteří dokázali proměnit nápad v realitu.\""
+    ],
+    "cover": {
+      "src": "img/rodinny-dum-u-hracde-kralove_Cover.webp",
+      "background": "#8a8b7e"
+    },
+    "images": [
+      {
+        "src": "img/rodinny-dum-u-hracde-kralove_img1.webp",
+        "background": "#b3aea6"
+      },
+      {
+        "src": "img/rodinny-dum-u-hracde-kralove_img2.webp",
+        "background": "#9ea39a"
+      },
+      {
+        "src": "img/rodinny-dum-u-hracde-kralove_img3.webp",
+        "background": "#8a8b7e"
+      },
+      {
+        "src": "img/rodinny-dum-u-hracde-kralove_img4.webp",
+        "background": "#a68d71"
+      },
+      {
+        "src": "img/rodinny-dum-u-hracde-kralove_img5.webp",
+        "background": "#908d7e"
+      },
+      {
+        "src": "img/rodinny-dum-u-hracde-kralove_img6.webp",
+        "background": "#8e8773"
+      },
+      {
+        "src": "img/rodinny-dum-u-hracde-kralove_img7.webp",
+        "background": "#897f75"
+      },
+      {
+        "src": "img/rodinny-dum-u-hracde-kralove_img8.webp",
+        "background": "#7a745d"
+      },
+      {
+        "src": "img/rodinny-dum-u-hracde-kralove_img9.webp",
+        "background": "#8a8071"
+      },
+      {
+        "src": "img/rodinny-dum-u-hracde-kralove_img10.webp",
+        "background": "#9d8e75"
+      },
+      {
+        "src": "img/rodinny-dum-u-hracde-kralove_img11.webp",
+        "background": "#827666"
+      },
+      {
+        "src": "img/rodinny-dum-u-hracde-kralove_img12.webp",
+        "background": "#b3a99a"
+      },
+      {
+        "src": "img/rodinny-dum-u-hracde-kralove_img13.webp",
+        "background": "#b0a59a"
+      },
+      {
+        "src": "img/rodinny-dum-u-hracde-kralove_img14.webp",
+        "background": "#aca9a3"
+      }
+    ],
+    "filters": [
+      "rodinne-domy"
+    ]
+  },
+  {
+    "link": "rd-vinary",
+    "name": "přízemní rodiný dům",
+    "location": "vinary",
+    "year": {
+      "text": "realizace",
+      "year": "2019"
+    },
+    "authors": [
+      {
+        "position": "foto",
+        "people": [
+          "Lucia Livovská, Marek Vlček"
+        ]
+      },
+      {
+        "position": "autoři",
+        "people": [
+          "Pavel Zadrobílek"
+        ]
+      }
+    ],
+    "text": [],
+    "cover": {
+      "src": "img/rd-vinary_Cover.webp",
+      "background": "#808681"
+    },
+    "images": [
+      {
+        "src": "img/rd-vinary_img1.webp",
+        "background": "#757f77"
+      },
+      {
+        "src": "img/rd-vinary_img2.webp",
+        "background": "#71796e"
+      },
+      {
+        "src": "img/rd-vinary_img3.webp",
+        "background": "#7a7c71"
+      },
+      {
+        "src": "img/rd-vinary_img4.webp",
+        "background": "#858c84"
+      },
+      {
+        "src": "img/rd-vinary_img5.webp",
+        "background": "#787d81"
+      },
+      {
+        "src": "img/rd-vinary_img6.webp",
+        "background": "#6e6f6c"
+      },
+      {
+        "src": "img/rd-vinary_img7.webp",
+        "background": "#647475"
+      },
+      {
+        "src": "img/rd-vinary_img8.webp",
+        "background": "#999891"
+      },
+      {
+        "src": "img/rd-vinary_img9.webp",
+        "background": "#81817b"
+      },
+      {
+        "src": "img/rd-vinary_img10.webp",
+        "background": "#8a8677"
+      },
+      {
+        "src": "img/rd-vinary_img11.webp",
+        "background": "#7c7d77"
+      },
+      {
+        "src": "img/rd-vinary_img12.webp",
+        "background": "#5f7278"
+      },
+      {
+        "src": "img/rd-vinary_img13.webp",
+        "background": "#778079"
+      },
+      {
+        "src": "img/rd-vinary_img14.webp",
+        "background": "#c0b9b3"
+      },
+      {
+        "src": "img/rd-vinary_img15.webp",
+        "background": "#808581"
+      }
+    ],
+    "filters": [
+      "rodinne-domy"
+    ]
+  },
+  {
+    "link": "ctyri-domy",
+    "name": "čtyři domy",
+    "location": "dolní morava",
+    "year": {
+      "text": "realizace",
+      "year": "2020"
+    },
+    "authors": [
+      {
+        "position": "foto",
+        "people": [
+          "Lucia Livovská, Marek Vlček, Šárka Dlouhá"
+        ]
+      },
+      {
+        "position": "autoři",
+        "people": [
+          "Šárka Dlouhá, Jana Rejsková"
+        ]
+      }
+    ],
+    "text": [
+      "Novostavba třígeneračního rodinného domu s doplňkovou stavbou apartmánového domu pro pronajímání. Kvarteto staveb je situováno na svažitém pozemku na místě nevyhovujícího původního objektu ve svažitém pozemku v obci Dolní Morava.",
+      "Tvar domu byl dán nároky na charakter objektu dle původní zástavby na horách. Dům o třech bytových jednotkách, spojených vstupní halou, má v suterénu kolárnu s lyžárnou. Čtvrtý, apartmánový dům stojí mírně stranou nad soudomím. Z haly jsou přístupné tři jednotky obdobné dispozice. V přízemí je obytný prostor s kuchyňským koutem, krbem a schodištěm do podkroví, kde se nachází dvě ložnice a koupelna. Obývací pokoj je velkoryse prosvětlen a propojen s terasou. Světlo do místnosti přichází také z protější strany úzkým převýšeným oknem. Společným jmenovatelem v koncepci interiéru je pravdivost materiálů - masivní jasanová podlaha, jasanová dýha, smrkový mořený obklad a černá ocel doplněná topolovou překližkou. Zděná stavba má železobetonové stropy. Krov je stažen ocelovými pohledovými táhly. Fasáda je z nehoblovaných modřínových prken, střecha plechová a okna dřevěná."
+    ],
+    "cover": {
+      "src": "img/ctyri-domy_Cover.webp",
+      "background": "#958a8a"
+    },
+    "images": [
+      {
+        "src": "img/ctyri-domy_img1.webp",
+        "background": "#948a8a"
+      },
+      {
+        "src": "img/ctyri-domy_img2.webp",
+        "background": "#9a9699"
+      },
+      {
+        "src": "img/ctyri-domy_img3.webp",
+        "background": "#87929d"
+      },
+      {
+        "src": "img/ctyri-domy_img4.webp",
+        "background": "#413e3e"
+      },
+      {
+        "src": "img/ctyri-domy_img5.webp",
+        "background": "#7a6c64"
+      },
+      {
+        "src": "img/ctyri-domy_img6.webp",
+        "background": "#655c57"
+      },
+      {
+        "src": "img/ctyri-domy_img7.webp",
+        "background": "#a19ba2"
+      },
+      {
+        "src": "img/ctyri-domy_img8.webp",
+        "background": "#c1b2a9"
+      },
+      {
+        "src": "img/ctyri-domy_img9.webp",
+        "background": "#cecccd"
+      },
+      {
+        "src": "img/ctyri-domy_img10.webp",
+        "background": "#8f979f"
+      },
+      {
+        "src": "img/ctyri-domy_img11.webp",
+        "background": "#798086"
+      },
+      {
+        "src": "img/ctyri-domy_img12.webp",
+        "background": "#949ba2"
+      },
+      {
+        "src": "img/ctyri-domy_img13.webp",
+        "background": "#8f8784"
+      },
+      {
+        "src": "img/ctyri-domy_img14.webp",
+        "background": "#a39a9a"
+      },
+      {
+        "src": "img/ctyri-domy_img15.webp",
+        "background": "#877761"
+      },
+      {
+        "src": "img/ctyri-domy_img16.webp",
+        "background": "#9b8b75"
+      },
+      {
+        "src": "img/ctyri-domy_img17.webp",
+        "background": "#897756"
+      },
+      {
+        "src": "img/ctyri-domy_img18.webp",
+        "background": "#867c7f"
+      },
+      {
+        "src": "img/ctyri-domy_img19.webp",
+        "background": "#7f685d"
+      },
+      {
+        "src": "img/ctyri-domy_img20.webp",
+        "background": "#8b7160"
+      },
+      {
+        "src": "img/ctyri-domy_img21.webp",
+        "background": "#877a75"
+      },
+      {
+        "src": "img/ctyri-domy_img22.webp",
+        "background": "#917972"
+      },
+      {
+        "src": "img/ctyri-domy_img23.webp",
+        "background": "#80777a"
+      },
+      {
+        "src": "img/ctyri-domy_img24.webp",
+        "background": "#847c83"
+      },
+      {
+        "src": "img/ctyri-domy_img25.webp",
+        "background": "#837e78"
+      },
+      {
+        "src": "img/ctyri-domy_img26.webp",
+        "background": "#75716b"
+      },
+      {
+        "src": "img/ctyri-domy_img27.webp",
+        "background": "#6f6052"
+      },
+      {
+        "src": "img/ctyri-domy_img28.webp",
+        "background": "#928481"
+      },
+      {
+        "src": "img/ctyri-domy_img29.webp",
+        "background": "#897975"
+      },
+      {
+        "src": "img/ctyri-domy_img30.webp",
+        "background": "#aba6a3"
+      },
+      {
+        "src": "img/ctyri-domy_img31.webp",
+        "background": "#766a60"
+      },
+      {
+        "src": "img/ctyri-domy_img32.webp",
+        "background": "#908783"
+      },
+      {
+        "src": "img/ctyri-domy_img33.webp",
+        "background": "#7a5c4c"
+      },
+      {
+        "src": "img/ctyri-domy_img34.webp",
+        "background": "#807161"
+      },
+      {
+        "src": "img/ctyri-domy_img35.webp",
+        "background": "#9f9b9d"
+      },
+      {
+        "src": "img/ctyri-domy_img36.webp",
+        "background": "#947c6a"
+      },
+      {
+        "src": "img/ctyri-domy_img37.webp",
+        "background": "#a0846f"
+      },
+      {
+        "src": "img/ctyri-domy_img38.webp",
+        "background": "#a79182"
+      },
+      {
+        "src": "img/ctyri-domy_img39.webp",
+        "background": "#997a67"
+      },
+      {
+        "src": "img/ctyri-domy_img40.webp",
+        "background": "#a1938d"
+      },
+      {
+        "src": "img/ctyri-domy_img41.webp",
+        "background": "#8f7e73"
+      },
+      {
+        "src": "img/ctyri-domy_img42.webp",
+        "background": "#967f71"
+      },
+      {
+        "src": "img/ctyri-domy_img43.webp",
+        "background": "#928679"
+      },
+      {
+        "src": "img/ctyri-domy_img44.webp",
+        "background": "#a9a39d"
+      },
+      {
+        "src": "img/ctyri-domy_img45.webp",
+        "background": "#aba8a6"
+      },
+      {
+        "src": "img/ctyri-domy_img46.webp",
+        "background": "#45394c"
+      },
+      {
+        "src": "img/ctyri-domy_img47.webp",
+        "background": "#4c312d"
+      }
+    ],
+    "filters": [
+      "rodinne-domy"
+    ]
+  },
+  {
+    "link": "vila-nad-rekou",
+    "name": "vila nad řekou",
+    "location": "nové město nad metují",
+    "year": {
+      "text": "realizace",
+      "year": "2017"
+    },
+    "authors": [
+      {
+        "position": "foto",
+        "people": [
+          "Jiří Ernest"
+        ]
+      },
+      {
+        "position": "autor",
+        "people": [
+          "Kateřina Novotná"
+        ]
+      }
+    ],
+    "text": [
+      "Nenápadná vila na hraně prudkého svahu nad řekou Metují. Z ulice téměř neviditelná soukromá vila uprostřed města poskytuje obyvatelům absolutní soukromí, nekonečné výhledy a bezprostřední kontakt s korunami stromů. "
+    ],
+    "cover": {
+      "src": "img/vila-nad-rekou_Cover.webp",
+      "background": "#83898d"
+    },
+    "images": [
+      {
+        "src": "img/vila-nad-rekou_img1.webp",
+        "background": "#7e8485"
+      },
+      {
+        "src": "img/vila-nad-rekou_img2.webp",
+        "background": "#8e8e8f"
+      },
+      {
+        "src": "img/vila-nad-rekou_img3.webp",
+        "background": "#6b8091"
+      },
+      {
+        "src": "img/vila-nad-rekou_img4.webp",
+        "background": "#939388"
+      },
+      {
+        "src": "img/vila-nad-rekou_img5.webp",
+        "background": "#9ca5ac"
+      },
+      {
+        "src": "img/vila-nad-rekou_img6.webp",
+        "background": "#889285"
+      },
+      {
+        "src": "img/vila-nad-rekou_img7.webp",
+        "background": "#9ea09e"
+      },
+      {
+        "src": "img/vila-nad-rekou_img8.webp",
+        "background": "#818b87"
+      },
+      {
+        "src": "img/vila-nad-rekou_img9.webp",
+        "background": "#a3a2a2"
+      },
+      {
+        "src": "img/vila-nad-rekou_img10.webp",
+        "background": "#a3a8a7"
+      },
+      {
+        "src": "img/vila-nad-rekou_img11.webp",
+        "background": "#b5afa3"
+      },
+      {
+        "src": "img/vila-nad-rekou_img12.webp",
+        "background": "#a1a0a3"
+      },
+      {
+        "src": "img/vila-nad-rekou_img13.webp",
+        "background": "#7d7062"
+      },
+      {
+        "src": "img/vila-nad-rekou_img14.webp",
+        "background": "#6f5749"
+      },
+      {
+        "src": "img/vila-nad-rekou_img15.webp",
+        "background": "#7c756e"
+      },
+      {
+        "src": "img/vila-nad-rekou_img16.webp",
+        "background": "#71634d"
+      },
+      {
+        "src": "img/vila-nad-rekou_img17.webp",
+        "background": "#b4aea5"
+      },
+      {
+        "src": "img/vila-nad-rekou_img18.webp",
+        "background": "#a79a88"
+      }
+    ],
+    "filters": [
+      "rodinne-domy"
+    ]
+  },
+  {
+    "link": "rd-v-malsovicich",
+    "name": "rodinný dům v malšovicích",
+    "location": "hradec králové",
+    "year": {
+      "text": "realizace",
+      "year": "2018"
+    },
+    "authors": [
+      {
+        "position": "foto",
+        "people": [
+          "Lucia Livovská, Marek Vlček"
+        ]
+      },
+      {
+        "position": "autoři",
+        "people": [
+          "Maxmilian Vlček"
+        ]
+      }
+    ],
+    "text": [],
+    "cover": {
+      "src": "img/rd-v-malsovicich_Cover.webp",
+      "background": "#89989c"
+    },
+    "images": [
+      {
+        "src": "img/rd-v-malsovicich_img1.webp",
+        "background": "#89989c"
+      },
+      {
+        "src": "img/rd-v-malsovicich_img2.webp",
+        "background": "#8b8d88"
+      },
+      {
+        "src": "img/rd-v-malsovicich_img3.webp",
+        "background": "#919490"
+      },
+      {
+        "src": "img/rd-v-malsovicich_img4.webp",
+        "background": "#686256"
+      },
+      {
+        "src": "img/rd-v-malsovicich_img5.webp",
+        "background": "#6e7268"
+      },
+      {
+        "src": "img/rd-v-malsovicich_img6.webp",
+        "background": "#9a9893"
+      },
+      {
+        "src": "img/rd-v-malsovicich_img7.webp",
+        "background": "#6f766f"
+      },
+      {
+        "src": "img/rd-v-malsovicich_img8.webp",
+        "background": "#7a7e6e"
+      },
+      {
+        "src": "img/rd-v-malsovicich_img9.webp",
+        "background": "#88877d"
+      },
+      {
+        "src": "img/rd-v-malsovicich_img10.webp",
+        "background": "#8d8a85"
+      },
+      {
+        "src": "img/rd-v-malsovicich_img11.webp",
+        "background": "#8f9592"
+      }
+    ],
+    "filters": [
+      "rodinne-domy"
+    ]
+  },
+  {
+    "link": "vila-trutnov",
+    "name": "vila nad trutnovem",
+    "location": "trutnov",
+    "year": {
+      "text": "stavba",
+      "year": "2018"
+    },
+    "authors": [
+      {
+        "position": "autor",
+        "people": [
+          "Maxmilián Vlček, Kateřina Novotná"
+        ]
+      }
+    ],
+    "text": [
+      "Rodinný dům u lesa, kde lišky dávají dobrou noc. Dům na samotě s krásným výhledem."
+    ],
+    "cover": {
+      "src": "img/vila-trutnov_Cover.webp",
+      "background": "#8a907d"
+    },
+    "images": [
+      {
+        "src": "img/vila-trutnov_img1.webp",
+        "background": "#919686"
+      },
+      {
+        "src": "img/vila-trutnov_img2.webp",
+        "background": "#959a89"
+      },
+      {
+        "src": "img/vila-trutnov_img3.webp",
+        "background": "#959a8e"
+      },
+      {
+        "src": "img/vila-trutnov_img4.webp",
+        "background": "#8a907d"
+      },
+      {
+        "src": "img/vila-trutnov_img5.webp",
+        "background": "#8e9086"
+      },
+      {
+        "src": "img/vila-trutnov_img6.webp",
+        "background": "#a6a79d"
+      },
+      {
+        "src": "img/vila-trutnov_img7.webp",
+        "background": "#aeaca4"
+      },
+      {
+        "src": "img/vila-trutnov_img8.webp",
+        "background": "#86877f"
+      },
+      {
+        "src": "img/vila-trutnov_img9.webp",
+        "background": "#867567"
+      },
+      {
+        "src": "img/vila-trutnov_img10.webp",
+        "background": "#a29c91"
+      },
+      {
+        "src": "img/vila-trutnov_img11.webp",
+        "background": "#918a7e"
+      },
+      {
+        "src": "img/vila-trutnov_img12.webp",
+        "background": "#363636"
+      },
+      {
+        "src": "img/vila-trutnov_img13.webp",
+        "background": "#61605d"
+      },
+      {
+        "src": "img/vila-trutnov_img14.webp",
+        "background": "#31475f"
+      },
+      {
+        "src": "img/vila-trutnov_img15.webp",
+        "background": "#47515a"
+      },
+      {
+        "src": "img/vila-trutnov_img16.webp",
+        "background": "#43474a"
+      },
+      {
+        "src": "img/vila-trutnov_img17.webp",
+        "background": "#404c56"
+      },
+      {
+        "src": "img/vila-trutnov_img18.webp",
+        "background": "#354348"
+      }
+    ],
+    "filters": [
+      "rodinne-domy"
+    ]
+  },
+  {
+    "link": "rekonstrukce-vilky-z-pocatku-20-stoleti",
+    "name": "rekonstrukce vilky ze 30. let",
+    "location": "hradec králové",
+    "year": {
+      "text": "rekonstrukce",
+      "year": "2012"
+    },
+    "authors": [
+      {
+        "position": "autor",
+        "people": [
+          "Jana Rejsková"
+        ]
+      }
+    ],
+    "text": [],
+    "cover": {
+      "src": "img/rekonstrukce-vilky-z-pocatku-20-stoleti_Cover.webp",
+      "background": "#95a0b2"
+    },
+    "images": [
+      {
+        "src": "img/rekonstrukce-vilky-z-pocatku-20-stoleti_img1.webp",
+        "background": "#979faa"
+      },
+      {
+        "src": "img/rekonstrukce-vilky-z-pocatku-20-stoleti_img2.webp",
+        "background": "#8793ac"
+      },
+      {
+        "src": "img/rekonstrukce-vilky-z-pocatku-20-stoleti_img3.webp",
+        "background": "#a5a4a5"
+      },
+      {
+        "src": "img/rekonstrukce-vilky-z-pocatku-20-stoleti_img4.webp",
+        "background": "#908e8d"
+      },
+      {
+        "src": "img/rekonstrukce-vilky-z-pocatku-20-stoleti_img5.webp",
+        "background": "#8e8b89"
+      },
+      {
+        "src": "img/rekonstrukce-vilky-z-pocatku-20-stoleti_img6.webp",
+        "background": "#a9adb5"
+      },
+      {
+        "src": "img/rekonstrukce-vilky-z-pocatku-20-stoleti_img7.webp",
+        "background": "#8d9093"
+      },
+      {
+        "src": "img/rekonstrukce-vilky-z-pocatku-20-stoleti_img8.webp",
+        "background": "#959688"
+      },
+      {
+        "src": "img/rekonstrukce-vilky-z-pocatku-20-stoleti_img9.webp",
+        "background": "#8f9296"
+      },
+      {
+        "src": "img/rekonstrukce-vilky-z-pocatku-20-stoleti_img10.webp",
+        "background": "#868885"
+      },
+      {
+        "src": "img/rekonstrukce-vilky-z-pocatku-20-stoleti_img11.webp",
+        "background": "#817c75"
+      },
+      {
+        "src": "img/rekonstrukce-vilky-z-pocatku-20-stoleti_img12.webp",
+        "background": "#828280"
+      }
+    ],
+    "filters": [
+      "rodinne-domy"
+    ]
+  },
+  {
+    "link": "rd-v-udoli",
+    "name": "rodinný dům v údolí",
+    "location": "nové město nad metují",
+    "year": {
+      "text": "realizace",
+      "year": "2012"
+    },
+    "authors": [
+      {
+        "position": "foto",
+        "people": [
+          "Jiří Ernest"
+        ]
+      },
+      {
+        "position": "autoři",
+        "people": [
+          "Kateřina Novotná, Maxmilian Vlček"
+        ]
+      }
+    ],
+    "text": [
+      "Rodinný dům v klidném údolí u Nového Města nad MetujÍ."
+    ],
+    "cover": {
+      "src": "img/rd-v-udoli_Cover.webp",
+      "background": "#838685"
+    },
+    "images": [
+      {
+        "src": "img/rd-v-udoli_img1.webp",
+        "background": "#828577"
+      },
+      {
+        "src": "img/rd-v-udoli_img2.webp",
+        "background": "#a0a5a3"
+      },
+      {
+        "src": "img/rd-v-udoli_img3.webp",
+        "background": "#98a08d"
+      },
+      {
+        "src": "img/rd-v-udoli_img4.webp",
+        "background": "#899284"
+      },
+      {
+        "src": "img/rd-v-udoli_img5.webp",
+        "background": "#838685"
+      },
+      {
+        "src": "img/rd-v-udoli_img6.webp",
+        "background": "#948a7a"
+      },
+      {
+        "src": "img/rd-v-udoli_img7.webp",
+        "background": "#9c968b"
+      },
+      {
+        "src": "img/rd-v-udoli_img8.webp",
+        "background": "#7c7f79"
+      },
+      {
+        "src": "img/rd-v-udoli_img9.webp",
+        "background": "#7f857f"
+      },
+      {
+        "src": "img/rd-v-udoli_img10.webp",
+        "background": "#a29185"
+      },
+      {
+        "src": "img/rd-v-udoli_img11.webp",
+        "background": "#a19c8e"
+      },
+      {
+        "src": "img/rd-v-udoli_img12.webp",
+        "background": "#a4957f"
+      },
+      {
+        "src": "img/rd-v-udoli_img13.webp",
+        "background": "#a7a8a6"
+      }
+    ],
+    "filters": [
+      "rodinne-domy"
+    ]
+  },
+  {
+    "link": "roudnicka",
+    "name": "rodinný dům",
+    "location": "roudnička",
+    "year": {
+      "text": "realizace",
+      "year": "2011"
+    },
+    "authors": [
+      {
+        "position": "autor",
+        "people": [
+          "Maxmilián Vlček"
+        ]
+      }
+    ],
+    "text": [],
+    "cover": {
+      "src": "img/roudnicka_Cover.webp",
+      "background": "#5e6a6f"
+    },
+    "images": [
+      {
+        "src": "img/roudnicka_img1.webp",
+        "background": "#8b929c"
+      },
+      {
+        "src": "img/roudnicka_img2.webp",
+        "background": "#5e6a70"
+      },
+      {
+        "src": "img/roudnicka_img3.webp",
+        "background": "#646f76"
+      },
+      {
+        "src": "img/roudnicka_img4.webp",
+        "background": "#5c6c72"
+      },
+      {
+        "src": "img/roudnicka_img5.webp",
+        "background": "#747c8a"
+      },
+      {
+        "src": "img/roudnicka_img6.webp",
+        "background": "#74777a"
+      },
+      {
+        "src": "img/roudnicka_img7.webp",
+        "background": "#9e9fa2"
+      },
+      {
+        "src": "img/roudnicka_img8.webp",
+        "background": "#878587"
+      }
+    ],
+    "filters": [
+      "rodinne-domy"
+    ]
+  },
+  {
+    "link": "rodinny-dum-na-brnenske",
+    "name": "rodinný dům na brněnské",
+    "location": "hradec králové",
+    "year": {
+      "text": "stavba",
+      "year": "2018"
+    },
+    "authors": [
+      {
+        "position": "autor",
+        "people": [
+          "Maxmilián Vlček, Kateřina Novotná"
+        ]
+      }
+    ],
+    "text": [],
+    "cover": {
+      "src": "img/rodinny-dum-na-brnenske_Cover.webp",
+      "background": "#99a0a1"
+    },
+    "images": [
+      {
+        "src": "img/rodinny-dum-na-brnenske_img1.webp",
+        "background": "#99a0a1"
+      },
+      {
+        "src": "img/rodinny-dum-na-brnenske_img2.webp",
+        "background": "#9ba3a8"
+      },
+      {
+        "src": "img/rodinny-dum-na-brnenske_img3.webp",
+        "background": "#969fa4"
+      },
+      {
+        "src": "img/rodinny-dum-na-brnenske_img4.webp",
+        "background": "#9aa09e"
+      },
+      {
+        "src": "img/rodinny-dum-na-brnenske_img5.webp",
+        "background": "#898780"
+      },
+      {
+        "src": "img/rodinny-dum-na-brnenske_img6.webp",
+        "background": "#84847e"
+      },
+      {
+        "src": "img/rodinny-dum-na-brnenske_img7.webp",
+        "background": "#a1a29e"
+      }
+    ],
+    "filters": [
+      "rodinne-domy"
+    ]
+  },
+  {
+    "link": "nemosice",
+    "name": "rodinný dům",
+    "location": "nemošice",
+    "year": {
+      "text": "realizace",
+      "year": "2012"
+    },
+    "authors": [
+      {
+        "position": "autor",
+        "people": [
+          "Šárka Dlouhá"
+        ]
+      }
+    ],
+    "text": [],
+    "cover": {
+      "src": "img/nemosice_Cover.webp",
+      "background": "#929595"
+    },
+    "images": [
+      {
+        "src": "img/nemosice_img1.webp",
+        "background": "#8c908c"
+      },
+      {
+        "src": "img/nemosice_img2.webp",
+        "background": "#7a8a9d"
+      },
+      {
+        "src": "img/nemosice_img3.webp",
+        "background": "#8e92a3"
+      },
+      {
+        "src": "img/nemosice_img4.webp",
+        "background": "#b1aca7"
+      },
+      {
+        "src": "img/nemosice_img5.webp",
+        "background": "#9f9092"
+      },
+      {
+        "src": "img/nemosice_img6.webp",
+        "background": "#949ba3"
+      },
+      {
+        "src": "img/nemosice_img7.webp",
+        "background": "#9fa2a5"
+      },
+      {
+        "src": "img/nemosice_img8.webp",
+        "background": "#79757a"
+      }
+    ],
+    "filters": [
+      "rodinne-domy"
+    ]
+  },
+  {
+    "link": "rd-cihelna",
+    "name": "řadové domy cihelna",
+    "location": "pardubice",
+    "year": {
+      "text": "realizace",
+      "year": "2012"
+    },
+    "authors": [
+      {
+        "position": "foto",
+        "people": [
+          "Šárka Dlouhá"
+        ]
+      },
+      {
+        "position": "autoři",
+        "people": [
+          "Pavel Zadrobílek, Maxmilián Vlček, Vladimír Šolc"
+        ]
+      }
+    ],
+    "text": [],
+    "cover": {
+      "src": "img/rd-cihelna_Cover.webp",
+      "background": "#6d696c"
+    },
+    "images": [
+      {
+        "src": "img/rd-cihelna_img1.webp",
+        "background": "#6f6872"
+      },
+      {
+        "src": "img/rd-cihelna_img2.webp",
+        "background": "#847776"
+      },
+      {
+        "src": "img/rd-cihelna_img3.webp",
+        "background": "#7f8595"
+      },
+      {
+        "src": "img/rd-cihelna_img4.webp",
+        "background": "#686976"
+      },
+      {
+        "src": "img/rd-cihelna_img5.webp",
+        "background": "#a29b9a"
+      },
+      {
+        "src": "img/rd-cihelna_img6.webp",
+        "background": "#6d696c"
+      },
+      {
+        "src": "img/rd-cihelna_img7.webp",
+        "background": "#686670"
+      },
+      {
+        "src": "img/rd-cihelna_img8.webp",
+        "background": "#5f6e89"
+      }
+    ],
+    "filters": [
+      "rodinne-domy"
+    ]
+  },
+  {
+    "link": "svinary",
+    "name": "rodinný dům",
+    "location": "svinary",
+    "year": {
+      "text": "realizace",
+      "year": "2011"
+    },
+    "authors": [
+      {
+        "position": "autor",
+        "people": [
+          "Maxmilián Vlček"
+        ]
+      }
+    ],
+    "text": [],
+    "cover": {
+      "src": "img/svinary_Cover.webp",
+      "background": "#909490"
+    },
+    "images": [
+      {
+        "src": "img/svinary_img1.webp",
+        "background": "#84877f"
+      },
+      {
+        "src": "img/svinary_img2.webp",
+        "background": "#777770"
+      },
+      {
+        "src": "img/svinary_img3.webp",
+        "background": "#909491"
+      },
+      {
+        "src": "img/svinary_img4.webp",
+        "background": "#797f7b"
+      },
+      {
+        "src": "img/svinary_img5.webp",
+        "background": "#818585"
+      }
+    ],
+    "filters": [
+      "rodinne-domy"
+    ]
+  },
+  {
+    "link": "pod-dubem",
+    "name": "rodinný  dům pod dubem",
+    "location": "pardubice",
+    "year": {
+      "text": "realizace",
+      "year": "2011"
+    },
+    "authors": [
+      {
+        "position": "foto",
+        "people": [
+          "Šárka Dlouhá"
+        ]
+      }
+    ],
+    "text": [
+      "autor Vladimír Šolc"
+    ],
+    "cover": {
+      "src": "img/pod-dubem_Cover.webp",
+      "background": "#ab9999"
+    },
+    "images": [
+      {
+        "src": "img/pod-dubem_img1.webp",
+        "background": "#898074"
+      },
+      {
+        "src": "img/pod-dubem_img2.webp",
+        "background": "#746e7a"
+      },
+      {
+        "src": "img/pod-dubem_img3.webp",
+        "background": "#787684"
+      },
+      {
+        "src": "img/pod-dubem_img4.webp",
+        "background": "#7f706d"
+      },
+      {
+        "src": "img/pod-dubem_img5.webp",
+        "background": "#656d7c"
+      },
+      {
+        "src": "img/pod-dubem_img6.webp",
+        "background": "#717b81"
+      },
+      {
+        "src": "img/pod-dubem_img7.webp",
+        "background": "#836e76"
+      },
+      {
+        "src": "img/pod-dubem_img8.webp",
+        "background": "#615b63"
+      }
+    ],
+    "filters": [
+      "rodinne-domy"
+    ]
+  },
+  {
+    "link": "jizni-svahy",
+    "name": "rodinný dům jižní svahy",
+    "location": "hradec králové",
+    "year": {
+      "text": "realizace",
+      "year": "2008"
+    },
+    "authors": [
+      {
+        "position": "autoři",
+        "people": [
+          "Šárka Dlouhá, Pavel Zadrobílek"
+        ]
+      }
+    ],
+    "text": [],
+    "cover": {
+      "src": "img/jizni-svahy_Cover.webp",
+      "background": "#898989"
+    },
+    "images": [
+      {
+        "src": "img/jizni-svahy_img1.webp",
+        "background": "#7e7f7e"
+      },
+      {
+        "src": "img/jizni-svahy_img2.webp",
+        "background": "#83857e"
+      },
+      {
+        "src": "img/jizni-svahy_img3.webp",
+        "background": "#69635f"
+      },
+      {
+        "src": "img/jizni-svahy_img4.webp",
+        "background": "#777477"
+      },
+      {
+        "src": "img/jizni-svahy_img5.webp",
+        "background": "#76676d"
+      },
+      {
+        "src": "img/jizni-svahy_img6.webp",
+        "background": "#91868b"
+      },
+      {
+        "src": "img/jizni-svahy_img7.webp",
+        "background": "#7a8169"
+      },
+      {
+        "src": "img/jizni-svahy_img8.webp",
+        "background": "#887f7a"
+      }
+    ],
+    "filters": [
+      "rodinne-domy"
+    ]
+  },
+  {
+    "link": "pod-vodarnou",
+    "name": "rodinný dům u vodárny",
+    "location": "hradec králové",
+    "year": {
+      "text": "realizace",
+      "year": "2007"
+    },
+    "authors": [],
+    "text": [],
+    "cover": {
+      "src": "img/pod-vodarnou_Cover.webp",
+      "background": "#8f8f88"
+    },
+    "images": [
+      {
+        "src": "img/pod-vodarnou_img1.webp",
+        "background": "#727280"
+      },
+      {
+        "src": "img/pod-vodarnou_img2.webp",
+        "background": "#787675"
+      },
+      {
+        "src": "img/pod-vodarnou_img3.webp",
+        "background": "#7f827e"
+      },
+      {
+        "src": "img/pod-vodarnou_img4.webp",
+        "background": "#716d74"
+      },
+      {
+        "src": "img/pod-vodarnou_img5.webp",
+        "background": "#898586"
+      },
+      {
+        "src": "img/pod-vodarnou_img6.webp",
+        "background": "#979594"
+      },
+      {
+        "src": "img/pod-vodarnou_img7.webp",
+        "background": "#9b9186"
+      },
+      {
+        "src": "img/pod-vodarnou_img8.webp",
+        "background": "#787c86"
+      },
+      {
+        "src": "img/pod-vodarnou_img9.webp",
+        "background": "#7b7977"
+      }
+    ],
+    "filters": [
+      "rodinne-domy"
+    ]
+  },
+  {
+    "link": "malsova-lhota",
+    "name": "rodinný dům",
+    "location": "malšova lhota",
+    "year": {
+      "text": "realizace",
+      "year": "2008"
+    },
+    "authors": [],
+    "text": [],
+    "cover": {
+      "src": "img/malsova-lhota_Cover.webp",
+      "background": "#9e9f9d"
+    },
+    "images": [
+      {
+        "src": "img/malsova-lhota_img1.webp",
+        "background": "#9e9f9d"
+      },
+      {
+        "src": "img/malsova-lhota_img2.webp",
+        "background": "#a9a49a"
+      },
+      {
+        "src": "img/malsova-lhota_img3.webp",
+        "background": "#8e887a"
+      },
+      {
+        "src": "img/malsova-lhota_img4.webp",
+        "background": "#9a928b"
+      },
+      {
+        "src": "img/malsova-lhota_img5.webp",
+        "background": "#8c9290"
+      },
+      {
+        "src": "img/malsova-lhota_img6.webp",
+        "background": "#928b7d"
+      }
+    ],
+    "filters": [
+      "rodinne-domy"
+    ]
+  },
+  {
+    "link": "pardubice",
+    "name": "rodinný dům židov",
+    "location": "pardubice",
+    "year": {
+      "text": "realizace",
+      "year": "2004"
+    },
+    "authors": [
+      {
+        "position": "autor",
+        "people": [
+          "Vladimír Šolc"
+        ]
+      }
+    ],
+    "text": [],
+    "cover": {
+      "src": "img/pardubice_Cover.webp",
+      "background": "#a4928e"
+    },
+    "images": [
+      {
+        "src": "img/pardubice_img1.webp",
+        "background": "#a4938e"
+      },
+      {
+        "src": "img/pardubice_img2.webp",
+        "background": "#a89290"
+      },
+      {
+        "src": "img/pardubice_img3.webp",
+        "background": "#a8877f"
+      },
+      {
+        "src": "img/pardubice_img4.webp",
+        "background": "#847275"
+      }
+    ],
+    "filters": [
+      "rodinne-domy"
+    ]
+  },
+  {
+    "link": "vinicna",
+    "name": "rodinný dům viničná",
+    "location": "hradec králové",
+    "year": {
+      "text": "realizace",
+      "year": "2009"
+    },
+    "authors": [],
+    "text": [],
+    "cover": {
+      "src": "img/vinicna_Cover.webp",
+      "background": "#6d7b85"
+    },
+    "images": [
+      {
+        "src": "img/vinicna_img1.webp",
+        "background": "#6d7c89"
+      },
+      {
+        "src": "img/vinicna_img2.webp",
+        "background": "#768188"
+      },
+      {
+        "src": "img/vinicna_img3.webp",
+        "background": "#717675"
+      },
+      {
+        "src": "img/vinicna_img4.webp",
+        "background": "#6b6f71"
+      },
+      {
+        "src": "img/vinicna_img5.webp",
+        "background": "#7b8ca5"
+      }
+    ],
+    "filters": [
+      "rodinne-domy"
+    ]
+  },
+  {
+    "link": "rezidence-seydlerova",
+    "name": "rezidence seydlerova",
+    "location": "hradec králové",
+    "year": {
+      "text": "realizace",
+      "year": "2020"
+    },
+    "authors": [
+      {
+        "position": "foto",
+        "people": [
+          "Šárka Dlouhá"
+        ]
+      },
+      {
+        "position": "autor",
+        "people": [
+          "Vladimír Šolc"
+        ]
+      }
+    ],
+    "text": [
+      "Bytový dům s dvanácti byty je umístěn na rozhraní mezi řadou panelových domů a vilovou čtvrtí Labské kotliny II v ulici Seydlerova.  "
+    ],
+    "cover": {
+      "src": "img/rezidence-seydlerova_Cover.webp",
+      "background": "#aaaaac"
+    },
+    "images": [
+      {
+        "src": "img/rezidence-seydlerova_img1.webp",
+        "background": "#b4b1b2"
+      },
+      {
+        "src": "img/rezidence-seydlerova_img2.webp",
+        "background": "#b0b0b0"
+      },
+      {
+        "src": "img/rezidence-seydlerova_img3.webp",
+        "background": "#b0adae"
+      },
+      {
+        "src": "img/rezidence-seydlerova_img4.webp",
+        "background": "#b9b7b6"
+      },
+      {
+        "src": "img/rezidence-seydlerova_img5.webp",
+        "background": "#afaeaf"
+      },
+      {
+        "src": "img/rezidence-seydlerova_img6.webp",
+        "background": "#aeadad"
+      },
+      {
+        "src": "img/rezidence-seydlerova_img7.webp",
+        "background": "#b5b3b3"
+      },
+      {
+        "src": "img/rezidence-seydlerova_img8.webp",
+        "background": "#aaaaac"
+      },
+      {
+        "src": "img/rezidence-seydlerova_img9.webp",
+        "background": "#ababac"
+      },
+      {
+        "src": "img/rezidence-seydlerova_img10.webp",
+        "background": "#a5a4a4"
+      },
+      {
+        "src": "img/rezidence-seydlerova_img11.webp",
+        "background": "#a1a0a1"
+      },
+      {
+        "src": "img/rezidence-seydlerova_img12.webp",
+        "background": "#b9b8ba"
+      },
+      {
+        "src": "img/rezidence-seydlerova_img13.webp",
+        "background": "#a7a5a5"
+      },
+      {
+        "src": "img/rezidence-seydlerova_img14.webp",
+        "background": "#96979a"
+      },
+      {
+        "src": "img/rezidence-seydlerova_img15.webp",
+        "background": "#9b999b"
+      }
+    ],
+    "filters": [
+      "obytne-domy"
+    ]
+  },
+  {
+    "link": "bytovy-dum-ludvik",
+    "name": "bytový dům ludvík",
+    "location": "hradec králové",
+    "year": {
+      "text": "studie",
+      "year": "2023"
+    },
+    "authors": [
+      {
+        "position": "vizualizace",
+        "people": [
+          "Marek Vlček"
+        ]
+      },
+      {
+        "position": "autor",
+        "people": [
+          "Pavel Zadrobílek, Kateřina Novotná"
+        ]
+      }
+    ],
+    "text": [],
+    "cover": {
+      "src": "img/bytovy-dum-ludvik_Cover.webp",
+      "background": "#8a97a2"
+    },
+    "images": [
+      {
+        "src": "img/bytovy-dum-ludvik_img1.webp",
+        "background": "#8997a2"
+      },
+      {
+        "src": "img/bytovy-dum-ludvik_img2.webp",
+        "background": "#939da8"
+      },
+      {
+        "src": "img/bytovy-dum-ludvik_img3.webp",
+        "background": "#92a0b0"
+      },
+      {
+        "src": "img/bytovy-dum-ludvik_img4.webp",
+        "background": "#95989a"
+      },
+      {
+        "src": "img/bytovy-dum-ludvik_img5.webp",
+        "background": "#949a9a"
+      },
+      {
+        "src": "img/bytovy-dum-ludvik_img6.webp",
+        "background": "#768079"
+      },
+      {
+        "src": "img/bytovy-dum-ludvik_img7.webp",
+        "background": "#93908b"
+      },
+      {
+        "src": "img/bytovy-dum-ludvik_img8.webp",
+        "background": "#918e80"
+      },
+      {
+        "src": "img/bytovy-dum-ludvik_img9.webp",
+        "background": "#969383"
+      }
+    ],
+    "filters": [
+      "obytne-domy"
+    ]
+  },
+  {
+    "link": "bytovy-dum-prazska-84",
+    "name": "bytový dům pražská 84",
+    "location": "hradec králové",
+    "year": {
+      "text": "studie",
+      "year": "2023"
+    },
+    "authors": [
+      {
+        "position": "autor",
+        "people": [
+          "Pavel Zadrobílek, Kateřina Novotná"
+        ]
+      }
+    ],
+    "text": [],
+    "cover": {
+      "src": "img/bytovy-dum-prazska-84_Cover.webp",
+      "background": "#a0a6a2"
+    },
+    "images": [
+      {
+        "src": "img/bytovy-dum-prazska-84_img1.webp",
+        "background": "#848779"
+      },
+      {
+        "src": "img/bytovy-dum-prazska-84_img2.webp",
+        "background": "#777567"
+      },
+      {
+        "src": "img/bytovy-dum-prazska-84_img3.webp",
+        "background": "#828061"
+      },
+      {
+        "src": "img/bytovy-dum-prazska-84_img4.webp",
+        "background": "#85825f"
+      },
+      {
+        "src": "img/bytovy-dum-prazska-84_img5.webp",
+        "background": "#777566"
+      },
+      {
+        "src": "img/bytovy-dum-prazska-84_img6.webp",
+        "background": "#a0a6a2"
+      },
+      {
+        "src": "img/bytovy-dum-prazska-84_img7.webp",
+        "background": "#8c8d7b"
+      },
+      {
+        "src": "img/bytovy-dum-prazska-84_img8.webp",
+        "background": "#a4a094"
+      }
+    ],
+    "filters": [
+      "obytne-domy"
+    ]
+  },
+  {
+    "link": "stromovka",
+    "name": "bytové domy stromovka",
+    "location": "hradec králové",
+    "year": {
+      "text": "realizace",
+      "year": "2016"
+    },
+    "authors": [
+      {
+        "position": "autor",
+        "people": [
+          "Pavel Zadrobílek"
+        ]
+      }
+    ],
+    "text": [
+      "Bytový dům na konci ulice Ve Stromovce s výhledy do labské nivy. ",
+      "Dům je situován na konci ulice Ve Stromovce, která je páteří nové obytné čtvrti, na pomezí bytové a rodinné zástavby. Tato poloha zásadním způsobem formovala hmotové uspořádání bytového domu. Směrem k obytným domům se nachází pětipodlažní křídlo, pevně vymezující veřejný prostor. Další dvě křídla otočená k rodinným domům terasovitě sestupují na úroveň 4, resp. 3 NP. V domě se nachází 33 bytových jednotek s vyváženou skladbou bytů 1KK až 4KK. Byty umístěné v přízemí jsou orientované do veřejného prostoru a mají vlastní předzahrádku, což je pro tuto čtvrť charakteristické. Bytům to umožňuje zajistit si intimitu a obyvatelům esteticky zpříjemňuje veřejný parter. Servisní provozy, jako jsou sklepy a parkování jsou ukryté na opačné straně, což je praktické pro obyvatele domu. Součástí realizace jsou i nadstandardní sadové úpravy včetně výsadby několika vzrostlých stromů. Balkony umístěné nad sebou jsou propojeny až do 4NP pnoucí zelení a bytové terasy po obvodu osázenými okrasnou i produkčními rostlinami. Zeleň tak prostupuje celým domem. "
+    ],
+    "cover": {
+      "src": "img/stromovka_Cover.webp",
+      "background": "#798d9c"
+    },
+    "images": [
+      {
+        "src": "img/stromovka_img1.webp",
+        "background": "#667989"
+      },
+      {
+        "src": "img/stromovka_img2.webp",
+        "background": "#798c9b"
+      },
+      {
+        "src": "img/stromovka_img3.webp",
+        "background": "#817f7c"
+      },
+      {
+        "src": "img/stromovka_img4.webp",
+        "background": "#939496"
+      },
+      {
+        "src": "img/stromovka_img5.webp",
+        "background": "#7b7976"
+      },
+      {
+        "src": "img/stromovka_img6.webp",
+        "background": "#888888"
+      },
+      {
+        "src": "img/stromovka_img7.webp",
+        "background": "#7c7c7c"
+      },
+      {
+        "src": "img/stromovka_img8.webp",
+        "background": "#919191"
+      }
+    ],
+    "filters": [
+      "obytne-domy"
+    ]
+  },
+  {
+    "link": "bd-blodkova",
+    "name": "rezidence blodkova",
+    "location": "hradec králové",
+    "year": {
+      "text": "realizace",
+      "year": "2018"
+    },
+    "authors": [
+      {
+        "position": "foto",
+        "people": [
+          "Lucia Livovská, Marek Vlček"
+        ]
+      },
+      {
+        "position": "autor",
+        "people": [
+          "Maxmilián Vlček"
+        ]
+      }
+    ],
+    "text": [],
+    "cover": {
+      "src": "img/bd-blodkova_Cover.webp",
+      "background": "#a38f8b"
+    },
+    "images": [
+      {
+        "src": "img/bd-blodkova_img1.webp",
+        "background": "#a4908c"
+      },
+      {
+        "src": "img/bd-blodkova_img2.webp",
+        "background": "#9c96a0"
+      },
+      {
+        "src": "img/bd-blodkova_img3.webp",
+        "background": "#a29c9d"
+      },
+      {
+        "src": "img/bd-blodkova_img4.webp",
+        "background": "#aaa5a2"
+      },
+      {
+        "src": "img/bd-blodkova_img5.webp",
+        "background": "#a4a1a1"
+      },
+      {
+        "src": "img/bd-blodkova_img6.webp",
+        "background": "#aea8a6"
+      },
+      {
+        "src": "img/bd-blodkova_img7.webp",
+        "background": "#a39993"
+      },
+      {
+        "src": "img/bd-blodkova_img8.webp",
+        "background": "#bdb4b1"
+      },
+      {
+        "src": "img/bd-blodkova_img9.webp",
+        "background": "#a7a3b2"
+      },
+      {
+        "src": "img/bd-blodkova_img10.webp",
+        "background": "#c1b6ab"
+      },
+      {
+        "src": "img/bd-blodkova_img11.webp",
+        "background": "#9a9188"
+      },
+      {
+        "src": "img/bd-blodkova_img12.webp",
+        "background": "#817c6e"
+      },
+      {
+        "src": "img/bd-blodkova_img13.webp",
+        "background": "#a19a91"
+      }
+    ],
+    "filters": [
+      "obytne-domy"
+    ]
+  },
+  {
+    "link": "studentsky-ubytovaci-dum-malsovice",
+    "name": "studentský ubytovací dům malšovice",
+    "location": "hradec králové",
+    "year": {
+      "text": "začátek realizace",
+      "year": "2023"
+    },
+    "authors": [
+      {
+        "position": "autor",
+        "people": [
+          "Maxmilian Vlček,  Kateřina Novotná, Jan Ondrák"
+        ]
+      }
+    ],
+    "text": [
+      "Na parcelu připomínající trojúhelník navrhujeme studentský ubytovací dům. Hmotové řešení vychází ze specifického tvaru pozemku a půdorysně připomíná řecké písmeno delta nebo téměř rovnoramenný trojúhelník se seříznutým vrcholem (tedy ve skutečnosti přibližně symetrický čtyřúhelník). Hmota domu je prořezána pavlačí, která prostupuje přes všechny tři podlaží. Jižní - dominantní - část hmoty obsahuje větší množství ubytovacích jednotek a bytů, ostatní jednotky jsou v menší - severní části. Princip prořezávání hmot je použit také u zapuštěných lodžií, které se střídají s plnými hmotami v rámci jihozápadní fasády a částečně severozápadní fasády. Na východní části pozemku je umístěno parkování vozidel a zelené pobytové plochy. Z nich je přístupná nejen pavlač, ale také technická místnost, prádelna a 5 krytých stání pro vozidla."
+    ],
+    "cover": {
+      "src": "img/studentsky-ubytovaci-dum-malsovice_Cover.webp",
+      "background": "#777879"
+    },
+    "images": [
+      {
+        "src": "img/studentsky-ubytovaci-dum-malsovice_img1.webp",
+        "background": "#606877"
+      },
+      {
+        "src": "img/studentsky-ubytovaci-dum-malsovice_img2.webp",
+        "background": "#676d77"
+      },
+      {
+        "src": "img/studentsky-ubytovaci-dum-malsovice_img3.webp",
+        "background": "#69707b"
+      },
+      {
+        "src": "img/studentsky-ubytovaci-dum-malsovice_img4.webp",
+        "background": "#868b96"
+      },
+      {
+        "src": "img/studentsky-ubytovaci-dum-malsovice_img5.webp",
+        "background": "#6a727c"
+      },
+      {
+        "src": "img/studentsky-ubytovaci-dum-malsovice_img6.webp",
+        "background": "#898a87"
+      },
+      {
+        "src": "img/studentsky-ubytovaci-dum-malsovice_img7.webp",
+        "background": "#797e86"
+      },
+      {
+        "src": "img/studentsky-ubytovaci-dum-malsovice_img8.webp",
+        "background": "#777879"
+      },
+      {
+        "src": "img/studentsky-ubytovaci-dum-malsovice_img9.webp",
+        "background": "#fafafa"
+      },
+      {
+        "src": "img/studentsky-ubytovaci-dum-malsovice_img10.webp",
+        "background": "#f7f7f7"
+      },
+      {
+        "src": "img/studentsky-ubytovaci-dum-malsovice_img11.webp",
+        "background": "#9397a2"
+      },
+      {
+        "src": "img/studentsky-ubytovaci-dum-malsovice_img12.webp",
+        "background": "#7c7d84"
+      }
+    ],
+    "filters": [
+      "obytne-domy"
+    ]
+  },
+  {
+    "link": "cihelna",
+    "name": "obytná zóna cihelna",
+    "location": "pardubice",
+    "year": {
+      "text": "realizace",
+      "year": "2012"
+    },
+    "authors": [],
+    "text": [
+      "Obytná komplex se stavbou bytového domu, řadových a átriových rodinných domů. Zóna Cihelna je v krásném území nad slepým ramenem Labe, v dosahu města Pardubic a s výhled na Kunětickou horu."
+    ],
+    "cover": {
+      "src": "img/cihelna_Cover.webp",
+      "background": "#97979f"
+    },
+    "images": [
+      {
+        "src": "img/cihelna_img1.webp",
+        "background": "#9c99a5"
+      },
+      {
+        "src": "img/cihelna_img2.webp",
+        "background": "#939cb2"
+      },
+      {
+        "src": "img/cihelna_img3.webp",
+        "background": "#9f9ba3"
+      },
+      {
+        "src": "img/cihelna_img4.webp",
+        "background": "#97979f"
+      },
+      {
+        "src": "img/cihelna_img5.webp",
+        "background": "#6c6d7c"
+      },
+      {
+        "src": "img/cihelna_img6.webp",
+        "background": "#99989e"
+      },
+      {
+        "src": "img/cihelna_img7.webp",
+        "background": "#6f6872"
+      },
+      {
+        "src": "img/cihelna_img8.webp",
+        "background": "#686670"
+      }
+    ],
+    "filters": [
+      "obytne-domy"
+    ]
+  },
+  {
+    "link": "vsehrdova",
+    "name": "bytový dům všehrdova",
+    "location": "hradec králové",
+    "year": {
+      "text": "realizace",
+      "year": "2008"
+    },
+    "authors": [],
+    "text": [],
+    "cover": {
+      "src": "img/vsehrdova_Cover.webp",
+      "background": "#9999a0"
+    },
+    "images": [
+      {
+        "src": "img/vsehrdova_img1.webp",
+        "background": "#9c9aa6"
+      },
+      {
+        "src": "img/vsehrdova_img2.webp",
+        "background": "#9999a1"
+      },
+      {
+        "src": "img/vsehrdova_img3.webp",
+        "background": "#9a808e"
+      },
+      {
+        "src": "img/vsehrdova_img4.webp",
+        "background": "#9d9bad"
+      },
+      {
+        "src": "img/vsehrdova_img5.webp",
+        "background": "#8c6b6d"
+      }
+    ],
+    "filters": [
+      "obytne-domy"
+    ]
+  },
+  {
+    "link": "na-strezine",
+    "name": "bytové domy na střezině",
+    "location": "hradec králové",
+    "year": {
+      "text": "realizace",
+      "year": "2002"
+    },
+    "authors": [
+      {
+        "position": "autoři",
+        "people": [
+          "Pavel Zadrobílek, Alexand Pur"
+        ]
+      }
+    ],
+    "text": [],
+    "cover": {
+      "src": "img/na-strezine_Cover.webp",
+      "background": "#878495"
+    },
+    "images": [
+      {
+        "src": "img/na-strezine_img1.webp",
+        "background": "#b0a8ae"
+      },
+      {
+        "src": "img/na-strezine_img2.webp",
+        "background": "#687079"
+      },
+      {
+        "src": "img/na-strezine_img3.webp",
+        "background": "#777886"
+      },
+      {
+        "src": "img/na-strezine_img4.webp",
+        "background": "#737879"
+      },
+      {
+        "src": "img/na-strezine_img5.webp",
+        "background": "#878494"
+      },
+      {
+        "src": "img/na-strezine_img6.webp",
+        "background": "#9a6562"
+      },
+      {
+        "src": "img/na-strezine_img7.webp",
+        "background": "#716a6c"
+      },
+      {
+        "src": "img/na-strezine_img8.webp",
+        "background": "#888589"
+      },
+      {
+        "src": "img/na-strezine_img9.webp",
+        "background": "#7c7484"
+      }
+    ],
+    "filters": [
+      "obytne-domy"
+    ]
+  },
+  {
+    "link": "interier-rd-belec",
+    "name": "interiér rodinného domu",
+    "location": "běleč",
+    "year": {
+      "text": "realizace",
+      "year": "2022"
+    },
+    "authors": [
+      {
+        "position": "foto",
+        "people": [
+          "Lucia Livovská, Marek Vlček"
+        ]
+      },
+      {
+        "position": "autor interiéru",
+        "people": [
+          "Kateřina Novotná autor domu",
+          "Maxmilián Vlček"
+        ]
+      }
+    ],
+    "text": [
+      "Interiér novostavby rodinného domu u Hradce Králové.",
+      "\"S Žárovkou byla od začátku výborná spolupráce. S Katkou Novotnou a Maxem Vlčkem jsme byli celou dobu na stejné vlně - od architektonické studie až po návrhy interiéru. Oceňuji i zprostředkování kvalitních dodavatelů, kteří dokázali proměnit nápad v realitu.\""
+    ],
+    "cover": {
+      "src": "img/interier-rd-belec_Cover.webp",
+      "background": "#9d8e75"
+    },
+    "images": [
+      {
+        "src": "img/interier-rd-belec_img1.webp",
+        "background": "#827666"
+      },
+      {
+        "src": "img/interier-rd-belec_img2.webp",
+        "background": "#9d8e75"
+      },
+      {
+        "src": "img/interier-rd-belec_img3.webp",
+        "background": "#b0a59a"
+      },
+      {
+        "src": "img/interier-rd-belec_img4.webp",
+        "background": "#b3a99a"
+      },
+      {
+        "src": "img/interier-rd-belec_img5.webp",
+        "background": "#95887c"
+      },
+      {
+        "src": "img/interier-rd-belec_img6.webp",
+        "background": "#8a8071"
+      },
+      {
+        "src": "img/interier-rd-belec_img7.webp",
+        "background": "#7a745d"
+      },
+      {
+        "src": "img/interier-rd-belec_img8.webp",
+        "background": "#8e8773"
+      },
+      {
+        "src": "img/interier-rd-belec_img9.webp",
+        "background": "#9a8b76"
+      },
+      {
+        "src": "img/interier-rd-belec_img10.webp",
+        "background": "#8c7f70"
+      },
+      {
+        "src": "img/interier-rd-belec_img11.webp",
+        "background": "#a6a19b"
+      },
+      {
+        "src": "img/interier-rd-belec_img12.webp",
+        "background": "#a39076"
+      },
+      {
+        "src": "img/interier-rd-belec_img13.webp",
+        "background": "#b7aa98"
+      }
+    ],
+    "filters": [
+      "interiery"
+    ]
+  },
+  {
+    "link": "rekonstrukce-obradni-sin-cernilov",
+    "name": "obřadní síň",
+    "location": "černilov",
+    "year": {
+      "text": "realizace",
+      "year": "2020"
+    },
+    "authors": [
+      {
+        "position": "foto",
+        "people": [
+          "Lucia Livovská, Marek Vlček"
+        ]
+      },
+      {
+        "position": "autor",
+        "people": [
+          "Jana Rejsková"
+        ]
+      }
+    ],
+    "text": [
+      "Interiér bývalého evangelického kostela v Černilově je víceúčelovým prostorem, ve kterém se budou, kromě dosavadních smutečních obřadů, odehrávat i svatební obřady a pořádat koncerty, případně i komorní divadelní představení. Zásadní úpravou bylo odstranění vestaveb ze 70. let 20. století, kdy byl původní kostel přebudován na smuteční síň.",
+      "Obřadní prostor je nově tvořen kruhovým pódiem navazujícím na půlkruhový tvar apsidy. Hlavním prvkem interiéru je převýšená brána (paralela oltáře).  Potřebné zázemí je umístěno pod chór, kde je snížený strop. Vestavba navazuje na centrální vstup širokou chodbou vedoucí k hlavní lodi a ukončenou prosklenými ocelovými dveřmi. Po pravé straně je kancelář obřadníka, na straně levé nezbytné sociální zázemí. Schodiště vstupem z exteriéru vede na chór. Ten slouží zčásti jako hlediště a při občasných koncertech jako šatna umělců. Došlo i na repasi barokní varhanní skříně, která je jediným dochovaným prvkem původního interiéru kostela.",
+      "Barevné i materiálové pojetí prostoru je neutrální - teplé šedé tóny hladké omítky, historický brizolit, nátěry původních i nových dveří, pódium z božanovského pískovce, mozaika dlažby, černé akcenty kovářských prvků v podobě rámu dveřních křídel, madel a kování, repliky původních dveří z masivního olejovaného dubu, dýhovaný obklad zábradlí chóru. Hlavní loď je vybavena originálními dubovými lavicemi, které byly součástí návrhu. Pro obřady byl také vyroben řečnický pult, obřadní a přídavný stůl.",
+      "Na interiér kostela navazují i úpravy přilehlé zahrady."
+    ],
+    "cover": {
+      "src": "img/rekonstrukce-obradni-sin-cernilov_Cover.webp",
+      "background": "#8e847d"
+    },
+    "images": [
+      {
+        "src": "img/rekonstrukce-obradni-sin-cernilov_img1.webp",
+        "background": "#5e5c5c"
+      },
+      {
+        "src": "img/rekonstrukce-obradni-sin-cernilov_img2.webp",
+        "background": "#4a4643"
+      },
+      {
+        "src": "img/rekonstrukce-obradni-sin-cernilov_img3.webp",
+        "background": "#727475"
+      },
+      {
+        "src": "img/rekonstrukce-obradni-sin-cernilov_img4.webp",
+        "background": "#84776a"
+      },
+      {
+        "src": "img/rekonstrukce-obradni-sin-cernilov_img5.webp",
+        "background": "#80736c"
+      },
+      {
+        "src": "img/rekonstrukce-obradni-sin-cernilov_img6.webp",
+        "background": "#67554a"
+      },
+      {
+        "src": "img/rekonstrukce-obradni-sin-cernilov_img7.webp",
+        "background": "#7e7065"
+      },
+      {
+        "src": "img/rekonstrukce-obradni-sin-cernilov_img8.webp",
+        "background": "#8f8c87"
+      },
+      {
+        "src": "img/rekonstrukce-obradni-sin-cernilov_img9.webp",
+        "background": "#6b5f5d"
+      },
+      {
+        "src": "img/rekonstrukce-obradni-sin-cernilov_img10.webp",
+        "background": "#938a83"
+      },
+      {
+        "src": "img/rekonstrukce-obradni-sin-cernilov_img11.webp",
+        "background": "#6f6761"
+      },
+      {
+        "src": "img/rekonstrukce-obradni-sin-cernilov_img12.webp",
+        "background": "#67605b"
+      },
+      {
+        "src": "img/rekonstrukce-obradni-sin-cernilov_img13.webp",
+        "background": "#656667"
+      },
+      {
+        "src": "img/rekonstrukce-obradni-sin-cernilov_img14.webp",
+        "background": "#6e6c6c"
+      },
+      {
+        "src": "img/rekonstrukce-obradni-sin-cernilov_img15.webp",
+        "background": "#4e4949"
+      },
+      {
+        "src": "img/rekonstrukce-obradni-sin-cernilov_img16.webp",
+        "background": "#43403e"
+      },
+      {
+        "src": "img/rekonstrukce-obradni-sin-cernilov_img17.webp",
+        "background": "#424343"
+      }
+    ],
+    "filters": [
+      "interiery"
+    ]
+  },
+  {
+    "link": "interier-bytu-vinohrady",
+    "name": "byt na vinohradech",
+    "location": "praha",
+    "year": {
+      "text": "realizace",
+      "year": "2021"
+    },
+    "authors": [
+      {
+        "position": "foto",
+        "people": [
+          "Novák"
+        ]
+      },
+      {
+        "position": "autor",
+        "people": [
+          "Kateřina Novotná, Lucia Livovská"
+        ]
+      }
+    ],
+    "text": [
+      "Byt s modrou kuchyní plný ladných křivek. "
+    ],
+    "cover": {
+      "src": "img/interier-bytu-vinohrady_Cover.webp",
+      "background": "#a19b9f"
+    },
+    "images": [
+      {
+        "src": "img/interier-bytu-vinohrady_img1.webp",
+        "background": "#a2a1a2"
+      },
+      {
+        "src": "img/interier-bytu-vinohrady_img2.webp",
+        "background": "#919fab"
+      },
+      {
+        "src": "img/interier-bytu-vinohrady_img3.webp",
+        "background": "#a19b9f"
+      },
+      {
+        "src": "img/interier-bytu-vinohrady_img4.webp",
+        "background": "#a2a0a7"
+      },
+      {
+        "src": "img/interier-bytu-vinohrady_img5.webp",
+        "background": "#a2a9ac"
+      },
+      {
+        "src": "img/interier-bytu-vinohrady_img6.webp",
+        "background": "#8a8e97"
+      },
+      {
+        "src": "img/interier-bytu-vinohrady_img7.webp",
+        "background": "#94949c"
+      },
+      {
+        "src": "img/interier-bytu-vinohrady_img8.webp",
+        "background": "#a6a09c"
+      }
+    ],
+    "filters": [
+      "interiery"
+    ]
+  },
+  {
+    "link": "administrativni-budova-asseco",
+    "name": "administrativní budova asseco solutions a.s.",
+    "location": "hradec králové",
+    "year": {
+      "text": "realizace",
+      "year": "2023"
+    },
+    "authors": [
+      {
+        "position": "foto",
+        "people": [
+          "Lucia a Marek Vlčkovi"
+        ]
+      },
+      {
+        "position": "autor",
+        "people": [
+          "Kateřina Novotná"
+        ]
+      }
+    ],
+    "text": [
+      "Nástavba a přístavba pobočky firmy Asseco Solution a.s. v Hradci Králové. Původní budova hostince postaveného na začátku 20. století mnohokrát změnila svůj účel. Množství více či méně vhodných přestaveb a přístaveb negativně poznamenalo její původní vzhled. Prostorové potřeby rozvíjející se firmy nebylo možné naplnit pouhou přestavbou objektu. Byla proto navržena přístavba objektu směrem do dvora. Do nové přístavby byla firma dočasně přesunuta. Následně byla modernizována původní budova, včetně nové střešní nástavby.",
+      "Součástí projektu byl i návrh interiéru dynamicky se rozvíjející softvérové firmy. "
+    ],
+    "cover": {
+      "src": "img/administrativni-budova-asseco_Cover.webp",
+      "background": "#8e7d6c"
+    },
+    "images": [
+      {
+        "src": "img/administrativni-budova-asseco_img1.webp",
+        "background": "#a8a6a3"
+      },
+      {
+        "src": "img/administrativni-budova-asseco_img2.webp",
+        "background": "#d4d3d0"
+      },
+      {
+        "src": "img/administrativni-budova-asseco_img3.webp",
+        "background": "#70645f"
+      },
+      {
+        "src": "img/administrativni-budova-asseco_img4.webp",
+        "background": "#4c5453"
+      },
+      {
+        "src": "img/administrativni-budova-asseco_img5.webp",
+        "background": "#586167"
+      },
+      {
+        "src": "img/administrativni-budova-asseco_img6.webp",
+        "background": "#8e7d6c"
+      },
+      {
+        "src": "img/administrativni-budova-asseco_img7.webp",
+        "background": "#947f6b"
+      },
+      {
+        "src": "img/administrativni-budova-asseco_img8.webp",
+        "background": "#6c8690"
+      },
+      {
+        "src": "img/administrativni-budova-asseco_img9.webp",
+        "background": "#c7a781"
+      },
+      {
+        "src": "img/administrativni-budova-asseco_img10.webp",
+        "background": "#896f5e"
+      },
+      {
+        "src": "img/administrativni-budova-asseco_img11.webp",
+        "background": "#827e77"
+      },
+      {
+        "src": "img/administrativni-budova-asseco_img12.webp",
+        "background": "#847567"
+      },
+      {
+        "src": "img/administrativni-budova-asseco_img13.webp",
+        "background": "#6e6456"
+      },
+      {
+        "src": "img/administrativni-budova-asseco_img14.webp",
+        "background": "#c19d6e"
+      },
+      {
+        "src": "img/administrativni-budova-asseco_img15.webp",
+        "background": "#84827c"
+      },
+      {
+        "src": "img/administrativni-budova-asseco_img16.webp",
+        "background": "#7e7b78"
+      },
+      {
+        "src": "img/administrativni-budova-asseco_img17.webp",
+        "background": "#655851"
+      },
+      {
+        "src": "img/administrativni-budova-asseco_img18.webp",
+        "background": "#717a78"
+      },
+      {
+        "src": "img/administrativni-budova-asseco_img19.webp",
+        "background": "#978874"
+      },
+      {
+        "src": "img/administrativni-budova-asseco_img20.webp",
+        "background": "#565b50"
+      },
+      {
+        "src": "img/administrativni-budova-asseco_img21.webp",
+        "background": "#647365"
+      },
+      {
+        "src": "img/administrativni-budova-asseco_img22.webp",
+        "background": "#918f89"
+      },
+      {
+        "src": "img/administrativni-budova-asseco_img23.webp",
+        "background": "#969897"
+      },
+      {
+        "src": "img/administrativni-budova-asseco_img24.webp",
+        "background": "#9e958d"
+      }
+    ],
+    "filters": [
+      "interiery"
+    ]
+  },
+  {
+    "link": "sin-slavy-fchk",
+    "name": "síň slávy fchk",
+    "location": "hradec králové",
+    "year": {
+      "text": "realizace",
+      "year": "2023"
+    },
+    "authors": [
+      {
+        "position": "foto",
+        "people": [
+          "Lucia a Marek Vlčkovi"
+        ]
+      },
+      {
+        "position": "autor",
+        "people": [
+          "Kateřina Novotná, Maxmilián Vlček"
+        ]
+      }
+    ],
+    "text": [
+      "FCHK:",
+      "V roce 1926 po vítězství ve VÝCHODOČESKÉ ŽUPĚ FOTBALOVÉ zvítězil v kvalifikaci a stal se MISTREM ČESKÉHO VENKOVA",
+      "V roce 1960 se stal MISTREM I. LIGY",
+      "V roce 1995 byl vítězem Poháru ČESKOMORAVSKÉHO FOTBALOVÉHO SVAZU.",
+      "Zúčastnil se evropského Poháru MISTRŮ EVROPSKÝCH ZEMÍ (1960/61),",
+      "evropského RAPPANOVA POHÁRU (1961,1966),",
+      "STŘEDOEVROPSKÉHO POHÁRU (1962),",
+      "evropského POHÁRU VÍŤĚZŮ POHÁRU (1995),",
+      "Finalista ČESKOSLOVENSKÉHO POHÁRU (1952,1961). ",
+      "Všechny tyto úspěchy a další významné události, které tvoří historii klubu, nesmíme zapomínat. Snažili jsme se proto vytvořit důstojné prostředí pro umístění křišťálových pohárů a nablýskaných trofejí, které připomínají hvězdné okamžiky klubu. Naleznete zde ale i jiné artefakty připomínající významné okamžiky z dějin klubu. "
+    ],
+    "cover": {
+      "src": "img/sin-slavy-fchk_Cover.webp",
+      "background": "#866c41"
+    },
+    "images": [
+      {
+        "src": "img/sin-slavy-fchk_img1.webp",
+        "background": "#8b6a37"
+      },
+      {
+        "src": "img/sin-slavy-fchk_img2.webp",
+        "background": "#816d4d"
+      },
+      {
+        "src": "img/sin-slavy-fchk_img3.webp",
+        "background": "#696254"
+      },
+      {
+        "src": "img/sin-slavy-fchk_img4.webp",
+        "background": "#866c40"
+      },
+      {
+        "src": "img/sin-slavy-fchk_img5.webp",
+        "background": "#957548"
+      },
+      {
+        "src": "img/sin-slavy-fchk_img6.webp",
+        "background": "#8d692a"
+      },
+      {
+        "src": "img/sin-slavy-fchk_img7.webp",
+        "background": "#8c7654"
+      }
+    ],
+    "filters": [
+      "interiery"
+    ]
+  },
+  {
+    "link": "simple-cafe",
+    "name": "simle café",
+    "location": "hradec králové",
+    "year": {
+      "text": "realizace",
+      "year": "2019"
+    },
+    "authors": [
+      {
+        "position": "foto",
+        "people": [
+          "Lucia Livovská, Marek Vlček"
+        ]
+      },
+      {
+        "position": "autoři",
+        "people": [
+          "Vladimír Šolc, Maxmilián Vlček"
+        ]
+      }
+    ],
+    "text": [
+      "Interiér kavárny ve Švehlově ulici v centru Hradce Králové. Jednoduchý koncept s industriálním nádechem a nábytkem z mořené překližky, nabízí barové sezení pro jednotlivce, stolové sezení pro skupiny a intimní gaučové sezení. Návrh je přizpůsoben současnému trendu provozu kaváren ve smyslu espresso baru, kde se objednává u pultu. Kovové konstrukce a doplňky jsou dílem uměleckého kovářství Fabri. Obrazy na stěnách namaloval Marek Bělohlávek."
+    ],
+    "cover": {
+      "src": "img/simple-cafe_Cover.webp",
+      "background": "#887064"
+    },
+    "images": [
+      {
+        "src": "img/simple-cafe_img1.webp",
+        "background": "#866f64"
+      },
+      {
+        "src": "img/simple-cafe_img2.webp",
+        "background": "#887064"
+      },
+      {
+        "src": "img/simple-cafe_img3.webp",
+        "background": "#908b87"
+      },
+      {
+        "src": "img/simple-cafe_img4.webp",
+        "background": "#8f8985"
+      },
+      {
+        "src": "img/simple-cafe_img5.webp",
+        "background": "#878683"
+      },
+      {
+        "src": "img/simple-cafe_img6.webp",
+        "background": "#928a86"
+      },
+      {
+        "src": "img/simple-cafe_img7.webp",
+        "background": "#7b7774"
+      },
+      {
+        "src": "img/simple-cafe_img8.webp",
+        "background": "#866e5e"
+      },
+      {
+        "src": "img/simple-cafe_img9.webp",
+        "background": "#9a8e83"
+      },
+      {
+        "src": "img/simple-cafe_img10.webp",
+        "background": "#9f9389"
+      },
+      {
+        "src": "img/simple-cafe_img11.webp",
+        "background": "#908883"
+      },
+      {
+        "src": "img/simple-cafe_img12.webp",
+        "background": "#968a84"
+      },
+      {
+        "src": "img/simple-cafe_img13.webp",
+        "background": "#68696b"
+      },
+      {
+        "src": "img/simple-cafe_img14.webp",
+        "background": "#787271"
+      },
+      {
+        "src": "img/simple-cafe_img15.webp",
+        "background": "#7b7168"
+      },
+      {
+        "src": "img/simple-cafe_img16.webp",
+        "background": "#949190"
+      },
+      {
+        "src": "img/simple-cafe_img17.webp",
+        "background": "#846e5c"
+      }
+    ],
+    "filters": [
+      "interiery"
+    ]
+  },
+  {
+    "link": "optika-adamek",
+    "name": "optika adámek",
+    "location": "hradec králové",
+    "year": {
+      "text": "realizace",
+      "year": "2017"
+    },
+    "authors": [
+      {
+        "position": "foto",
+        "people": [
+          "Lucie Livovská, Marek Vček"
+        ]
+      },
+      {
+        "position": "autoři",
+        "people": [
+          "Vladimír Šolc, Maxmilian Vlček"
+        ]
+      }
+    ],
+    "text": [],
+    "cover": {
+      "src": "img/optika-adamek_Cover.webp",
+      "background": "#9e9b97"
+    },
+    "images": [
+      {
+        "src": "img/optika-adamek_img1.webp",
+        "background": "#979390"
+      },
+      {
+        "src": "img/optika-adamek_img2.webp",
+        "background": "#aea296"
+      },
+      {
+        "src": "img/optika-adamek_img3.webp",
+        "background": "#aaa097"
+      },
+      {
+        "src": "img/optika-adamek_img4.webp",
+        "background": "#78716d"
+      },
+      {
+        "src": "img/optika-adamek_img5.webp",
+        "background": "#a09b97"
+      },
+      {
+        "src": "img/optika-adamek_img6.webp",
+        "background": "#9c9892"
+      },
+      {
+        "src": "img/optika-adamek_img7.webp",
+        "background": "#b3a3a2"
+      },
+      {
+        "src": "img/optika-adamek_img8.webp",
+        "background": "#a4998e"
+      }
+    ],
+    "filters": [
+      "interiery"
+    ]
+  },
+  {
+    "link": "pivovarske-domy",
+    "name": "restaurace pivovarské domy",
+    "location": "hradec králové",
+    "year": {
+      "text": "REALIZACE",
+      "year": "2018"
+    },
+    "authors": [
+      {
+        "position": "foto",
+        "people": [
+          "Lucia Livovská, Marek Vlček"
+        ]
+      },
+      {
+        "position": "autoři",
+        "people": [
+          "Maxmilián Vlček, Jan Ondrák"
+        ]
+      }
+    ],
+    "text": [
+      "Přestavba původního prostoru Kavárny u Knihomola a propojení více městských domů dalo vzniknout nové restauraci s pivovarem. Moderní čistý interiér, pod původními klenbami na tradiční dubové podlaze vzoru vídeňského kříže, ctí samotný prostor i historický půvab starého města. Monokolorní dubový nábytek a světlá okrová výmalba jsou doplněny kontrastem živé zelené stěny za barem. Interiér je doplněn jednoduchými tvary světel a masivními dubovými židlemi."
+    ],
+    "cover": {
+      "src": "img/pivovarske-domy_Cover.webp",
+      "background": "#917869"
+    },
+    "images": [
+      {
+        "src": "img/pivovarske-domy_img1.webp",
+        "background": "#958171"
+      },
+      {
+        "src": "img/pivovarske-domy_img2.webp",
+        "background": "#948070"
+      },
+      {
+        "src": "img/pivovarske-domy_img3.webp",
+        "background": "#8a7566"
+      },
+      {
+        "src": "img/pivovarske-domy_img4.webp",
+        "background": "#907768"
+      },
+      {
+        "src": "img/pivovarske-domy_img5.webp",
+        "background": "#8d7462"
+      },
+      {
+        "src": "img/pivovarske-domy_img6.webp",
+        "background": "#837063"
+      },
+      {
+        "src": "img/pivovarske-domy_img7.webp",
+        "background": "#927661"
+      },
+      {
+        "src": "img/pivovarske-domy_img8.webp",
+        "background": "#937760"
+      },
+      {
+        "src": "img/pivovarske-domy_img9.webp",
+        "background": "#907560"
+      },
+      {
+        "src": "img/pivovarske-domy_img10.webp",
+        "background": "#816550"
+      },
+      {
+        "src": "img/pivovarske-domy_img11.webp",
+        "background": "#705948"
+      },
+      {
+        "src": "img/pivovarske-domy_img12.webp",
+        "background": "#7a695f"
+      },
+      {
+        "src": "img/pivovarske-domy_img13.webp",
+        "background": "#a09894"
+      }
+    ],
+    "filters": [
+      "interiery"
+    ]
+  },
+  {
+    "link": "roudnicka2",
+    "name": "interiér rodinného domu",
+    "location": "roudnička",
+    "year": {
+      "text": "realizace",
+      "year": "2014"
+    },
+    "authors": [
+      {
+        "position": "foto",
+        "people": [
+          "Šárka Dlouhá"
+        ]
+      },
+      {
+        "position": "autor",
+        "people": [
+          "Vladimír Šolc"
+        ]
+      }
+    ],
+    "text": [],
+    "cover": {
+      "src": "img/roudnicka2_Cover.webp",
+      "background": "#64666c"
+    },
+    "images": [
+      {
+        "src": "img/roudnicka2_img1.webp",
+        "background": "#64666c"
+      },
+      {
+        "src": "img/roudnicka2_img2.webp",
+        "background": "#656d72"
+      },
+      {
+        "src": "img/roudnicka2_img3.webp",
+        "background": "#6c8391"
+      },
+      {
+        "src": "img/roudnicka2_img4.webp",
+        "background": "#7f878a"
+      },
+      {
+        "src": "img/roudnicka2_img5.webp",
+        "background": "#8b9292"
+      },
+      {
+        "src": "img/roudnicka2_img6.webp",
+        "background": "#7e8580"
+      },
+      {
+        "src": "img/roudnicka2_img7.webp",
+        "background": "#726968"
+      },
+      {
+        "src": "img/roudnicka2_img8.webp",
+        "background": "#877162"
+      },
+      {
+        "src": "img/roudnicka2_img9.webp",
+        "background": "#868c8c"
+      },
+      {
+        "src": "img/roudnicka2_img10.webp",
+        "background": "#87746d"
+      },
+      {
+        "src": "img/roudnicka2_img11.webp",
+        "background": "#a98f86"
+      }
+    ],
+    "filters": [
+      "interiery"
+    ]
+  },
+  {
+    "link": "dohledove-centrum",
+    "name": "dohledové centrum",
+    "location": "hradec králové",
+    "year": {
+      "text": "realizace",
+      "year": "2012"
+    },
+    "authors": [
+      {
+        "position": "autor",
+        "people": [
+          "Vladimír Šolc"
+        ]
+      }
+    ],
+    "text": [],
+    "cover": {
+      "src": "img/dohledove-centrum_Cover.webp",
+      "background": "#5c6185"
+    },
+    "images": [
+      {
+        "src": "img/dohledove-centrum_img1.webp",
+        "background": "#4a444e"
+      },
+      {
+        "src": "img/dohledove-centrum_img2.webp",
+        "background": "#666676"
+      },
+      {
+        "src": "img/dohledove-centrum_img3.webp",
+        "background": "#584946"
+      },
+      {
+        "src": "img/dohledove-centrum_img4.webp",
+        "background": "#6e6668"
+      },
+      {
+        "src": "img/dohledove-centrum_img5.webp",
+        "background": "#666056"
+      },
+      {
+        "src": "img/dohledove-centrum_img6.webp",
+        "background": "#4a4e5b"
+      },
+      {
+        "src": "img/dohledove-centrum_img7.webp",
+        "background": "#484350"
+      },
+      {
+        "src": "img/dohledove-centrum_img8.webp",
+        "background": "#746862"
+      }
+    ],
+    "filters": [
+      "interiery"
+    ]
+  },
+  {
+    "link": "laserove-centrum",
+    "name": "laser centrum",
+    "location": "pardubice",
+    "year": {
+      "text": "realizace",
+      "year": "2012"
+    },
+    "authors": [
+      {
+        "position": "foto",
+        "people": [
+          "Šárka Dlouhá"
+        ]
+      },
+      {
+        "position": "autoři",
+        "people": [
+          "Jana Rejsková, Maxmilián Vlček"
+        ]
+      }
+    ],
+    "text": [],
+    "cover": {
+      "src": "img/laserove-centrum_Cover.webp",
+      "background": "#807d7c"
+    },
+    "images": [
+      {
+        "src": "img/laserove-centrum_img1.webp",
+        "background": "#838588"
+      },
+      {
+        "src": "img/laserove-centrum_img2.webp",
+        "background": "#8d8c8b"
+      },
+      {
+        "src": "img/laserove-centrum_img3.webp",
+        "background": "#a19fa1"
+      },
+      {
+        "src": "img/laserove-centrum_img4.webp",
+        "background": "#939288"
+      },
+      {
+        "src": "img/laserove-centrum_img5.webp",
+        "background": "#959396"
+      },
+      {
+        "src": "img/laserove-centrum_img6.webp",
+        "background": "#58575a"
+      },
+      {
+        "src": "img/laserove-centrum_img7.webp",
+        "background": "#5d5c5e"
+      },
+      {
+        "src": "img/laserove-centrum_img8.webp",
+        "background": "#958f89"
+      },
+      {
+        "src": "img/laserove-centrum_img9.webp",
+        "background": "#888587"
+      },
+      {
+        "src": "img/laserove-centrum_img10.webp",
+        "background": "#9a9692"
+      }
+    ],
+    "filters": [
+      "interiery"
+    ]
+  },
+  {
+    "link": "interier-rodinneho-domu-nemosice",
+    "name": "interiér rodinného domu",
+    "location": "nemošice",
+    "year": {
+      "text": "realizace",
+      "year": "2012"
+    },
+    "authors": [
+      {
+        "position": "autor",
+        "people": [
+          "Šárka Dlouhá"
+        ]
+      }
+    ],
+    "text": [],
+    "cover": {
+      "src": "img/interier-rodinneho-domu-nemosice_Cover.webp",
+      "background": "#9d7e69"
+    },
+    "images": [
+      {
+        "src": "img/interier-rodinneho-domu-nemosice_img1.webp",
+        "background": "#846656"
+      },
+      {
+        "src": "img/interier-rodinneho-domu-nemosice_img2.webp",
+        "background": "#877469"
+      },
+      {
+        "src": "img/interier-rodinneho-domu-nemosice_img3.webp",
+        "background": "#786157"
+      },
+      {
+        "src": "img/interier-rodinneho-domu-nemosice_img4.webp",
+        "background": "#947f6e"
+      },
+      {
+        "src": "img/interier-rodinneho-domu-nemosice_img5.webp",
+        "background": "#6d6251"
+      },
+      {
+        "src": "img/interier-rodinneho-domu-nemosice_img6.webp",
+        "background": "#6f686a"
+      },
+      {
+        "src": "img/interier-rodinneho-domu-nemosice_img7.webp",
+        "background": "#928074"
+      }
+    ],
+    "filters": [
+      "interiery"
+    ]
+  },
+  {
+    "link": "interier-v-roudnicce",
+    "name": "interiér rodinného domu",
+    "location": "roudnička",
+    "year": {
+      "text": "realizace",
+      "year": "2011"
+    },
+    "authors": [],
+    "text": [],
+    "cover": {
+      "src": "img/interier-v-roudnicce_Cover.webp",
+      "background": "#9fa0a3"
+    },
+    "images": [
+      {
+        "src": "img/interier-v-roudnicce_img1.webp",
+        "background": "#908d8b"
+      },
+      {
+        "src": "img/interier-v-roudnicce_img2.webp",
+        "background": "#878587"
+      },
+      {
+        "src": "img/interier-v-roudnicce_img3.webp",
+        "background": "#74777a"
+      },
+      {
+        "src": "img/interier-v-roudnicce_img4.webp",
+        "background": "#9e9fa2"
+      },
+      {
+        "src": "img/interier-v-roudnicce_img5.webp",
+        "background": "#887f7c"
+      }
+    ],
+    "filters": [
+      "interiery"
+    ]
+  },
+  {
+    "link": "rozmarna",
+    "name": "restaurace rozmarná",
+    "location": "praha",
+    "year": {
+      "text": "realizace",
+      "year": "2009"
+    },
+    "authors": [],
+    "text": [],
+    "cover": {
+      "src": "img/rozmarna_Cover.webp",
+      "background": "#6a5132"
+    },
+    "images": [
+      {
+        "src": "img/rozmarna_img1.webp",
+        "background": "#6c5231"
+      },
+      {
+        "src": "img/rozmarna_img2.webp",
+        "background": "#6b4b3c"
+      },
+      {
+        "src": "img/rozmarna_img3.webp",
+        "background": "#65472e"
+      },
+      {
+        "src": "img/rozmarna_img4.webp",
+        "background": "#7e5635"
+      },
+      {
+        "src": "img/rozmarna_img5.webp",
+        "background": "#3b5142"
+      },
+      {
+        "src": "img/rozmarna_img6.webp",
+        "background": "#3d4538"
+      },
+      {
+        "src": "img/rozmarna_img7.webp",
+        "background": "#495b5b"
+      },
+      {
+        "src": "img/rozmarna_img8.webp",
+        "background": "#715138"
+      }
+    ],
+    "filters": [
+      "interiery"
+    ]
+  },
+  {
+    "link": "cook-look",
+    "name": "bistro cook & look",
+    "location": "hradec králové",
+    "year": {
+      "text": "realizace",
+      "year": "2007"
+    },
+    "authors": [],
+    "text": [],
+    "cover": {
+      "src": "img/cook-look_Cover.webp",
+      "background": "#7c4f24"
+    },
+    "images": [
+      {
+        "src": "img/cook-look_img1.webp",
+        "background": "#7c4f24"
+      },
+      {
+        "src": "img/cook-look_img2.webp",
+        "background": "#85623e"
+      },
+      {
+        "src": "img/cook-look_img3.webp",
+        "background": "#6c3f22"
+      },
+      {
+        "src": "img/cook-look_img4.webp",
+        "background": "#9c796a"
+      },
+      {
+        "src": "img/cook-look_img5.webp",
+        "background": "#745932"
+      },
+      {
+        "src": "img/cook-look_img6.webp",
+        "background": "#937546"
+      }
+    ],
+    "filters": [
+      "interiery"
+    ]
+  },
+  {
+    "link": "interier-plotiste",
+    "name": "interiér bytu v plotištích",
+    "location": "hradec králové - plotiště",
+    "year": {
+      "text": "realizace",
+      "year": "2005"
+    },
+    "authors": [],
+    "text": [],
+    "cover": {
+      "src": "img/interier-plotiste_Cover.webp",
+      "background": "#a23735"
+    },
+    "images": [
+      {
+        "src": "img/interier-plotiste_img1.webp",
+        "background": "#a23735"
+      },
+      {
+        "src": "img/interier-plotiste_img2.webp",
+        "background": "#7e4548"
+      },
+      {
+        "src": "img/interier-plotiste_img3.webp",
+        "background": "#6b4143"
+      },
+      {
+        "src": "img/interier-plotiste_img4.webp",
+        "background": "#5e393a"
+      },
+      {
+        "src": "img/interier-plotiste_img5.webp",
+        "background": "#68605d"
+      },
+      {
+        "src": "img/interier-plotiste_img6.webp",
+        "background": "#514e4e"
+      },
+      {
+        "src": "img/interier-plotiste_img7.webp",
+        "background": "#786362"
+      },
+      {
+        "src": "img/interier-plotiste_img8.webp",
+        "background": "#605657"
+      }
+    ],
+    "filters": [
+      "interiery"
+    ]
+  },
+  {
+    "link": "novy-pivovar",
+    "name": "restaurace nový pivovar",
+    "location": "hradec králové",
+    "year": {
+      "text": "realizace",
+      "year": "2007"
+    },
+    "authors": [
+      {
+        "position": "autor",
+        "people": [
+          "Vladimír Šolc"
+        ]
+      }
+    ],
+    "text": [],
+    "cover": {
+      "src": "img/novy-pivovar_Cover.webp",
+      "background": "#7a5b44"
+    },
+    "images": [
+      {
+        "src": "img/novy-pivovar_img1.webp",
+        "background": "#5f3e2a"
+      },
+      {
+        "src": "img/novy-pivovar_img2.webp",
+        "background": "#955d3f"
+      },
+      {
+        "src": "img/novy-pivovar_img3.webp",
+        "background": "#8f4c30"
+      },
+      {
+        "src": "img/novy-pivovar_img4.webp",
+        "background": "#7b5b44"
+      },
+      {
+        "src": "img/novy-pivovar_img5.webp",
+        "background": "#977b5a"
+      },
+      {
+        "src": "img/novy-pivovar_img6.webp",
+        "background": "#613a30"
+      },
+      {
+        "src": "img/novy-pivovar_img7.webp",
+        "background": "#72665c"
+      }
+    ],
+    "filters": [
+      "interiery"
+    ]
+  },
+  {
+    "link": "bar-69",
+    "name": "bar 69",
+    "location": "hradec králové",
+    "year": {
+      "text": "realizace",
+      "year": "2002"
+    },
+    "authors": [],
+    "text": [],
+    "cover": {
+      "src": "img/bar-69_Cover.webp",
+      "background": "#626464"
+    },
+    "images": [
+      {
+        "src": "img/bar-69_img1.webp",
+        "background": "#616263"
+      },
+      {
+        "src": "img/bar-69_img2.webp",
+        "background": "#7c7a7a"
+      },
+      {
+        "src": "img/bar-69_img3.webp",
+        "background": "#59585b"
+      },
+      {
+        "src": "img/bar-69_img4.webp",
+        "background": "#774745"
+      }
+    ],
+    "filters": [
+      "interiery"
+    ]
+  },
+  {
+    "link": "knihomol",
+    "name": "kavárna u knihomola",
+    "location": "hradec králové",
+    "year": {
+      "text": "realizace",
+      "year": "2001"
+    },
+    "authors": [],
+    "text": [],
+    "cover": {
+      "src": "img/knihomol_Cover.webp",
+      "background": "#936c58"
+    },
+    "images": [
+      {
+        "src": "img/knihomol_img1.webp",
+        "background": "#936c58"
+      },
+      {
+        "src": "img/knihomol_img2.webp",
+        "background": "#9f604c"
+      },
+      {
+        "src": "img/knihomol_img3.webp",
+        "background": "#9b725b"
+      },
+      {
+        "src": "img/knihomol_img4.webp",
+        "background": "#9a766c"
+      },
+      {
+        "src": "img/knihomol_img5.webp",
+        "background": "#a65f32"
+      },
+      {
+        "src": "img/knihomol_img6.webp",
+        "background": "#9e4136"
+      },
+      {
+        "src": "img/knihomol_img7.webp",
+        "background": "#9c9395"
+      }
+    ],
+    "filters": [
+      "interiery"
+    ]
+  },
+  {
+    "link": "kozicka",
+    "name": "restaurace kozička",
+    "location": "praha",
+    "year": {
+      "text": "realizace",
+      "year": "1998"
+    },
+    "authors": [],
+    "text": [],
+    "cover": {
+      "src": "img/kozicka_Cover.webp",
+      "background": "#755d50"
+    },
+    "images": [
+      {
+        "src": "img/kozicka_img1.webp",
+        "background": "#725a4d"
+      },
+      {
+        "src": "img/kozicka_img2.webp",
+        "background": "#855c46"
+      },
+      {
+        "src": "img/kozicka_img3.webp",
+        "background": "#755d50"
+      }
+    ],
+    "filters": [
+      "interiery"
+    ]
+  },
+  {
+    "link": "hotel-aldis",
+    "name": "hotel aldis",
+    "location": "hradec králové",
+    "year": {
+      "text": "realizace",
+      "year": "2022"
+    },
+    "authors": [
+      {
+        "position": "foto",
+        "people": [
+          "Lucia a Marek Vlčkovi"
+        ]
+      },
+      {
+        "position": "autoři interiéru",
+        "people": [
+          "Maxmilian Vlček, Jan Ondrák, Marek Vlček, Lucie Vlčková"
+        ]
+      },
+      {
+        "position": "autoři",
+        "people": [
+          "Maxmilian Vlček, Jan Ondrák, Pavel Zadrobílek, Marek Vlček"
+        ]
+      }
+    ],
+    "text": [
+      "Přestavba stávajícího objektu v lokalitě Aldis na kongresový hotel. ",
+      "Náš návrh rekonstrukce původního objektu vycházel z již 10 let platného stavebního povolení. Návrh jsme přepracovali s ohledem na požadavky nového majitele, současného trendu kongresového hoteliérství a limitů platné stavební dokumentace.",
+      "Leitmotiv návrhu spočívá v myšlence připomenout Hradec Králové jako salón republiky.",
+      "Objekt má šest nadzemních podlaží, jedno podzemní podlaží a střešení ustoupenou nástavbu. Hlavní průčelí je orientované směrem ke Kongresovému centru Aldis. Na odvrácené straně, směrem k Šimkovým sadům přiléhá k hotelu dvoupodlažní parkovací objekt, přičemž spodní úroveň parkování je na úrovni 1.PP. Objemově tvoří objekt jednoduchou kubickou hmotu na půdoryse štíhlého obdélníku původní budovy, západní průčelí směrem k Aldisu je ve 3.-6.NP předsazeno o 2 m před líc spodních dvou podlaží.",
+      "Funkčně je hotel rozdělen na část provozní v 1.PP (zázemí hotelu, restaurace, sklady, parkování), společenskou v 1.NP (vstupní lobby, a la carte restaurace, snídaňová restaurace) a ve 2.NP (kongresové sály a předsálí) a část ubytovací ve 3. - 6.NP. V 6.NP se dále nachází kongresové salonky s unikátním výhledem na město a s panoramatickou zastřešenou terasou. Na střeše hotelu je umístěna strojovna vzduchotechniky a technologie chlazení a prostory pro wellness a fitness. Hlavní vstup do hotelu je navržen z přilehlé komunikace směrem od kongresového centra. Další vstupy jsou navrženy přímo z přilehlého objektu parkování na úrovni 1NP a PP.",
+      "Návrh byl realizován včetně autorského interiéru s důrazem na estetickou a provozní jednoduchost.",
+      "STAV PŘED REKONSTRUKCÍ"
+    ],
+    "cover": {
+      "src": "img/hotel-aldis_Cover.webp",
+      "background": "#b1b0b0"
+    },
+    "images": [
+      {
+        "src": "img/hotel-aldis_img1.webp",
+        "background": "#b1b0b0"
+      },
+      {
+        "src": "img/hotel-aldis_img2.webp",
+        "background": "#8f9194"
+      },
+      {
+        "src": "img/hotel-aldis_img3.webp",
+        "background": "#3d5e90"
+      },
+      {
+        "src": "img/hotel-aldis_img4.webp",
+        "background": "#626b82"
+      },
+      {
+        "src": "img/hotel-aldis_img5.webp",
+        "background": "#382e2a"
+      },
+      {
+        "src": "img/hotel-aldis_img6.webp",
+        "background": "#8c8b8d"
+      },
+      {
+        "src": "img/hotel-aldis_img7.webp",
+        "background": "#8b7675"
+      },
+      {
+        "src": "img/hotel-aldis_img8.webp",
+        "background": "#8b8682"
+      },
+      {
+        "src": "img/hotel-aldis_img9.webp",
+        "background": "#868581"
+      },
+      {
+        "src": "img/hotel-aldis_img10.webp",
+        "background": "#988068"
+      },
+      {
+        "src": "img/hotel-aldis_img11.webp",
+        "background": "#9e8163"
+      },
+      {
+        "src": "img/hotel-aldis_img12.webp",
+        "background": "#91765b"
+      },
+      {
+        "src": "img/hotel-aldis_img13.webp",
+        "background": "#8a6e50"
+      },
+      {
+        "src": "img/hotel-aldis_img14.webp",
+        "background": "#918275"
+      },
+      {
+        "src": "img/hotel-aldis_img15.webp",
+        "background": "#96714d"
+      },
+      {
+        "src": "img/hotel-aldis_img16.webp",
+        "background": "#8d8e8d"
+      },
+      {
+        "src": "img/hotel-aldis_img17.webp",
+        "background": "#6b553d"
+      },
+      {
+        "src": "img/hotel-aldis_img18.webp",
+        "background": "#7f756e"
+      },
+      {
+        "src": "img/hotel-aldis_img19.webp",
+        "background": "#8a6f56"
+      },
+      {
+        "src": "img/hotel-aldis_img20.webp",
+        "background": "#949290"
+      },
+      {
+        "src": "img/hotel-aldis_img21.webp",
+        "background": "#977546"
+      },
+      {
+        "src": "img/hotel-aldis_img22.webp",
+        "background": "#8c8b89"
+      },
+      {
+        "src": "img/hotel-aldis_img23.webp",
+        "background": "#9f9996"
+      },
+      {
+        "src": "img/hotel-aldis_img24.webp",
+        "background": "#98938a"
+      },
+      {
+        "src": "img/hotel-aldis_img25.webp",
+        "background": "#958267"
+      },
+      {
+        "src": "img/hotel-aldis_img26.webp",
+        "background": "#959493"
+      },
+      {
+        "src": "img/hotel-aldis_img27.webp",
+        "background": "#938f88"
+      },
+      {
+        "src": "img/hotel-aldis_img28.webp",
+        "background": "#888886"
+      },
+      {
+        "src": "img/hotel-aldis_img29.webp",
+        "background": "#a49a90"
+      },
+      {
+        "src": "img/hotel-aldis_img30.webp",
+        "background": "#b2afb0"
+      },
+      {
+        "src": "img/hotel-aldis_img31.webp",
+        "background": "#9d9d9b"
+      },
+      {
+        "src": "img/hotel-aldis_img32.webp",
+        "background": "#a3a4aa"
+      },
+      {
+        "src": "img/hotel-aldis_img33.webp",
+        "background": "#8e8b82"
+      },
+      {
+        "src": "img/hotel-aldis_img34.webp",
+        "background": "#867c73"
+      },
+      {
+        "src": "img/hotel-aldis_img35.webp",
+        "background": "#a1948c"
+      }
+    ],
+    "filters": [
+      "verejne-stavby",
+      "rekonstrukce"
+    ]
+  },
+  {
+    "link": "administrativni-budova-asseco",
+    "name": "administrativní budova asseco",
+    "location": "hradec králové",
+    "year": {
+      "text": "realizace",
+      "year": "2023"
+    },
+    "authors": [
+      {
+        "position": "foto",
+        "people": [
+          "Lucia a Marek Vlčkovi"
+        ]
+      },
+      {
+        "position": "autor",
+        "people": [
+          "Kateřina Novotná"
+        ]
+      }
+    ],
+    "text": [
+      "Nástavba a přístavba pobočky firmy Asseco Solution a.s. v Hradci Králové. Původní budova hostince postaveného na začátku 20. století mnohokrát změnila svůj účel. Množství více či méně vhodných přestaveb a přístaveb negativně poznamenalo její původní vzhled. Prostorové potřeby rozvíjející se firmy nebylo možné naplnit pouhou přestavbou objektu. Byla proto navržena přístavba objektu směrem do dvora. Do nové přístavby byla firma dočasně přesunuta. Následně byla modernizována původní budova, včetně nové střešní nástavby.",
+      "Součástí projektu byl i návrh interiéru dynamicky se rozvíjející softvérové firmy. "
+    ],
+    "cover": {
+      "src": "img/administrativni-budova-asseco_Cover.webp",
+      "background": "#4c5453"
+    },
+    "images": [
+      {
+        "src": "img/administrativni-budova-asseco_img1.webp",
+        "background": "#a8a6a3"
+      },
+      {
+        "src": "img/administrativni-budova-asseco_img2.webp",
+        "background": "#d4d3d0"
+      },
+      {
+        "src": "img/administrativni-budova-asseco_img3.webp",
+        "background": "#70645f"
+      },
+      {
+        "src": "img/administrativni-budova-asseco_img4.webp",
+        "background": "#4c5453"
+      },
+      {
+        "src": "img/administrativni-budova-asseco_img5.webp",
+        "background": "#586167"
+      },
+      {
+        "src": "img/administrativni-budova-asseco_img6.webp",
+        "background": "#8e7d6c"
+      },
+      {
+        "src": "img/administrativni-budova-asseco_img7.webp",
+        "background": "#947f6b"
+      },
+      {
+        "src": "img/administrativni-budova-asseco_img8.webp",
+        "background": "#6c8690"
+      },
+      {
+        "src": "img/administrativni-budova-asseco_img9.webp",
+        "background": "#c7a781"
+      },
+      {
+        "src": "img/administrativni-budova-asseco_img10.webp",
+        "background": "#896f5e"
+      },
+      {
+        "src": "img/administrativni-budova-asseco_img11.webp",
+        "background": "#827e77"
+      },
+      {
+        "src": "img/administrativni-budova-asseco_img12.webp",
+        "background": "#847567"
+      },
+      {
+        "src": "img/administrativni-budova-asseco_img13.webp",
+        "background": "#6e6456"
+      },
+      {
+        "src": "img/administrativni-budova-asseco_img14.webp",
+        "background": "#c19d6e"
+      },
+      {
+        "src": "img/administrativni-budova-asseco_img15.webp",
+        "background": "#84827c"
+      },
+      {
+        "src": "img/administrativni-budova-asseco_img16.webp",
+        "background": "#7e7b78"
+      },
+      {
+        "src": "img/administrativni-budova-asseco_img17.webp",
+        "background": "#655851"
+      },
+      {
+        "src": "img/administrativni-budova-asseco_img18.webp",
+        "background": "#717a78"
+      },
+      {
+        "src": "img/administrativni-budova-asseco_img19.webp",
+        "background": "#978874"
+      },
+      {
+        "src": "img/administrativni-budova-asseco_img20.webp",
+        "background": "#565b50"
+      },
+      {
+        "src": "img/administrativni-budova-asseco_img21.webp",
+        "background": "#647365"
+      },
+      {
+        "src": "img/administrativni-budova-asseco_img22.webp",
+        "background": "#918f89"
+      },
+      {
+        "src": "img/administrativni-budova-asseco_img23.webp",
+        "background": "#969897"
+      },
+      {
+        "src": "img/administrativni-budova-asseco_img24.webp",
+        "background": "#9e958d"
+      }
+    ],
+    "filters": [
+      "verejne-stavby"
+    ]
+  },
+  {
+    "link": "vertikalni-hriste-s-vyhlidkou",
+    "name": "vertikální hřiště s vyhlídkou",
+    "location": "hradec králové",
+    "year": {
+      "text": "koncept návrhu",
+      "year": "2023"
+    },
+    "authors": [
+      {
+        "position": "autor",
+        "people": [
+          "Pavel Zadrobílek, Marek Vlček, Lucia Vlčková"
+        ]
+      }
+    ],
+    "text": [
+      "Architektonická studie se zabývá návrhem Věže na Větvi, která bude umístěna v městských lesích Hradce Králové. Věž se nachází v stávajícím areálu Parku na Větvi a je doposud v České Republice unikátním herním prvkem, sloužícím zároveň jako rozhledna. Tvoří vertikální herní labyrint, který je ve třech místech propojen se stávajícím síťovím hřištěm Parku na Větvi. Dítě oběvuje cestu nahoru, která je tvarově i typově rozmanitá. Nachází se zde různé typy výlezových prvků, labyrintů, sítí, ale také nepohybových aktivit. Všechny herní prvky jsou navržené s ohledem na bezpečnost dětí a jsou certifikované. Kolem herních prvků je po celé výšce vedeno schodiště sloužící pro doprovod hrajících si dětí a zároveň zpřístupňující vyhlídkové platformy. Proměnlivost po obvodu věže, která je tvořena nepravidelným rozmístěním her a schodišťových ramen, umožňuje různé výhledy, rozmanitost stoupání a her, ale také vytváří efektní grafiku na fasádě věže. Věž má tvar rovnoramenného trojbokého hranolu se skosenými hranami. Tento jednoduchý tvar má výborné statické vlastnosti. ",
+      "Věž tvoří celkem 12 konstrukčních podlaží. Vertikální dětské hřiště funguje od 1.np až po 10.np. Ve zbylých dvou podlažích se nachází krytá a nekrytá vyhlídková plošina umožňující rozhled do přilehlé krajiny a na centrum města Hradec Králové. Krytá vyhlídková plošina se nachází ve výšce 27 m, což odpovídá nejvyšší naměřené výšce korun stromů. ",
+      "Nosnou konstrukci tvoří válcované profily HEB kombinované s trubkami a táhly z tyčoviny. Obvodový plášť tvoří cortenový pororošt, kterého pásky jsou natočeny tak, že umožňují proměnlivou průhlednost. Použitý corten barevně splývá s kmeny okolních borovic. Podlahy jsou tvořeny lehkým, požárně odolným a barevně variabilným materiálem."
+    ],
+    "cover": {
+      "src": "img/vertikalni-hriste-s-vyhlidkou_Cover.webp",
+      "background": "#6f7265"
+    },
+    "images": [
+      {
+        "src": "img/vertikalni-hriste-s-vyhlidkou_img1.webp",
+        "background": "#6b6d69"
+      },
+      {
+        "src": "img/vertikalni-hriste-s-vyhlidkou_img2.webp",
+        "background": "#a29793"
+      },
+      {
+        "src": "img/vertikalni-hriste-s-vyhlidkou_img3.webp",
+        "background": "#d2cecc"
+      },
+      {
+        "src": "img/vertikalni-hriste-s-vyhlidkou_img4.webp",
+        "background": "#605d4b"
+      },
+      {
+        "src": "img/vertikalni-hriste-s-vyhlidkou_img5.webp",
+        "background": "#6f7165"
+      },
+      {
+        "src": "img/vertikalni-hriste-s-vyhlidkou_img6.webp",
+        "background": "#6f6e71"
+      },
+      {
+        "src": "img/vertikalni-hriste-s-vyhlidkou_img7.webp",
+        "background": "#7d8586"
+      }
+    ],
+    "filters": [
+      "verejne-stavby"
+    ]
+  },
+  {
+    "link": "pristavba-levitova-centra-nasledne-pece",
+    "name": "přístavba levitova centra následné péče",
+    "location": "hořice",
+    "year": {
+      "text": "studie",
+      "year": "2023"
+    },
+    "authors": [
+      {
+        "position": "autor",
+        "people": [
+          "Kateřina Novotná, Marek Vlček"
+        ]
+      }
+    ],
+    "text": [
+      "Nově navržené propojení dvou historických objektů nemocnice nahrazuje stávající propojující krček a přístavby ambulancí a garáží. Tyto přístavby vznikaly živelně v průběhu času dle aktuálních potřeb rozvíjející se nemocnice. Jednotlivým dostavbám chyběla jednotná koncepce a funkční provázanost. Vznikl tak slepenec objektů bez větší architektonické hodnoty, který zároveň tvořil nevzhledný hlavní vstup do Levitova centra. Stávající spojující krček a jeho přílepky budou odstraněny a nahrazeny přístavbou čistého jednoduchého tvaru. Tato přístavba nepřevyšuje stávající historické budovy a svou formou na sebe nepoutá pozornost. Jednoduché a čisté linie nechají vyniknout nejen původním budovám, ale také krásnému parku, který objekty obklopuje.",
+      "Organické křivky západní fasády přístavby a moderní řešení v jednoduchých materiálech je kontrastem k historickým budovám se kterými společně tvoří výraz celého komplexu. Přiznání soudobosti stavby výrazovými prvky a materiály je hlavním architektonickým konceptem návrhu.",
+      "Nová část přináší významné provozní výhody, a to propojení starých budov ve třech nadzemních podlaží. V přízemí se nachází recepce, zázemí, zasedací místnost pro zaměstnance, dvě ambulance a multifunkční prostor s posuvnými stěnami. V dalších dvou patrech jsou umístěny společenské zóny a lůžkové pokoje s hygienickým zázemím, které mají rozvolnit obsazenost stávajících pokojů.",
+      "Z důvodu požadavku nepřerušeného provozu v průběhu výstavby a kvůli strategické provozní pozici, zůstal hlavní vstup do objektu na západní straně střední části. Současný vstup je umístěný v podobné pozici, ale jeho významnost je potlačena technickým výrazem a prostředím. Nový vstup je umístěný na fasádě, která se natáčí směrem k příchozím a je akcentován dominantním nápisem na křivkách nadpraží. Tím je orientace v areálu pro návštěvníka snažíš a význam vstupu jasný. Předprostor vstupu tvoří malé dlážděné náměstí s pobytovou částí, parkovací stání jsou decentně značená změnou dlažby, aby prostor neměl výraz parkoviště.",
+      "Jednoduše je pojata i barevnost objektu. Je využita přirozená barevnost použitých materiálů – zejména šedá barva pohledového betonu, sklo a hliníková konstrukce předsazené fasády a rámů oken. Venkovní dlažba bude pojata v přírodním kameni z nedalekých lomů. Barevnost vnitřních materiálů bude řešena v dalším stupni projektové dokumentace."
+    ],
+    "cover": {
+      "src": "img/pristavba-levitova-centra-nasledne-pece_Cover.webp",
+      "background": "#8e8f87"
+    },
+    "images": [
+      {
+        "src": "img/pristavba-levitova-centra-nasledne-pece_img1.webp",
+        "background": "#8e8f87"
+      },
+      {
+        "src": "img/pristavba-levitova-centra-nasledne-pece_img2.webp",
+        "background": "#8c867a"
+      },
+      {
+        "src": "img/pristavba-levitova-centra-nasledne-pece_img3.webp",
+        "background": "#8d8980"
+      },
+      {
+        "src": "img/pristavba-levitova-centra-nasledne-pece_img4.webp",
+        "background": "#848178"
+      },
+      {
+        "src": "img/pristavba-levitova-centra-nasledne-pece_img5.webp",
+        "background": "#8a8275"
+      },
+      {
+        "src": "img/pristavba-levitova-centra-nasledne-pece_img6.webp",
+        "background": "#a89881"
+      },
+      {
+        "src": "img/pristavba-levitova-centra-nasledne-pece_img7.webp",
+        "background": "#a4998d"
+      },
+      {
+        "src": "img/pristavba-levitova-centra-nasledne-pece_img8.webp",
+        "background": "#b5a99a"
+      },
+      {
+        "src": "img/pristavba-levitova-centra-nasledne-pece_img9.webp",
+        "background": "#c8c8c3"
+      }
+    ],
+    "filters": [
+      "verejne-stavby",
+      "rekonstrukce"
+    ]
+  },
+  {
+    "link": "michael-caffe-s-bytovymi-jednotkami",
+    "name": "kávové centrum michael caffe s bytovými jednotkami",
+    "location": "hradec králové",
+    "year": {
+      "text": "studie",
+      "year": "2023"
+    },
+    "authors": [
+      {
+        "position": "autor",
+        "people": [
+          "Kateřina Novotná, Pavel Zadrobílek"
+        ]
+      }
+    ],
+    "text": [
+      "Návrh je součástí záměru výstavby tří bytových domů, které vytváří zcela novou obytnou ulici napojenou stykovou křižovatkou na Pražskou třídu. Tři domy, které jsou součástí záměru, mají měřítko odpovídající okolní zástavbě a jsou řazeny do volné linie podél jednotné stavební čáry. Jedná se o relativně kompaktní třípodlažní předměstskou strukturu, jejíž předností je zejména lidské měřítko. Přestože uliční prostor slouží převážně pro parkování rezidentů a návštěv, je zde navrženo dostatek stromů a doplňkových výsadeb, aby vytvořili příjemné pobytové mikroklima. Nárožní dům využívá obchodní potenciál místa na hlavní třídě a obohacuje městský parter o obchodní prostor. Na opačném konci ulice, v nejklidnějším místě lokality, vznikne parčík s dětským hřištěm.",
+      "\"Naše spolupráce začala v roce 2007, kdy jsme zadali k projektování rodinný dům na venkově. Celý průběh projektování a vytváření domu byl pro nás radost. Dnes bydlíme v domě přes 12 let a můžeme potvrdit, že dům je nejenom hezký, ale i praktický a má svoji jedinečnou atmosféru. Po této zkušenosti jsme neváhali a oslovili stejné architekty i v případě multifunkčního domu v Hradci Králové. Opět se nám osvědčila dobrá spolupráce a to především ve výborné koordinaci společných nápadů a jejich citlivému zapracovaní do projektu. Věřím, že to není náš poslední společný projekt.\"",
+      "Michael Duben (www.michaelcaffe.cz)"
+    ],
+    "cover": {
+      "src": "img/michael-caffe-s-bytovymi-jednotkami_Cover.webp",
+      "background": "#888b89"
+    },
+    "images": [
+      {
+        "src": "img/michael-caffe-s-bytovymi-jednotkami_img1.webp",
+        "background": "#888c89"
+      },
+      {
+        "src": "img/michael-caffe-s-bytovymi-jednotkami_img2.webp",
+        "background": "#85847d"
+      },
+      {
+        "src": "img/michael-caffe-s-bytovymi-jednotkami_img3.webp",
+        "background": "#6b6d65"
+      },
+      {
+        "src": "img/michael-caffe-s-bytovymi-jednotkami_img4.webp",
+        "background": "#77766e"
+      },
+      {
+        "src": "img/michael-caffe-s-bytovymi-jednotkami_img5.webp",
+        "background": "#787a74"
+      },
+      {
+        "src": "img/michael-caffe-s-bytovymi-jednotkami_img6.webp",
+        "background": "#636156"
+      },
+      {
+        "src": "img/michael-caffe-s-bytovymi-jednotkami_img7.webp",
+        "background": "#4c4437"
+      },
+      {
+        "src": "img/michael-caffe-s-bytovymi-jednotkami_img8.webp",
+        "background": "#3a3425"
+      },
+      {
+        "src": "img/michael-caffe-s-bytovymi-jednotkami_img9.webp",
+        "background": "#4d4535"
+      },
+      {
+        "src": "img/michael-caffe-s-bytovymi-jednotkami_img10.webp",
+        "background": "#39352e"
+      },
+      {
+        "src": "img/michael-caffe-s-bytovymi-jednotkami_img11.webp",
+        "background": "#342e27"
+      },
+      {
+        "src": "img/michael-caffe-s-bytovymi-jednotkami_img12.webp",
+        "background": "#8a8974"
+      },
+      {
+        "src": "img/michael-caffe-s-bytovymi-jednotkami_img13.webp",
+        "background": "#8a8a76"
+      }
+    ],
+    "filters": [
+      "verejne-stavby"
+    ]
+  },
+  {
+    "link": "vinoteka-volarik",
+    "name": "vinotéka volařík",
+    "location": "mikulov",
+    "year": {
+      "text": "realizace",
+      "year": "2015"
+    },
+    "authors": [
+      {
+        "position": "foto",
+        "people": [
+          "Šárka Dlouhá"
+        ]
+      },
+      {
+        "position": "autor",
+        "people": [
+          "Šárka Dlouhá"
+        ]
+      }
+    ],
+    "text": [
+      "Novostavba vinotéky pro vinařství Volařík v Mikulově byla úkolem, který se musí vybojovat. Aby stálo něco podobně jednoduchého až triviálního uprostřed staré části Mikulova nechtělo pár úředníků, ale povedlo se. Na místě plotové zdi a trafiky z první poloviny 20. století vznikla malá prodejna vína s možností ochutnávek. Exponovaný kousek pozemku na nároží Kostelního náměstí je v mírném svahu. Poloha na okraji historického centra nabízela perfektní výhledy více směry a tak vznikla myšlenka střešní terasy pro posezení při ochutnávce úžasných vín pana Volaříka. Jedním směrem Svatý kopeček u Mikulova, druhým zase Kozí hrádek no a přímo na dosah věže kostela a zámku."
+    ],
+    "cover": {
+      "src": "img/vinoteka-volarik_Cover.webp",
+      "background": "#9a8d86"
+    },
+    "images": [
+      {
+        "src": "img/vinoteka-volarik_img1.webp",
+        "background": "#919097"
+      },
+      {
+        "src": "img/vinoteka-volarik_img2.webp",
+        "background": "#bbada3"
+      },
+      {
+        "src": "img/vinoteka-volarik_img3.webp",
+        "background": "#838081"
+      },
+      {
+        "src": "img/vinoteka-volarik_img4.webp",
+        "background": "#b0a296"
+      },
+      {
+        "src": "img/vinoteka-volarik_img5.webp",
+        "background": "#a6958e"
+      },
+      {
+        "src": "img/vinoteka-volarik_img6.webp",
+        "background": "#bdb6b1"
+      },
+      {
+        "src": "img/vinoteka-volarik_img7.webp",
+        "background": "#c0b8b4"
+      },
+      {
+        "src": "img/vinoteka-volarik_img8.webp",
+        "background": "#949195"
+      },
+      {
+        "src": "img/vinoteka-volarik_img9.webp",
+        "background": "#afa69f"
+      },
+      {
+        "src": "img/vinoteka-volarik_img10.webp",
+        "background": "#aea599"
+      },
+      {
+        "src": "img/vinoteka-volarik_img11.webp",
+        "background": "#76736f"
+      },
+      {
+        "src": "img/vinoteka-volarik_img12.webp",
+        "background": "#8c7f67"
+      },
+      {
+        "src": "img/vinoteka-volarik_img13.webp",
+        "background": "#b29874"
+      },
+      {
+        "src": "img/vinoteka-volarik_img14.webp",
+        "background": "#521e0d"
+      },
+      {
+        "src": "img/vinoteka-volarik_img15.webp",
+        "background": "#50250d"
+      }
+    ],
+    "filters": [
+      "verejne-stavby",
+      "rekonstrukce"
+    ]
+  },
+  {
+    "link": "laser-centrum",
+    "name": "laser centrum",
+    "location": "pardubice",
+    "year": {
+      "text": "realizace",
+      "year": "2011"
+    },
+    "authors": [
+      {
+        "position": "foto",
+        "people": [
+          "Šárka Dlouhá"
+        ]
+      },
+      {
+        "position": "autoři",
+        "people": [
+          "Maxmilián Vlček, Jana Rejsková"
+        ]
+      }
+    ],
+    "text": [
+      "Novostavba kosmetického laser centra Lcentrum."
+    ],
+    "cover": {
+      "src": "img/laser-centrum_Cover.webp",
+      "background": "#909397"
+    },
+    "images": [
+      {
+        "src": "img/laser-centrum_img1.webp",
+        "background": "#888d90"
+      },
+      {
+        "src": "img/laser-centrum_img2.webp",
+        "background": "#828187"
+      },
+      {
+        "src": "img/laser-centrum_img3.webp",
+        "background": "#7b7779"
+      },
+      {
+        "src": "img/laser-centrum_img4.webp",
+        "background": "#97989f"
+      },
+      {
+        "src": "img/laser-centrum_img5.webp",
+        "background": "#5f5e6b"
+      },
+      {
+        "src": "img/laser-centrum_img6.webp",
+        "background": "#8c8b8d"
+      },
+      {
+        "src": "img/laser-centrum_img7.webp",
+        "background": "#aeadb0"
+      },
+      {
+        "src": "img/laser-centrum_img8.webp",
+        "background": "#757a86"
+      },
+      {
+        "src": "img/laser-centrum_img9.webp",
+        "background": "#9c9e9e"
+      }
+    ],
+    "filters": [
+      "verejne-stavby"
+    ]
+  },
+  {
+    "link": "veterina",
+    "name": "veterinární klinika",
+    "location": "hradec králové",
+    "year": {
+      "text": "realizace",
+      "year": "2010"
+    },
+    "authors": [
+      {
+        "position": "foto",
+        "people": [
+          "Šárka Dlouhá"
+        ]
+      },
+      {
+        "position": "autor",
+        "people": [
+          "Vladimír Šolc"
+        ]
+      }
+    ],
+    "text": [],
+    "cover": {
+      "src": "img/veterina_Cover.webp",
+      "background": "#9c989a"
+    },
+    "images": [
+      {
+        "src": "img/veterina_img1.webp",
+        "background": "#968683"
+      },
+      {
+        "src": "img/veterina_img2.webp",
+        "background": "#969093"
+      },
+      {
+        "src": "img/veterina_img3.webp",
+        "background": "#9b989a"
+      },
+      {
+        "src": "img/veterina_img4.webp",
+        "background": "#aaa5a5"
+      },
+      {
+        "src": "img/veterina_img5.webp",
+        "background": "#737684"
+      },
+      {
+        "src": "img/veterina_img6.webp",
+        "background": "#7c7c81"
+      },
+      {
+        "src": "img/veterina_img7.webp",
+        "background": "#857b7c"
+      },
+      {
+        "src": "img/veterina_img8.webp",
+        "background": "#b4a6a5"
+      },
+      {
+        "src": "img/veterina_img9.webp",
+        "background": "#7b7974"
+      },
+      {
+        "src": "img/veterina_img10.webp",
+        "background": "#594635"
+      }
+    ],
+    "filters": [
+      "verejne-stavby"
+    ]
+  },
+  {
+    "link": "knihovna",
+    "name": "knihovna",
+    "location": "hradec králové",
+    "year": {
+      "text": "realizace",
+      "year": "2008"
+    },
+    "authors": [
+      {
+        "position": "foto",
+        "people": [
+          "Šárka Dlouhá"
+        ]
+      },
+      {
+        "position": "autor",
+        "people": [
+          "Vladimír Šolc"
+        ]
+      }
+    ],
+    "text": [],
+    "cover": {
+      "src": "img/knihovna_Cover.webp",
+      "background": "#706a6e"
+    },
+    "images": [
+      {
+        "src": "img/knihovna_img1.webp",
+        "background": "#a09885"
+      },
+      {
+        "src": "img/knihovna_img2.webp",
+        "background": "#6a5859"
+      },
+      {
+        "src": "img/knihovna_img3.webp",
+        "background": "#9b6f6a"
+      },
+      {
+        "src": "img/knihovna_img4.webp",
+        "background": "#807778"
+      },
+      {
+        "src": "img/knihovna_img5.webp",
+        "background": "#908c90"
+      },
+      {
+        "src": "img/knihovna_img6.webp",
+        "background": "#746363"
+      },
+      {
+        "src": "img/knihovna_img7.webp",
+        "background": "#91726f"
+      },
+      {
+        "src": "img/knihovna_img8.webp",
+        "background": "#9f8f8b"
+      }
+    ],
+    "filters": [
+      "verejne-stavby",
+      "rekonstrukce"
+    ]
+  },
+  {
+    "link": "zalozni-zdroj-tepla",
+    "name": "záložní zdroj tepla",
+    "location": "hradec králové",
+    "year": {
+      "text": "realizace",
+      "year": "2007"
+    },
+    "authors": [
+      {
+        "position": "foto",
+        "people": [
+          "Šárka Dlouhá"
+        ]
+      },
+      {
+        "position": "autor",
+        "people": [
+          "Vladimír Šolc"
+        ]
+      }
+    ],
+    "text": [],
+    "cover": {
+      "src": "img/zalozni-zdroj-tepla_Cover.webp",
+      "background": "#8691a0"
+    },
+    "images": [
+      {
+        "src": "img/zalozni-zdroj-tepla_img1.webp",
+        "background": "#646873"
+      },
+      {
+        "src": "img/zalozni-zdroj-tepla_img2.webp",
+        "background": "#8d949b"
+      },
+      {
+        "src": "img/zalozni-zdroj-tepla_img3.webp",
+        "background": "#707c8e"
+      },
+      {
+        "src": "img/zalozni-zdroj-tepla_img4.webp",
+        "background": "#8c8a88"
+      },
+      {
+        "src": "img/zalozni-zdroj-tepla_img5.webp",
+        "background": "#617089"
+      }
+    ],
+    "filters": [
+      "verejne-stavby",
+      "rekonstrukce"
+    ]
+  },
+  {
+    "link": "rekonstrukce-obradni-sin-cernilov",
+    "name": "rekonstrukce interiéru obřadní síně",
+    "location": "černilov",
+    "year": {
+      "text": "realizace",
+      "year": "2020"
+    },
+    "authors": [
+      {
+        "position": "foto",
+        "people": [
+          "Lucia Livovská, Marek Vlček"
+        ]
+      },
+      {
+        "position": "autor",
+        "people": [
+          "Jana Rejsková"
+        ]
+      }
+    ],
+    "text": [
+      "Interiér bývalého evangelického kostela v Černilově je víceúčelovým prostorem, ve kterém se budou, kromě dosavadních smutečních obřadů, odehrávat i svatební obřady a pořádat koncerty, případně i komorní divadelní představení. Zásadní úpravou bylo odstranění vestaveb ze 70. let 20. století, kdy byl původní kostel přebudován na smuteční síň.",
+      "Obřadní prostor je nově tvořen kruhovým pódiem navazujícím na půlkruhový tvar apsidy. Hlavním prvkem interiéru je převýšená brána (paralela oltáře).  Potřebné zázemí je umístěno pod chór, kde je snížený strop. Vestavba navazuje na centrální vstup širokou chodbou vedoucí k hlavní lodi a ukončenou prosklenými ocelovými dveřmi. Po pravé straně je kancelář obřadníka, na straně levé nezbytné sociální zázemí. Schodiště vstupem z exteriéru vede na chór. Ten slouží zčásti jako hlediště a při občasných koncertech jako šatna umělců. Došlo i na repasi barokní varhanní skříně, která je jediným dochovaným prvkem původního interiéru kostela.",
+      "Barevné i materiálové pojetí prostoru je neutrální - teplé šedé tóny hladké omítky, historický brizolit, nátěry původních i nových dveří, pódium z božanovského pískovce, mozaika dlažby, černé akcenty kovářských prvků v podobě rámu dveřních křídel, madel a kování, repliky původních dveří z masivního olejovaného dubu, dýhovaný obklad zábradlí chóru. Hlavní loď je vybavena originálními dubovými lavicemi, které byly součástí návrhu. Pro obřady byl také vyroben řečnický pult, obřadní a přídavný stůl.",
+      "Na interiér kostela navazují i úpravy přilehlé zahrady."
+    ],
+    "cover": {
+      "src": "img/rekonstrukce-obradni-sin-cernilov_Cover.webp",
+      "background": "#67554a"
+    },
+    "images": [
+      {
+        "src": "img/rekonstrukce-obradni-sin-cernilov_img1.webp",
+        "background": "#5e5c5c"
+      },
+      {
+        "src": "img/rekonstrukce-obradni-sin-cernilov_img2.webp",
+        "background": "#4a4643"
+      },
+      {
+        "src": "img/rekonstrukce-obradni-sin-cernilov_img3.webp",
+        "background": "#727475"
+      },
+      {
+        "src": "img/rekonstrukce-obradni-sin-cernilov_img4.webp",
+        "background": "#84776a"
+      },
+      {
+        "src": "img/rekonstrukce-obradni-sin-cernilov_img5.webp",
+        "background": "#80736c"
+      },
+      {
+        "src": "img/rekonstrukce-obradni-sin-cernilov_img6.webp",
+        "background": "#67554a"
+      },
+      {
+        "src": "img/rekonstrukce-obradni-sin-cernilov_img7.webp",
+        "background": "#7e7065"
+      },
+      {
+        "src": "img/rekonstrukce-obradni-sin-cernilov_img8.webp",
+        "background": "#8f8c87"
+      },
+      {
+        "src": "img/rekonstrukce-obradni-sin-cernilov_img9.webp",
+        "background": "#6b5f5d"
+      },
+      {
+        "src": "img/rekonstrukce-obradni-sin-cernilov_img10.webp",
+        "background": "#938a83"
+      },
+      {
+        "src": "img/rekonstrukce-obradni-sin-cernilov_img11.webp",
+        "background": "#6f6761"
+      },
+      {
+        "src": "img/rekonstrukce-obradni-sin-cernilov_img12.webp",
+        "background": "#67605b"
+      },
+      {
+        "src": "img/rekonstrukce-obradni-sin-cernilov_img13.webp",
+        "background": "#656667"
+      },
+      {
+        "src": "img/rekonstrukce-obradni-sin-cernilov_img14.webp",
+        "background": "#6e6c6c"
+      },
+      {
+        "src": "img/rekonstrukce-obradni-sin-cernilov_img15.webp",
+        "background": "#4e4949"
+      },
+      {
+        "src": "img/rekonstrukce-obradni-sin-cernilov_img16.webp",
+        "background": "#43403e"
+      },
+      {
+        "src": "img/rekonstrukce-obradni-sin-cernilov_img17.webp",
+        "background": "#424343"
+      }
+    ],
+    "filters": [
+      "rekonstrukce"
+    ]
+  },
+  {
+    "link": "administrativni-budova-asseco",
+    "name": "rekonstrukce a přístavba administrativní budovy asseco",
+    "location": "hradec králové",
+    "year": {
+      "text": "realizace",
+      "year": "2023"
+    },
+    "authors": [
+      {
+        "position": "foto",
+        "people": [
+          "Lucia a Marek Vlčkovi"
+        ]
+      },
+      {
+        "position": "autor",
+        "people": [
+          "Kateřina Novotná"
+        ]
+      }
+    ],
+    "text": [
+      "Nástavba a přístavba pobočky firmy Asseco Solution a.s. v Hradci Králové. Původní budova hostince postaveného na začátku 20. století mnohokrát změnila svůj účel. Množství více či méně vhodných přestaveb a přístaveb negativně poznamenalo její původní vzhled. Prostorové potřeby rozvíjející se firmy nebylo možné naplnit pouhou přestavbou objektu. Byla proto navržena přístavba objektu směrem do dvora. Do nové přístavby byla firma dočasně přesunuta. Následně byla modernizována původní budova, včetně nové střešní nástavby.",
+      "Součástí projektu byl i návrh interiéru dynamicky se rozvíjející softvérové firmy. "
+    ],
+    "cover": {
+      "src": "img/administrativni-budova-asseco_Cover.webp",
+      "background": "#c8c5c1"
+    },
+    "images": [
+      {
+        "src": "img/administrativni-budova-asseco_img1.webp",
+        "background": "#a8a6a3"
+      },
+      {
+        "src": "img/administrativni-budova-asseco_img2.webp",
+        "background": "#d4d3d0"
+      },
+      {
+        "src": "img/administrativni-budova-asseco_img3.webp",
+        "background": "#70645f"
+      },
+      {
+        "src": "img/administrativni-budova-asseco_img4.webp",
+        "background": "#4c5453"
+      },
+      {
+        "src": "img/administrativni-budova-asseco_img5.webp",
+        "background": "#586167"
+      },
+      {
+        "src": "img/administrativni-budova-asseco_img6.webp",
+        "background": "#8e7d6c"
+      },
+      {
+        "src": "img/administrativni-budova-asseco_img7.webp",
+        "background": "#947f6b"
+      },
+      {
+        "src": "img/administrativni-budova-asseco_img8.webp",
+        "background": "#6c8690"
+      },
+      {
+        "src": "img/administrativni-budova-asseco_img9.webp",
+        "background": "#c7a781"
+      },
+      {
+        "src": "img/administrativni-budova-asseco_img10.webp",
+        "background": "#896f5e"
+      },
+      {
+        "src": "img/administrativni-budova-asseco_img11.webp",
+        "background": "#827e77"
+      },
+      {
+        "src": "img/administrativni-budova-asseco_img12.webp",
+        "background": "#847567"
+      },
+      {
+        "src": "img/administrativni-budova-asseco_img13.webp",
+        "background": "#6e6456"
+      },
+      {
+        "src": "img/administrativni-budova-asseco_img14.webp",
+        "background": "#c19d6e"
+      },
+      {
+        "src": "img/administrativni-budova-asseco_img15.webp",
+        "background": "#84827c"
+      },
+      {
+        "src": "img/administrativni-budova-asseco_img16.webp",
+        "background": "#7e7b78"
+      },
+      {
+        "src": "img/administrativni-budova-asseco_img17.webp",
+        "background": "#655851"
+      },
+      {
+        "src": "img/administrativni-budova-asseco_img18.webp",
+        "background": "#717a78"
+      },
+      {
+        "src": "img/administrativni-budova-asseco_img19.webp",
+        "background": "#978874"
+      },
+      {
+        "src": "img/administrativni-budova-asseco_img20.webp",
+        "background": "#565b50"
+      },
+      {
+        "src": "img/administrativni-budova-asseco_img21.webp",
+        "background": "#647365"
+      },
+      {
+        "src": "img/administrativni-budova-asseco_img22.webp",
+        "background": "#918f89"
+      },
+      {
+        "src": "img/administrativni-budova-asseco_img23.webp",
+        "background": "#969897"
+      },
+      {
+        "src": "img/administrativni-budova-asseco_img24.webp",
+        "background": "#9e958d"
+      }
+    ],
+    "filters": [
+      "rekonstrukce"
+    ]
+  },
+  {
+    "link": "lokalita-aldis",
+    "name": "lokalita aldis",
+    "location": "hradec králové",
+    "year": {
+      "text": "realizace",
+      "year": "2023:"
+    },
+    "authors": [
+      {
+        "position": "autoři",
+        "people": [
+          "Pavel Zadrobílek, Bohumír Prokop"
+        ]
+      }
+    ],
+    "text": [
+      "Urbanistické řešení lokality Aldis a návrh veřejných prostranství. V rámci zpracování urbanistického řešení byly vymezeny jednotlivé etapy",
+      "1. ETAPA ",
+      "Prvními stavbami, které budou aktuálně dokončeny v lokalitě Aldis budou Nová lávka, budova ČSOB a Hotel Aldis. Prvními veřejnými prostranstvími, která je možné realizovat je oblast nábřeží od Piletického mostku po Labský most včetně navazujících prostor okolo budovy ČSOB a parkového pásu mezi budovou KC Aldis a Aquacentrem. Všechna uvedená prostranství navazují na budovy se stabilizovanou funkcí, jejich realizace není podmíněna jinou stavbou a lze očekávat souhlas dotčených stran v procesu územního řízení. V souvislosti s realizací 1.etapy je nutné provést přeložky či ochranu některých inženýrských sítí. ",
+      "2. ETAPA ",
+      "Druhá etapa je pro lokalitu klíčová. Je podmíněna vyřešením veřejného parkovacího deficitu, což umožní dostavbu celé zóny Aldis. Celý deficit lze odstranit realizací centrálního parkovacího objektu o cca 600 stáních pod stadionem TJ Sokol. Parkovací objekt pod Sokolem (popřípadě min. 220 veřejných stání jinde v lokalitě) nahradí stávající provizorní parkování objektu KOR a umožní výstavbu bloků označených 1 a 2. Alternativně lze místo bloku 1 a 2 stavět blok č. 8. Oba stavební pozemky jsou ve vlastnictví Statutárního Města Hradec Králové, ale každý má jiný stavební program. Blok č. 1 a 2 je vhodný spíše pro umístění větších bytů s doplňkovou občanskou vybaveností v přízemí pro stabilizované rezidenty. Blok č. 8 je vhodný pro polyfunkční objekt kombinující nebytové funkce v severní polovině ovlivněné dopady dopravy na Pilnáčkově třídě s menšími byty v jižní části obrácené do nitra lokality.  S výstavbou podzemních garáží pod Sokolem i stavebních bloků v severní části lokality Aldis vždy souvisí i části přiléhajících veřejných prostranství. V případě garáží pod Sokolem se jedná o soustavu prostor ve vnitrobloku, které zprostředkují přístup veřejnosti z nových garáží do budov Sokola, Filharmonie, Aquacentra, 50m bazénu a vytvoří návaznost na Eliščino nábřeží. S bloky č. 1 a 2 souvisí pás veřejného prostoru při severní fasádě bloku, který bude uspořádán podle konkrétní funkční náplně přízemí bloku, dále vedlejší dopravní prostor přilehlého úseku třídy Akademika Bedrny včetně obousměrné cyklostezky. Nově bude rozšířena obslužná komunikace vedoucí podél jižní fasády bloku. Nejvýznamnějším veřejným prostranstvím druhé etapy je nové náměstí situované v prostoru mezi objekty Gist, s.r.o., Hotel Aldis a budoucím blokem č. 8. Součástí náměstí je dopravní spojka, která má zásadní význam pro průjezdnost celé lokality, neboť propojí dosud zaslepenou Collinovu ulici s parkovištěm KC Aldis. Tím vznikne průjezdná smyčka, která zajistí všem budovám možnost dopravní obsluhy ze dvou směrů.",
+      "3. ETAPA",
+      "Třetí etapa zahrnuje realizaci polyfunkčního bloku č. 8, což má zásadní význam pro hmotové vymezení nově vznikajícího náměstí. Neméně důležitý je obchodní parter tohoto bloku, který přispěje k žádoucímu oživení náměstí. Součástí třetí etapy jsou také dvě veřejná prostranství s celoměstským významem. Prvním je část Eliščina  nábřeží od Tyršova k Piletickému mostu. Druhým je rekonstrukce tř. Akademika Bedrny od křižovatky s Pilnáčkovou třídou po okružní křižovatku u Gayerových kasáren. Do třetí etapy je zařazena i přeměna stávající parkovací ulice směřující od zastávky MHD Ak. Bedrny ke vstupu do KC Aldis na pěší zónu. V rámci úprav všech zmíněných prostranství dojde k úbytku veřejných parkovacích stání, která budou nahrazena parkováním v hromadných garážích druhé etapy. ",
+      "4. ETAPA",
+      "Čtvrtá etapa zahrnuje přeměnu Pilnáčkovy třídy v městský bulvár. Tato přeměna je podmíněna realizací severní tangenty. Kamiony z Pilnáčkovy třídy téměř zmizí, což vyvolá přesun čerpací stanice Shell k severní tangentě a na jejím místě může vzniknout nový polyfunkční stavební blok. Parter vedlejšího dopravního prostoru rodícího se bulváru bude upraven pro pěší a cyklisty. Nejviditelnějším rysem této přeměny bude výsadba víceřadé aleje tvořené velkými stromy, které zde zcela změní mikroklima a pobytový komfort. Do čtvrté etapy jsou rovněž zahrnuty dva stavební bloky, jejichž realizaci lze označit za výhledovou. Prvním je blok č. 9, který je druhou (rezervní) etapou výstavby sídla ČSOB. Druhým blokem je přístavba KC Aldis na ploše stávajícího parkoviště, pracovně označený čísly 15 a 16. Hmota bloku bude definovat poslední stranu nového náměstí. Bude se jednat o polyfunkční blok, který rozšíří nabídku služeb KC Aldis."
+    ],
+    "cover": {
+      "src": "img/lokalita-aldis_Cover.webp",
+      "background": "#7c736a"
+    },
+    "images": [
+      {
+        "src": "img/lokalita-aldis_img1.webp",
+        "background": "#7c736a"
+      },
+      {
+        "src": "img/lokalita-aldis_img2.webp",
+        "background": "#938e88"
+      },
+      {
+        "src": "img/lokalita-aldis_img3.webp",
+        "background": "#989386"
+      },
+      {
+        "src": "img/lokalita-aldis_img4.webp",
+        "background": "#817a68"
+      },
+      {
+        "src": "img/lokalita-aldis_img5.webp",
+        "background": "#857b6f"
+      },
+      {
+        "src": "img/lokalita-aldis_img6.webp",
+        "background": "#9f958d"
+      },
+      {
+        "src": "img/lokalita-aldis_img7.webp",
+        "background": "#807a74"
+      },
+      {
+        "src": "img/lokalita-aldis_img8.webp",
+        "background": "#807973"
+      },
+      {
+        "src": "img/lokalita-aldis_img9.webp",
+        "background": "#7b756b"
+      },
+      {
+        "src": "img/lokalita-aldis_img10.webp",
+        "background": "#80776a"
+      },
+      {
+        "src": "img/lokalita-aldis_img11.webp",
+        "background": "#938a7d"
+      },
+      {
+        "src": "img/lokalita-aldis_img12.webp",
+        "background": "#847f76"
+      },
+      {
+        "src": "img/lokalita-aldis_img13.webp",
+        "background": "#a59e98"
+      },
+      {
+        "src": "img/lokalita-aldis_img14.webp",
+        "background": "#9a918c"
+      },
+      {
+        "src": "img/lokalita-aldis_img15.webp",
+        "background": "#e0ded8"
+      }
+    ],
+    "filters": [
+      "urbanismus"
+    ]
+  },
+  {
+    "link": "citadela",
+    "name": "citadela",
+    "location": "opatovice nad labem",
+    "year": {
+      "text": "studie",
+      "year": "2021"
+    },
+    "authors": [
+      {
+        "position": "vizualizace",
+        "people": [
+          "Marek Vlček"
+        ]
+      },
+      {
+        "position": "autor",
+        "people": [
+          "Maxmilian Vlček, Jan Ondrák"
+        ]
+      }
+    ],
+    "text": [
+      "V obci Opatovice nad Labem je navrženo 50 rodinných řadových domů a bytový dům. Území je lemováno po obvodě západní a východní řadou rodinných domů. Domy jsou v sestavách po 5ti. Přilehlé zahrady tvoří velkou zelenou plochu jejíž středem vede pěší komunikace jako společenská tepna přístupná z jednotlivých zahrad. Na ní jsou umístěny pobytové zóny. Jižní cíp území uzavírá třípodlažní bytový pavlačový dům s 24mi byty. ´´Celkový koncept bydlení podporuje komunikaci a pospolitost."
+    ],
+    "cover": {
+      "src": "img/citadela_Cover.webp",
+      "background": "#908e70"
+    },
+    "images": [
+      {
+        "src": "img/citadela_img1.webp",
+        "background": "#92938f"
+      },
+      {
+        "src": "img/citadela_img2.webp",
+        "background": "#908e70"
+      },
+      {
+        "src": "img/citadela_img3.webp",
+        "background": "#7f7b69"
+      },
+      {
+        "src": "img/citadela_img4.webp",
+        "background": "#9e9f9c"
+      },
+      {
+        "src": "img/citadela_img5.webp",
+        "background": "#9b9f97"
+      },
+      {
+        "src": "img/citadela_img6.webp",
+        "background": "#a2a7a1"
+      },
+      {
+        "src": "img/citadela_img7.webp",
+        "background": "#c6bfb5"
+      },
+      {
+        "src": "img/citadela_img8.webp",
+        "background": "#c9bcac"
+      },
+      {
+        "src": "img/citadela_img9.webp",
+        "background": "#777955"
+      },
+      {
+        "src": "img/citadela_img10.webp",
+        "background": "#969891"
+      },
+      {
+        "src": "img/citadela_img11.webp",
+        "background": "#807f75"
+      },
+      {
+        "src": "img/citadela_img12.webp",
+        "background": "#90938e"
+      },
+      {
+        "src": "img/citadela_img13.webp",
+        "background": "#9b9c93"
+      },
+      {
+        "src": "img/citadela_img14.webp",
+        "background": "#93958f"
+      },
+      {
+        "src": "img/citadela_img15.webp",
+        "background": "#99988c"
+      },
+      {
+        "src": "img/citadela_img16.webp",
+        "background": "#c1baae"
+      },
+      {
+        "src": "img/citadela_img17.webp",
+        "background": "#c2b9ae"
+      }
+    ],
+    "filters": [
+      "urbanismus"
+    ]
+  },
+  {
+    "link": "cihelna",
+    "name": "obytná zóna cihelna",
+    "location": "pardubice",
+    "year": {
+      "text": "realizace",
+      "year": "2012"
+    },
+    "authors": [],
+    "text": [
+      "Obytná komplex se stavbou bytového domu, řadových a átriových rodinných domů. Zóna Cihelna je v krásném území nad slepým ramenem Labe, v dosahu města Pardubic a s výhled na Kunětickou horu."
+    ],
+    "cover": {
+      "src": "img/cihelna_Cover.webp",
+      "background": "#847776"
+    },
+    "images": [
+      {
+        "src": "img/cihelna_img1.webp",
+        "background": "#9c99a5"
+      },
+      {
+        "src": "img/cihelna_img2.webp",
+        "background": "#939cb2"
+      },
+      {
+        "src": "img/cihelna_img3.webp",
+        "background": "#9f9ba3"
+      },
+      {
+        "src": "img/cihelna_img4.webp",
+        "background": "#97979f"
+      },
+      {
+        "src": "img/cihelna_img5.webp",
+        "background": "#6c6d7c"
+      },
+      {
+        "src": "img/cihelna_img6.webp",
+        "background": "#99989e"
+      },
+      {
+        "src": "img/cihelna_img7.webp",
+        "background": "#6f6872"
+      },
+      {
+        "src": "img/cihelna_img8.webp",
+        "background": "#686670"
+      }
+    ],
+    "filters": [
+      "urbanismus"
+    ]
+  },
+  {
+    "link": "simkovy-sady",
+    "name": "šimkovy sady",
+    "location": "hradec králové",
+    "year": {
+      "text": "realizace",
+      "year": "2012-2014"
+    },
+    "authors": [
+      {
+        "position": "autor",
+        "people": [
+          "Pavel Zadrobílek, Vladimír Šolc"
+        ]
+      }
+    ],
+    "text": [],
+    "cover": {
+      "src": "img/simkovy-sady_Cover.webp",
+      "background": "#62664a"
+    },
+    "images": [
+      {
+        "src": "img/simkovy-sady_img1.webp",
+        "background": "#808681"
+      },
+      {
+        "src": "img/simkovy-sady_img2.webp",
+        "background": "#62664b"
+      },
+      {
+        "src": "img/simkovy-sady_img3.webp",
+        "background": "#75755d"
+      },
+      {
+        "src": "img/simkovy-sady_img4.webp",
+        "background": "#8f99a0"
+      },
+      {
+        "src": "img/simkovy-sady_img5.webp",
+        "background": "#85756c"
+      },
+      {
+        "src": "img/simkovy-sady_img6.webp",
+        "background": "#616457"
+      },
+      {
+        "src": "img/simkovy-sady_img7.webp",
+        "background": "#686d65"
+      },
+      {
+        "src": "img/simkovy-sady_img8.webp",
+        "background": "#605a4e"
+      },
+      {
+        "src": "img/simkovy-sady_img9.webp",
+        "background": "#50534e"
+      },
+      {
+        "src": "img/simkovy-sady_img10.webp",
+        "background": "#646b5b"
+      },
+      {
+        "src": "img/simkovy-sady_img11.webp",
+        "background": "#6a6758"
+      },
+      {
+        "src": "img/simkovy-sady_img12.webp",
+        "background": "#5e625e"
+      }
+    ],
+    "filters": [
+      "urbanismus"
+    ]
+  },
+  {
+    "link": "benesova-trida",
+    "name": "benešova třída",
+    "location": "hradec králové",
+    "year": {
+      "text": "realizace",
+      "year": "2012-2014"
+    },
+    "authors": [],
+    "text": [],
+    "cover": {
+      "src": "img/benesova-trida_Cover.webp",
+      "background": "#8a877b"
+    },
+    "images": [
+      {
+        "src": "img/benesova-trida_img1.webp",
+        "background": "#82897e"
+      },
+      {
+        "src": "img/benesova-trida_img2.webp",
+        "background": "#858986"
+      },
+      {
+        "src": "img/benesova-trida_img3.webp",
+        "background": "#8a867b"
+      },
+      {
+        "src": "img/benesova-trida_img4.webp",
+        "background": "#b2b3b5"
+      },
+      {
+        "src": "img/benesova-trida_img5.webp",
+        "background": "#83816d"
+      }
+    ],
+    "filters": [
+      "urbanismus"
+    ]
+  }
+]
