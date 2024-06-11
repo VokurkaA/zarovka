@@ -13,9 +13,9 @@ function Reviews() {
             </article>
             <div className='flex gap-4 flex-nowrap overflow-x-scroll pb-2'>
                 <Google />
-                <Quote author='Boris G.' text='S Žárovkou byla od začátku výborná spolupráce. S Katkou Novotnou a Maxem Vlčkem jsme byli celou dobu na stejné vlně - od architektonické studie až po návrhy interiéru. Oceňuji i zprostředkování kvalitních dodavatelů, kteří dokázali proměnit nápad v realitu.' />
+                <Quote author='Boris G.' text='S Žárovkou byla od začátku výborná spolupráce. S Katkou Novotnou a Maxem Vlčkem jsme byli celou dobu na stejné vlně - od architektonické studie až po návrhy interiéru. Oceňuji i zprostředkování kvalitních dodavatelů, kteří dokázali proměnit nápad v realitu.' />
                 <Facebook />
-                <Quote author='Michael Duben' text='Naše spolupráce začala v roce 2007, kdy jsme zadali k projektování rodinný dům na venkově. Celý průběh projektování a vytváření domu byl pro nás radost. Po této zkušenosti jsme neváhali a oslovili stejné architekty i v případě multifunkčního domu v Hradci Králové.' />
+                <Quote author='Michael Duben' text='Naše spolupráce začala v roce 2007, kdy jsme zadali k projektování rodinný dům na venkově. Celý průběh projektování a vytváření domu byl pro nás radost. Po této zkušenosti jsme neváhali a oslovili stejné architekty i v případě multifunkčního domu v Hradci Králové.' />
             </div>
         </div>
     )
