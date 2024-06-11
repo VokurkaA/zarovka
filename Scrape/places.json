@@ -1,0 +1,592 @@
+[
+  {
+    "link": "https://www.zarovkaarchitekti.cz/rodinny-dum-u-hracde-kralove/",
+    "name": "rodinný dům",
+    "place": "běleč",
+    "img": "https://4a56c30721.clvaw-cdnwnd.com/4d50fd536e022d82f6cf3da99799801d/200002070-a3094a3098/700/20_79_zarovka_architekti_hradec_kralove_rodinny_dum-5.webp?ph=4a56c30721",
+    "filter": [
+      "rodinne-domy"
+    ]
+  },
+  {
+    "link": "https://www.zarovkaarchitekti.cz/rd-vinary/",
+    "name": "přízemní rodiný dům",
+    "place": "vinary",
+    "img": "https://4a56c30721.clvaw-cdnwnd.com/4d50fd536e022d82f6cf3da99799801d/200002245-875df875e2/700/rodinny_dum_vinary_zarovka_architekti_hradec_kralove_26.webp?ph=4a56c30721",
+    "filter": [
+      "rodinne-domy"
+    ]
+  },
+  {
+    "link": "https://www.zarovkaarchitekti.cz/ctyri-domy/",
+    "name": "čtyři domy",
+    "place": "dolní morava",
+    "img": "https://4a56c30721.clvaw-cdnwnd.com/4d50fd536e022d82f6cf3da99799801d/200002214-e7030e7034/700/02%20odpoledne_07.webp?ph=4a56c30721",
+    "filter": [
+      "rodinne-domy"
+    ]
+  },
+  {
+    "link": "https://www.zarovkaarchitekti.cz/vila-nad-rekou/",
+    "name": "vila nad řekou",
+    "place": "nové město nad metují",
+    "img": "https://4a56c30721.clvaw-cdnwnd.com/4d50fd536e022d82f6cf3da99799801d/200002246-325a9325ac/700/Vila_nad_Metuji_zarovka_architekti%20%282%29.webp?ph=4a56c30721",
+    "filter": [
+      "rodinne-domy"
+    ]
+  },
+  {
+    "link": "https://www.zarovkaarchitekti.cz/rd-v-malsovicich/",
+    "name": "rodinný dům v malšovicích",
+    "place": "hradec králové",
+    "img": "https://4a56c30721.clvaw-cdnwnd.com/4d50fd536e022d82f6cf3da99799801d/200002244-5621a5621e/700/rodinny_dum_v_malsovicich_zarovka_architekti_hradec_kralove_05.webp?ph=4a56c30721",
+    "filter": [
+      "rodinne-domy"
+    ]
+  },
+  {
+    "link": "https://www.zarovkaarchitekti.cz/vila-trutnov/",
+    "name": "vila nad trutnovem",
+    "place": "trutnov",
+    "img": "https://4a56c30721.clvaw-cdnwnd.com/4d50fd536e022d82f6cf3da99799801d/200002118-cd208cd20b/700/02_zarovka_architekti_hradec_kralove_vila_nad_trutnovem-9.webp?ph=4a56c30721",
+    "filter": [
+      "rodinne-domy"
+    ]
+  },
+  {
+    "link": "https://www.zarovkaarchitekti.cz/rekonstrukce-vilky-z-pocatku-20-stoleti/",
+    "name": "rekonstrukce vilky ze 30. let",
+    "place": "hradec králové",
+    "img": "https://4a56c30721.clvaw-cdnwnd.com/4d50fd536e022d82f6cf3da99799801d/200002248-049a5049a9/700/DSC_0175%20%281%29.webp?ph=4a56c30721",
+    "filter": [
+      "rodinne-domy"
+    ]
+  },
+  {
+    "link": "https://www.zarovkaarchitekti.cz/rd-v-udoli/",
+    "name": "rodinný dům v údolí",
+    "place": "nové město nad metují",
+    "img": "https://4a56c30721.clvaw-cdnwnd.com/4d50fd536e022d82f6cf3da99799801d/200002247-0bdea0bded/700/rodinny_dum_nove_mesto_nad_metuji_zarovka_architekti%20%286%29-3.webp?ph=4a56c30721",
+    "filter": [
+      "rodinne-domy"
+    ]
+  },
+  {
+    "link": "https://www.zarovkaarchitekti.cz/roudnicka/",
+    "name": "rodinný dům",
+    "place": "roudnička",
+    "img": "https://4a56c30721.clvaw-cdnwnd.com/4d50fd536e022d82f6cf3da99799801d/200002250-3556235566/700/1-172.webp?ph=4a56c30721",
+    "filter": [
+      "rodinne-domy"
+    ]
+  },
+  {
+    "link": "https://www.zarovkaarchitekti.cz/rodinny-dum-na-brnenske/",
+    "name": "rodinný dům na brněnské",
+    "place": "hradec králové",
+    "img": "https://4a56c30721.clvaw-cdnwnd.com/4d50fd536e022d82f6cf3da99799801d/200002260-d1a1ad1a1e/700/DSCN2737.webp?ph=4a56c30721",
+    "filter": [
+      "rodinne-domy"
+    ]
+  },
+  {
+    "link": "https://www.zarovkaarchitekti.cz/nemosice/",
+    "name": "rodinný dům",
+    "place": "nemošice",
+    "img": "https://4a56c30721.clvaw-cdnwnd.com/4d50fd536e022d82f6cf3da99799801d/200002257-701c6701c9/700/7-19.webp?ph=4a56c30721",
+    "filter": [
+      "rodinne-domy"
+    ]
+  },
+  {
+    "link": "https://www.zarovkaarchitekti.cz/rd-cihelna/",
+    "name": "řadové domy cihelna",
+    "place": "pardubice",
+    "img": "https://4a56c30721.clvaw-cdnwnd.com/4d50fd536e022d82f6cf3da99799801d/200002251-436884368b/700/7.webp?ph=4a56c30721",
+    "filter": [
+      "rodinne-domy"
+    ]
+  },
+  {
+    "link": "https://www.zarovkaarchitekti.cz/svinary/",
+    "name": "rodinný dům",
+    "place": "svinary",
+    "img": "https://4a56c30721.clvaw-cdnwnd.com/4d50fd536e022d82f6cf3da99799801d/200002254-f138ef1391/700/3-4.webp?ph=4a56c30721",
+    "filter": [
+      "rodinne-domy"
+    ]
+  },
+  {
+    "link": "https://www.zarovkaarchitekti.cz/pod-dubem/",
+    "name": "rodinný  dům pod dubem",
+    "place": "pardubice",
+    "img": "https://4a56c30721.clvaw-cdnwnd.com/4d50fd536e022d82f6cf3da99799801d/200002256-98a1198a15/700/RODINN%C3%9D%20D%C5%AEM%20POD%20DUBEM-2.webp?ph=4a56c30721",
+    "filter": [
+      "rodinne-domy"
+    ]
+  },
+  {
+    "link": "https://www.zarovkaarchitekti.cz/jizni-svahy/",
+    "name": "rodinný dům jižní svahy",
+    "place": "hradec králové",
+    "img": "https://4a56c30721.clvaw-cdnwnd.com/4d50fd536e022d82f6cf3da99799801d/200002249-ded55ded59/700/004.webp?ph=4a56c30721",
+    "filter": [
+      "rodinne-domy"
+    ]
+  },
+  {
+    "link": "https://www.zarovkaarchitekti.cz/pod-vodarnou/",
+    "name": "rodinný dům u vodárny",
+    "place": "hradec králové",
+    "img": "https://4a56c30721.clvaw-cdnwnd.com/4d50fd536e022d82f6cf3da99799801d/200002253-ddf90ddf93/700/001.webp?ph=4a56c30721",
+    "filter": [
+      "rodinne-domy"
+    ]
+  },
+  {
+    "link": "https://www.zarovkaarchitekti.cz/malsova-lhota/",
+    "name": "rodinný dům",
+    "place": "malšova lhota",
+    "img": "https://4a56c30721.clvaw-cdnwnd.com/4d50fd536e022d82f6cf3da99799801d/200002258-9d3fe9d401/700/1-77.webp?ph=4a56c30721",
+    "filter": [
+      "rodinne-domy"
+    ]
+  },
+  {
+    "link": "https://www.zarovkaarchitekti.cz/pardubice/",
+    "name": "rodinný dům židov",
+    "place": "pardubice",
+    "img": "https://4a56c30721.clvaw-cdnwnd.com/4d50fd536e022d82f6cf3da99799801d/200002259-6b24f6b252/700/01.webp?ph=4a56c30721",
+    "filter": [
+      "rodinne-domy"
+    ]
+  },
+  {
+    "link": "https://www.zarovkaarchitekti.cz/vinicna/",
+    "name": "rodinný dům viničná",
+    "place": "hradec králové",
+    "img": "https://4a56c30721.clvaw-cdnwnd.com/4d50fd536e022d82f6cf3da99799801d/200002255-37b4737b4a/700/009.webp?ph=4a56c30721",
+    "filter": [
+      "rodinne-domy"
+    ]
+  },
+  {
+    "link": "https://www.zarovkaarchitekti.cz/rezidence-seydlerova/",
+    "name": "rezidence seydlerova",
+    "place": "hradec králové",
+    "img": "https://4a56c30721.clvaw-cdnwnd.com/4d50fd536e022d82f6cf3da99799801d/200002268-6888168884/700/DSC_0176-7.webp?ph=4a56c30721",
+    "filter": [
+      "obytne-domy"
+    ]
+  },
+  {
+    "link": "https://www.zarovkaarchitekti.cz/bytovy-dum-ludvik/",
+    "name": "bytový dům ludvík",
+    "place": "hradec králové",
+    "img": "https://4a56c30721.clvaw-cdnwnd.com/4d50fd536e022d82f6cf3da99799801d/200003613-838b3838b5/700/01-87.webp?ph=4a56c30721",
+    "filter": [
+      "obytne-domy"
+    ]
+  },
+  {
+    "link": "https://www.zarovkaarchitekti.cz/bytovy-dum-prazska-84/",
+    "name": "bytový dům pražská 84",
+    "place": "hradec králové",
+    "img": "https://4a56c30721.clvaw-cdnwnd.com/4d50fd536e022d82f6cf3da99799801d/200003645-10dcb10dcd/700/01_zarovka_architekti_hradec_kralove_bytovy_dum_prazska_84%20%286%29.webp?ph=4a56c30721",
+    "filter": [
+      "obytne-domy"
+    ]
+  },
+  {
+    "link": "https://www.zarovkaarchitekti.cz/stromovka/",
+    "name": "bytové domy stromovka",
+    "place": "hradec králové",
+    "img": "https://4a56c30721.clvaw-cdnwnd.com/4d50fd536e022d82f6cf3da99799801d/200002265-685f7685fa/700/039_stako_stromovka.webp?ph=4a56c30721",
+    "filter": [
+      "obytne-domy"
+    ]
+  },
+  {
+    "link": "https://www.zarovkaarchitekti.cz/bd-blodkova/",
+    "name": "rezidence blodkova",
+    "place": "hradec králové",
+    "img": "https://4a56c30721.clvaw-cdnwnd.com/4d50fd536e022d82f6cf3da99799801d/200002261-e4171e4174/700/IMG_0115.webp?ph=4a56c30721",
+    "filter": [
+      "obytne-domy"
+    ]
+  },
+  {
+    "link": "https://www.zarovkaarchitekti.cz/studentsky-ubytovaci-dum-malsovice/",
+    "name": "studentský ubytovací dům malšovice",
+    "place": "hradec králové",
+    "img": "https://4a56c30721.clvaw-cdnwnd.com/4d50fd536e022d82f6cf3da99799801d/200004067-067e3067e5/700/008_zarovka_architekti_hradec_kralove_ubytovaci_bytovy_dum_malsovice_vizualizace.webp?ph=4a56c30721",
+    "filter": [
+      "obytne-domy"
+    ]
+  },
+  {
+    "link": "https://www.zarovkaarchitekti.cz/cihelna/",
+    "name": "obytná zóna cihelna",
+    "place": "pardubice",
+    "img": "https://4a56c30721.clvaw-cdnwnd.com/4d50fd536e022d82f6cf3da99799801d/200002262-96ead96eb2/700/5.webp?ph=4a56c30721",
+    "filter": [
+      "obytne-domy"
+    ]
+  },
+  {
+    "link": "https://www.zarovkaarchitekti.cz/vsehrdova/",
+    "name": "bytový dům všehrdova",
+    "place": "hradec králové",
+    "img": "https://4a56c30721.clvaw-cdnwnd.com/4d50fd536e022d82f6cf3da99799801d/200002264-8251282516/700/3-3.webp?ph=4a56c30721",
+    "filter": [
+      "obytne-domy"
+    ]
+  },
+  {
+    "link": "https://www.zarovkaarchitekti.cz/na-strezine/",
+    "name": "bytové domy na střezině",
+    "place": "hradec králové",
+    "img": "https://4a56c30721.clvaw-cdnwnd.com/4d50fd536e022d82f6cf3da99799801d/200002263-91ff891ffc/700/6.webp?ph=4a56c30721",
+    "filter": [
+      "obytne-domy"
+    ]
+  },
+  {
+    "link": "https://www.zarovkaarchitekti.cz/interier-rd-belec/",
+    "name": "interiér rodinného domu",
+    "place": "běleč",
+    "img": "https://4a56c30721.clvaw-cdnwnd.com/4d50fd536e022d82f6cf3da99799801d/200002038-9e8209e823/700/06_18_zarovka_architekti_hradec_kralove_rodinny_dum-0.webp?ph=4a56c30721",
+    "filter": [
+      "interiery"
+    ]
+  },
+  {
+    "link": "https://www.zarovkaarchitekti.cz/rekonstrukce-obradni-sin-cernilov/",
+    "name": "obřadní síň",
+    "place": "černilov",
+    "img": "https://4a56c30721.clvaw-cdnwnd.com/4d50fd536e022d82f6cf3da99799801d/200002306-b6fcfb6fd4/700/42_kostel%20%C4%8Dernilov_zarovka%20architekti.webp?ph=4a56c30721",
+    "filter": [
+      "interiery"
+    ]
+  },
+  {
+    "link": "https://www.zarovkaarchitekti.cz/interier-bytu-vinohrady/",
+    "name": "byt na vinohradech",
+    "place": "praha",
+    "img": "https://4a56c30721.clvaw-cdnwnd.com/4d50fd536e022d82f6cf3da99799801d/200002305-ba206ba209/700/Interier_bytu_v_Praze_Vinohrady_zarovka_architekti003.webp?ph=4a56c30721",
+    "filter": [
+      "interiery"
+    ]
+  },
+  {
+    "link": "https://www.zarovkaarchitekti.cz/administrativni-budova-asseco/",
+    "name": "administrativní budova asseco solutions a.s.",
+    "place": "hradec králové",
+    "img": "https://4a56c30721.clvaw-cdnwnd.com/4d50fd536e022d82f6cf3da99799801d/200003724-bb11cbb11d/700/zarovka_architekti_hradec_kralove_administrativn%C3%AD_budova_kancelare_asseco%20%28106%29-1.webp?ph=4a56c30721",
+    "filter": [
+      "interiery"
+    ]
+  },
+  {
+    "link": "https://www.zarovkaarchitekti.cz/sin-slavy-fchk/",
+    "name": "síň slávy fchk",
+    "place": "hradec králové",
+    "img": "https://4a56c30721.clvaw-cdnwnd.com/4d50fd536e022d82f6cf3da99799801d/200004199-5889e588a1/700/03_zarovka_architekti_interier_sin_slavy_hradec_kralove.webp?ph=4a56c30721",
+    "filter": [
+      "interiery"
+    ]
+  },
+  {
+    "link": "https://www.zarovkaarchitekti.cz/simple-cafe/",
+    "name": "simle café",
+    "place": "hradec králové",
+    "img": "https://4a56c30721.clvaw-cdnwnd.com/4d50fd536e022d82f6cf3da99799801d/200002303-6d3e36d3e7/700/simple_cafe_kavarna_interier_zarovka_architekti_hradec_kralove_06-5.webp?ph=4a56c30721",
+    "filter": [
+      "interiery"
+    ]
+  },
+  {
+    "link": "https://www.zarovkaarchitekti.cz/optika-adamek/",
+    "name": "optika adámek",
+    "place": "hradec králové",
+    "img": "https://4a56c30721.clvaw-cdnwnd.com/4d50fd536e022d82f6cf3da99799801d/200002298-6fc736fc77/700/adamek_optika_interier_zarovka_architekti_hradec_kralove_01-9.webp?ph=4a56c30721",
+    "filter": [
+      "interiery"
+    ]
+  },
+  {
+    "link": "https://www.zarovkaarchitekti.cz/pivovarske-domy/",
+    "name": "restaurace pivovarské domy",
+    "place": "hradec králové",
+    "img": "https://4a56c30721.clvaw-cdnwnd.com/4d50fd536e022d82f6cf3da99799801d/200002297-9e4de9e4e1/700/pivovarske_domy_restaurace_interier_zarovka_architekti_hradec_kralove_04-9.webp?ph=4a56c30721",
+    "filter": [
+      "interiery"
+    ]
+  },
+  {
+    "link": "https://www.zarovkaarchitekti.cz/roudnicka2/",
+    "name": "interiér rodinného domu",
+    "place": "roudnička",
+    "img": "https://4a56c30721.clvaw-cdnwnd.com/4d50fd536e022d82f6cf3da99799801d/200002276-01f3501f38/700/DSC_0308-8.webp?ph=4a56c30721",
+    "filter": [
+      "interiery"
+    ]
+  },
+  {
+    "link": "https://www.zarovkaarchitekti.cz/dohledove-centrum/",
+    "name": "dohledové centrum",
+    "place": "hradec králové",
+    "img": "https://4a56c30721.clvaw-cdnwnd.com/4d50fd536e022d82f6cf3da99799801d/200002291-6cb286cb2b/700/DSC_0027.webp?ph=4a56c30721",
+    "filter": [
+      "interiery"
+    ]
+  },
+  {
+    "link": "https://www.zarovkaarchitekti.cz/laserove-centrum/",
+    "name": "laser centrum",
+    "place": "pardubice",
+    "img": "https://4a56c30721.clvaw-cdnwnd.com/4d50fd536e022d82f6cf3da99799801d/200002292-81a2381a27/700/9Y.webp?ph=4a56c30721",
+    "filter": [
+      "interiery"
+    ]
+  },
+  {
+    "link": "https://www.zarovkaarchitekti.cz/interier-rodinneho-domu-nemosice/",
+    "name": "interiér rodinného domu",
+    "place": "nemošice",
+    "img": "https://4a56c30721.clvaw-cdnwnd.com/4d50fd536e022d82f6cf3da99799801d/200002299-d8d9dd8da0/700/RODINN%C3%9D%20D%C5%AEM%20NEMO%C5%A0ICE%2001-1.webp?ph=4a56c30721",
+    "filter": [
+      "interiery"
+    ]
+  },
+  {
+    "link": "https://www.zarovkaarchitekti.cz/interier-v-roudnicce/",
+    "name": "interiér rodinného domu",
+    "place": "roudnička",
+    "img": "https://4a56c30721.clvaw-cdnwnd.com/4d50fd536e022d82f6cf3da99799801d/200002300-05abb05abf/700/10-3.webp?ph=4a56c30721",
+    "filter": [
+      "interiery"
+    ]
+  },
+  {
+    "link": "https://www.zarovkaarchitekti.cz/rozmarna/",
+    "name": "restaurace rozmarná",
+    "place": "praha",
+    "img": "https://4a56c30721.clvaw-cdnwnd.com/4d50fd536e022d82f6cf3da99799801d/200002293-64f7964f7c/700/7Y.webp?ph=4a56c30721",
+    "filter": [
+      "interiery"
+    ]
+  },
+  {
+    "link": "https://www.zarovkaarchitekti.cz/cook-look/",
+    "name": "bistro cook & look",
+    "place": "hradec králové",
+    "img": "https://4a56c30721.clvaw-cdnwnd.com/4d50fd536e022d82f6cf3da99799801d/200002289-c3409c340d/700/2-47.webp?ph=4a56c30721",
+    "filter": [
+      "interiery"
+    ]
+  },
+  {
+    "link": "https://www.zarovkaarchitekti.cz/interier-plotiste/",
+    "name": "interiér bytu v plotištích",
+    "place": "hradec králové - plotiště",
+    "img": "https://4a56c30721.clvaw-cdnwnd.com/4d50fd536e022d82f6cf3da99799801d/200002302-e6230e6235/700/1-38.webp?ph=4a56c30721",
+    "filter": [
+      "interiery"
+    ]
+  },
+  {
+    "link": "https://www.zarovkaarchitekti.cz/novy-pivovar/",
+    "name": "restaurace nový pivovar",
+    "place": "hradec králové",
+    "img": "https://4a56c30721.clvaw-cdnwnd.com/4d50fd536e022d82f6cf3da99799801d/200002296-5f3005f304/700/3-69.webp?ph=4a56c30721",
+    "filter": [
+      "interiery"
+    ]
+  },
+  {
+    "link": "https://www.zarovkaarchitekti.cz/bar-69/",
+    "name": "bar 69",
+    "place": "hradec králové",
+    "img": "https://4a56c30721.clvaw-cdnwnd.com/4d50fd536e022d82f6cf3da99799801d/200002290-eed6ceed70/700/4Y.webp?ph=4a56c30721",
+    "filter": [
+      "interiery"
+    ]
+  },
+  {
+    "link": "https://www.zarovkaarchitekti.cz/knihomol/",
+    "name": "kavárna u knihomola",
+    "place": "hradec králové",
+    "img": "https://4a56c30721.clvaw-cdnwnd.com/4d50fd536e022d82f6cf3da99799801d/200002294-6ee256ee28/700/13Y.webp?ph=4a56c30721",
+    "filter": [
+      "interiery"
+    ]
+  },
+  {
+    "link": "https://www.zarovkaarchitekti.cz/kozicka/",
+    "name": "restaurace kozička",
+    "place": "praha",
+    "img": "https://4a56c30721.clvaw-cdnwnd.com/4d50fd536e022d82f6cf3da99799801d/200002295-a4bada4bb0/700/1C.webp?ph=4a56c30721",
+    "filter": [
+      "interiery"
+    ]
+  },
+  {
+    "link": "https://www.zarovkaarchitekti.cz/hotel-aldis/",
+    "name": "hotel aldis",
+    "place": "hradec králové",
+    "img": "https://4a56c30721.clvaw-cdnwnd.com/4d50fd536e022d82f6cf3da99799801d/200003522-89f6889f6c/700/001_zarovka_architekti_hradec_kralove_hotel%20aldis%20exterier.webp?ph=4a56c30721",
+    "filter": [
+      "verejne-stavby",
+      "rekonstrukce"
+    ]
+  },
+  {
+    "link": "https://www.zarovkaarchitekti.cz/administrativni-budova-asseco/",
+    "name": "administrativní budova asseco",
+    "place": "hradec králové",
+    "img": "https://4a56c30721.clvaw-cdnwnd.com/4d50fd536e022d82f6cf3da99799801d/200003686-33a0a33a0c/700/zarovka_architekti_hradec_kralove_administrativn%C3%AD_budova_kancelare_asseco%20%28104%29.webp?ph=4a56c30721",
+    "filter": [
+      "verejne-stavby"
+    ]
+  },
+  {
+    "link": "https://www.zarovkaarchitekti.cz/vertikalni-hriste-s-vyhlidkou/",
+    "name": "vertikální hřiště s vyhlídkou",
+    "place": "hradec králové",
+    "img": "https://4a56c30721.clvaw-cdnwnd.com/4d50fd536e022d82f6cf3da99799801d/200003730-3138a3138c/700/DJI_0467_1a.webp?ph=4a56c30721",
+    "filter": [
+      "verejne-stavby"
+    ]
+  },
+  {
+    "link": "https://www.zarovkaarchitekti.cz/pristavba-levitova-centra-nasledne-pece/",
+    "name": "přístavba levitova centra následné péče",
+    "place": "hořice",
+    "img": "https://4a56c30721.clvaw-cdnwnd.com/4d50fd536e022d82f6cf3da99799801d/200003474-9444a9444c/700/zarovka_architekti_Ho%C5%99ice_p%C5%99%C3%ADstavba_nemocnice_Levitovo_centrum_n%C3%A1sledn%C3%A9_p%C3%A9%C4%8De%20%281%29-2.webp?ph=4a56c30721",
+    "filter": [
+      "verejne-stavby",
+      "rekonstrukce"
+    ]
+  },
+  {
+    "link": "https://www.zarovkaarchitekti.cz/michael-caffe-s-bytovymi-jednotkami/",
+    "name": "kávové centrum michael caffe s bytovými jednotkami",
+    "place": "hradec králové",
+    "img": "https://4a56c30721.clvaw-cdnwnd.com/4d50fd536e022d82f6cf3da99799801d/200003816-7e21b7e21e/700/zarovka_architekti_hradec_kralove_kavove_centrum_michael_caffe%20%281%29-3.webp?ph=4a56c30721",
+    "filter": [
+      "verejne-stavby"
+    ]
+  },
+  {
+    "link": "https://www.zarovkaarchitekti.cz/vinoteka-volarik/",
+    "name": "vinotéka volařík",
+    "place": "mikulov",
+    "img": "https://4a56c30721.clvaw-cdnwnd.com/4d50fd536e022d82f6cf3da99799801d/200002270-e66b8e66bb/700/DSC_0219.webp?ph=4a56c30721",
+    "filter": [
+      "verejne-stavby",
+      "rekonstrukce"
+    ]
+  },
+  {
+    "link": "https://www.zarovkaarchitekti.cz/laser-centrum/",
+    "name": "laser centrum",
+    "place": "pardubice",
+    "img": "https://4a56c30721.clvaw-cdnwnd.com/4d50fd536e022d82f6cf3da99799801d/200002271-24e9d24e9f/700/4-6.webp?ph=4a56c30721",
+    "filter": [
+      "verejne-stavby"
+    ]
+  },
+  {
+    "link": "https://www.zarovkaarchitekti.cz/veterina/",
+    "name": "veterinární klinika",
+    "place": "hradec králové",
+    "img": "https://4a56c30721.clvaw-cdnwnd.com/4d50fd536e022d82f6cf3da99799801d/200002269-ed05aed05e/700/2-7.webp?ph=4a56c30721",
+    "filter": [
+      "verejne-stavby"
+    ]
+  },
+  {
+    "link": "https://www.zarovkaarchitekti.cz/knihovna/",
+    "name": "knihovna",
+    "place": "hradec králové",
+    "img": "https://4a56c30721.clvaw-cdnwnd.com/4d50fd536e022d82f6cf3da99799801d/200002274-e2d76e2d79/700/5-1.webp?ph=4a56c30721",
+    "filter": [
+      "verejne-stavby",
+      "rekonstrukce"
+    ]
+  },
+  {
+    "link": "https://www.zarovkaarchitekti.cz/zalozni-zdroj-tepla/",
+    "name": "záložní zdroj tepla",
+    "place": "hradec králové",
+    "img": "https://4a56c30721.clvaw-cdnwnd.com/4d50fd536e022d82f6cf3da99799801d/200002272-383ae383b2/700/3x.webp?ph=4a56c30721",
+    "filter": [
+      "verejne-stavby",
+      "rekonstrukce"
+    ]
+  },
+  {
+    "link": "https://www.zarovkaarchitekti.cz/rekonstrukce-obradni-sin-cernilov/",
+    "name": "rekonstrukce interiéru obřadní síně",
+    "place": "černilov",
+    "img": "https://4a56c30721.clvaw-cdnwnd.com/4d50fd536e022d82f6cf3da99799801d/200002221-15f1715f1a/700/19_kostel%20%C4%8Dernilov_zarovka%20architekti.webp?ph=4a56c30721",
+    "filter": [
+      "rekonstrukce"
+    ]
+  },
+  {
+    "link": "https://www.zarovkaarchitekti.cz/administrativni-budova-asseco/",
+    "name": "rekonstrukce a přístavba administrativní budovy asseco",
+    "place": "hradec králové",
+    "img": "https://4a56c30721.clvaw-cdnwnd.com/4d50fd536e022d82f6cf3da99799801d/200003786-5088150883/700/TITULKA.webp?ph=4a56c30721",
+    "filter": [
+      "rekonstrukce"
+    ]
+  },
+  {
+    "link": "https://www.zarovkaarchitekti.cz/lokalita-aldis/",
+    "name": "lokalita aldis",
+    "place": "hradec králové",
+    "img": "https://4a56c30721.clvaw-cdnwnd.com/4d50fd536e022d82f6cf3da99799801d/200002190-67c0267c05/700/16.webp?ph=4a56c30721",
+    "filter": [
+      "urbanismus"
+    ]
+  },
+  {
+    "link": "https://www.zarovkaarchitekti.cz/citadela/",
+    "name": "citadela",
+    "place": "opatovice nad labem",
+    "img": "https://4a56c30721.clvaw-cdnwnd.com/4d50fd536e022d82f6cf3da99799801d/200003778-751f7751fa/700/nadhled%20celek.webp?ph=4a56c30721",
+    "filter": [
+      "urbanismus"
+    ]
+  },
+  {
+    "link": "https://www.zarovkaarchitekti.cz/cihelna/",
+    "name": "obytná zóna cihelna",
+    "place": "pardubice",
+    "img": "https://4a56c30721.clvaw-cdnwnd.com/4d50fd536e022d82f6cf3da99799801d/200002386-541285412c/700/DSC_0197.webp?ph=4a56c30721",
+    "filter": [
+      "urbanismus"
+    ]
+  },
+  {
+    "link": "https://www.zarovkaarchitekti.cz/simkovy-sady/",
+    "name": "šimkovy sady",
+    "place": "hradec králové",
+    "img": "https://4a56c30721.clvaw-cdnwnd.com/4d50fd536e022d82f6cf3da99799801d/200002407-e8e81e8e83/700/1395347_531114443638051_1004687282_n-3.webp?ph=4a56c30721",
+    "filter": [
+      "urbanismus"
+    ]
+  },
+  {
+    "link": "https://www.zarovkaarchitekti.cz/benesova-trida/",
+    "name": "benešova třída",
+    "place": "hradec králové",
+    "img": "https://4a56c30721.clvaw-cdnwnd.com/4d50fd536e022d82f6cf3da99799801d/200002409-2b6842b687/700/benesova_trida_hk_foto_%28c%29_tomas_maly_MG_3641a.webp?ph=4a56c30721",
+    "filter": [
+      "urbanismus"
+    ]
+  }
+]
