@@ -12,10 +12,12 @@ import NotFound from './pages/not found/NotFound';
 
 import Header from './components/header/Header';
 import Footer from './components/footer/Footer';
+import ScrollToTop from './components/ScrollToTop';
 
 function App() {
   return (
     <BrowserRouter>
+    <ScrollToTop/>
       <div className='flex flex-col min-h-svh'>
         <Header />
         <div className='flex-1'>
