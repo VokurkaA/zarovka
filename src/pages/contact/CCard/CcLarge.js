@@ -14,7 +14,7 @@ function CcLarge(personInfo) {
             </div>
             <div className='w-64'>
                 <p>{personInfo.mobile}</p>
-                <p>{personInfo.email}</p>
+                <a href={`mailto:${personInfo.email}`} >{personInfo.email}</a>
                 {
                     personInfo.ics != null ? (
                         <p>IČO {personInfo.ics}

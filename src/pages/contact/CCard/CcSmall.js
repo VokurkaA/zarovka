@@ -28,7 +28,7 @@ function CcSmall(personInfo) {
             </div>
             <div className={isExpanded ? 'flex-col space-y-2 mt-2' : 'hidden flex-col space-y-2 mt-2'}>
                 <div className='h-px w-full bg-text'></div>
-                <a href='mailto:email@email.com' className='flex flex-row items-center gap-1'>
+                <a href={`mailto:${personInfo.email}`} className='flex flex-row items-center gap-1'>
                     <Email color='background' />{personInfo.email}
                 </a>
                 <div className='flex flex-row items-center gap-1'>
