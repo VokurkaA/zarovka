@@ -1,6 +1,6 @@
 function LgGallery({ image, background, imageIndex, maxImageIndex, handleNextClick, setIsGalleryVisible, progressBar, setTouchStart, handleTouch }) {
     return (
-        <div id='gallery' className={`fixed z-50 h-svh w-svw bg-background/90`}>
+        <div id='gallery' className='fixed z-50 h-svh w-svw bg-background/70 backdrop-blur-sm'>
             <div className='absolute p-4'>
                 <span className='font-bold'>{imageIndex + 1}</span>
                 <span className='font-bold'>/</span>
@@ -21,7 +21,7 @@ function LgGallery({ image, background, imageIndex, maxImageIndex, handleNextCli
             <div className='absolute flex flex-row flex-nowrap gap-2 bottom-0 translate-x-1/2 right-1/2 p-4 z-10'>
                 {progressBar}
             </div>
-            <img className="absolute max-h-[95%] max-w-[95%] object-scale-down right-1/2 translate-x-1/2 -translate-y-1/2 top-1/2"
+            <img className="absolute max-h-[90%] max-w-[95%] object-scale-down right-1/2 translate-x-1/2 -translate-y-1/2 top-1/2"
                 style={{ backgroundColor: `${background}` }}
                 alt="missing"
                 src={image && image.src}
