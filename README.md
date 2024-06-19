@@ -1,70 +1,205 @@
-# Getting Started with Create React App
+<p align="center">
+  <a href="public\favicon.svg" rel="noopener">
+    <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Zarovka">
+  </a>
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h3 align="center">Žárovka</h3>
 
-## Available Scripts
+<div align="center">
 
-In the project directory, you can run:
+[![Status](https://img.shields.io/badge/status-active-success.svg)]()
+[![GitHub Issues](https://img.shields.io/github/issues/VokurkaA/zarovka.svg)](https://github.com/VokurkaA/zarovka/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/VokurkaA/zarovka.svg)](https://github.com/VokurkaA/zarovka/pulls)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
-### `npm start`
+</div>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<p align="center">
+  Žárovka is an architectonic website designed to showcase the work and profiles of architects. You can learn about the team, view their projects, and contact them for inquiries.
+</p>
 
-### `npm test`
+## 📝 Table of Contents
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- [About](#about)
+- [Getting Started](#getting_started)
+- [Deployment](#deployment)
+- [Usage](#usage)
+- [Built Using](#built_using)
+- [TODO](../TODO.md)
+- [Authors](#authors)
 
-### `npm run build`
+## 🧐 About <a name="about"></a>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Žárovka is a school project designed to showcase my work. It allows users to explore the team of architects, view their work, and contact them directly. The website is designed to provide a seamless and informative experience for anyone interested in architecture.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🏁 Getting Started <a name="getting_started"></a>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
 
-### `npm run eject`
+### Prerequisites
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Ensure you have the following installed:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- Node.js and npm
+- React
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Installing
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Clone the repository and navigate to the project directory:
 
-## Learn More
+```bash
+git clone https://github.com/VokurkaA/zarovka.git
+cd zarovka
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Install the dependencies:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```bash
+npm install
+```
 
-### Code Splitting
+Run the project:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+```bash
+npm start
+```
 
-### Analyzing the Bundle Size
+This will start the development server and you can view the project at `http://localhost:3000`.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## 🎈 Usage <a name="usage"></a>
 
-### Making a Progressive Web App
+After running the project, navigate to `http://localhost:3000` in your browser. You can explore the different sections of the website, including:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+- **About Us**: Learn about the team members.
+- **Projects**: View the architectural projects.
+- **Contact**: Get in touch with the team.
 
-### Advanced Configuration
+## 🚀 Deployment <a name="deployment"></a>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+To deploy the project on a live system, you can use platforms like Vercel, Netlify, or any other static site hosting service. The project is already configured for deployment with Vercel.
 
-### Deployment
+1. Commit all changes to your repository.
+2. Push to GitHub.
+3. Link your repository with your Vercel account and deploy.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+You can visit the live site at [Žárovka](https://zarovka.vercel.app/).
 
-### `npm run build` fails to minify
+## ⛏️ Built Using <a name="built_using"></a>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- [React](https://reactjs.org/) - Web Framework
+- [Node.js](https://nodejs.org/en/) - Server Environment
+- [Puppeteer](https://pptr.dev/) - Web Scraping (used in the Scrape part)
+- [Tailwind CSS](https://tailwindcss.com/) - CSS Framework
+- [Vercel](https://vercel.com/) - Hosting
+- Other npm packages as listed in `package.json`.
+
+## ✍️ Authors <a name="authors"></a>
+
+- [@VokurkaA](https://github.com/VokurkaA) - Website design and development.
+
+```
+Zarovka
+├─ .gitignore
+├─ package-lock.json
+├─ package.json
+├─ postcss.config.js
+├─ public
+│  ├─ favicon.svg
+│  ├─ index.html
+│  └─ robots.txt
+├─ README.md
+├─ Scrape
+│  ├─ data.json
+│  ├─ final.json
+│  ├─ GetLinks.js
+│  ├─ img
+│  ├─ Parse.js
+│  ├─ places.json
+│  ├─ Scrape.js
+│  └─ test.js
+├─ src
+│  ├─ App.js
+│  ├─ components
+│  │  ├─ footer
+│  │  │  ├─ Footer.js
+│  │  │  └─ ico
+│  │  │     ├─ email.js
+│  │  │     ├─ facebook.js
+│  │  │     └─ instagram.js
+│  │  ├─ header
+│  │  │  ├─ Header.js
+│  │  │  └─ ico
+│  │  │     ├─ cancel.js
+│  │  │     ├─ hamburger.js
+│  │  │     └─ logo.js
+│  │  └─ ScrollToTop.js
+│  ├─ i18n
+│  │  └─ index.js
+│  ├─ index.js
+│  ├─ locales
+│  │  ├─ cz
+│  │  │  └─ translation.json
+│  │  └─ en
+│  │     └─ translation.json
+│  ├─ output.css
+│  ├─ pages
+│  │  ├─ contact
+│  │  │  ├─ AboveFold.js
+│  │  │  ├─ CCard
+│  │  │  │  ├─ CcLarge.js
+│  │  │  │  └─ CcSmall.js
+│  │  │  ├─ Contact.js
+│  │  │  ├─ ContactInfo.js
+│  │  │  ├─ ico
+│  │  │  │  ├─ arrow.js
+│  │  │  │  ├─ close.js
+│  │  │  │  ├─ email.js
+│  │  │  │  ├─ icso.js
+│  │  │  │  ├─ phone.js
+│  │  │  │  └─ user.js
+│  │  │  └─ img
+│  │  │     └─ group.webp
+│  │  ├─ gallery
+│  │  │  ├─ AboveFold.js
+│  │  │  ├─ Gallery.js
+│  │  │  ├─ ico
+│  │  │  │  ├─ card.js
+│  │  │  │  ├─ chip.js
+│  │  │  │  ├─ dot.js
+│  │  │  │  ├─ dropDown.js
+│  │  │  │  ├─ home.js
+│  │  │  │  ├─ next.js
+│  │  │  │  └─ yearFilterChip.js
+│  │  │  ├─ img
+│  │  │  ├─ LgGallery.js
+│  │  │  ├─ places.json
+│  │  │  └─ Project.js
+│  │  ├─ home
+│  │  │  ├─ AboutUs.js
+│  │  │  ├─ AboveFold.js
+│  │  │  ├─ ContactUs.js
+│  │  │  ├─ Home.js
+│  │  │  ├─ ico
+│  │  │  │  ├─ facebook.js
+│  │  │  │  ├─ facebook_reviews.js
+│  │  │  │  ├─ google.js
+│  │  │  │  ├─ google_reviews.js
+│  │  │  │  ├─ quote.js
+│  │  │  │  └─ star.js
+│  │  │  ├─ img
+│  │  │  │  ├─ bgimg.webp
+│  │  │  │  ├─ house_1.webp
+│  │  │  │  └─ house_2.webp
+│  │  │  ├─ Reviews.js
+│  │  │  └─ WhyUs.js
+│  │  └─ not found
+│  │     ├─ FOF.js
+│  │     └─ NotFound.js
+│  ├─ people.info.json
+│  ├─ reportWebVitals.js
+│  └─ style.css
+└─ tailwind.config.js
+```
