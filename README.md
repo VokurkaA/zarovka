@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="public\favicon.svg" rel="noopener">
-    <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Zarovka">
+  <a href="https://zarovka.vercel.app/" rel="noopener">
+    <img width=200px height=200px src="public\favicon.svg" alt="Zarovka">
   </a>
 </p>
 
