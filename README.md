@@ -11,7 +11,6 @@
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
 [![GitHub Issues](https://img.shields.io/github/issues/VokurkaA/zarovka.svg)](https://github.com/VokurkaA/zarovka/issues)
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/VokurkaA/zarovka.svg)](https://github.com/VokurkaA/zarovka/pulls)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
 </div>
 
@@ -33,7 +32,7 @@
 
 ## 🧐 About <a name="about"></a>
 
-Žárovka is a school project designed to showcase my work. It allows users to explore the team of architects, view their work, and contact them directly. The website is designed to provide a seamless and informative experience for anyone interested in architecture.
+This website is a school project designed to showcase my work. It expands on the original website of Žárovka architekti and allows users to explore their team, view their work, and contact them directly. The website is designed to provide a seamless and informative experience for anyone interested.
 
 ## 🏁 Getting Started <a name="getting_started"></a>
 
