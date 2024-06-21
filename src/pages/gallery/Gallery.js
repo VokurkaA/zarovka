@@ -37,7 +37,7 @@ function Gallery() {
             </Helmet>
             <AboveFold />
             <div className="select-none p-4 px-8 md:px-12 lg:px-24">
-                <div className="flex gap-2 overflow-x-scroll nowrap pb-2 mt-2">
+                <div className="flex gap-2 overflow-x-auto nowrap pb-2 mt-2">
                     <YearFilterChip setFilterYear={setFilterYear} yearSpan={yearSpan} />
                     {filters.map(filter =>
                         <Chip key={filter} text={filter} isSelected={filterCategory === filter  } filterCategory={filterCategory} setFilterCategory={setFilterCategory} />
